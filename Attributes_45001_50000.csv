@@ -170,11 +170,11 @@
 45169,White,Short Updo,Black,None,Khaki Oxford with Tie,Dark-Wash Denim,Black Suede Chelseas with Brown Sole,Two Rings,None,Black Books,None,Black Smartphone
 45170,White,Long Afro,Black,None,Tan Blazer with Off-White Shirt and No Tie,Charcoal Slacks,Black Suede Chelseas with Brown Sole,None,None,Black Books,None,Black Leather Briefcase
 45171,White,Short Afro Fade,Light Brown,None,Red Longsleeve,Navy Slacks,Brown Leather Shoes with Laces,None,None,None,Stud Earring,None
-45172,,,,,,,,,,,,
-45173,,,,,,,,,,,,
-45174,,,,,,,,,,,,
-45175,,,,,,,,,,,,
-45176,,,,,,,,,,,,
+45172,White,Low Ponytail,Light Brown,None,Dark Gray Longsleeve,Charcoal Slacks,Black Leather Shoes with Laces,None,None,Silver Aviators,None,Brown Leather Briefcase
+45173,White,None,Light Brown,Goatee,Gray Blazer with Black Shirt and No Tie,Light-Wash Denim,White Leather Sneaker with Grey Sole,Two Rings,None,None,None,Lunchbox
+45174,White,Short Messy,Dark Brown,None,Dark Gray Cardigan with Tan Oxford Shirt,Gray Slacks,Brown Leather Shoes with Laces,None,None,None,None,Brown Leather Briefcase
+45175,White,Buzz Cut,Black,None,Gray Blazer with Black Shirt and No Tie,Charcoal Slacks,Black Leather Shoes with Laces,None,Tan Workers Cap,None,None,Brown Leather Briefcase
+45176,White,Short Afro Fade,Black,Stubble,Navy Blazer with Striped Shirt and No Tie,Light-Wash Denim,Black Suede Chelseas with Brown Sole,None,None,Black Books,None,Black Smartphone
 45177,White,Short Updo,Light Brown,None,Olive Oxford with Buttons,Navy Slacks,Black Suede Chelseas with Brown Sole,Two Rings,None,None,Stud Earring,None
 45178,White,Medium Curly Bob,Dark Brown,None,Khaki Oxford with Tie,Gray Slacks,Black Leather Shoes with Laces,Two Rings,None,None,None,Black Smartphone
 45179,White,Low Ponytail,Black,Goatee,Denim Jumpsuit,None,White Canvas Sneaker with White Sole,None,None,Black Books,None,Lunchbox
@@ -200,7 +200,7 @@
 45199,White,Medium Curly Bob,Blonde,None,Navy Oxford with Pocket,Charcoal Slacks,Brown Leather Shoes with Laces,None,None,Silver Aviators,None,Brown Leather Briefcase
 45200,White,Short Updo,Black,None,Navy Blazer with Striped Shirt and No Tie,Charcoal Slacks,White Canvas Sneaker with White Sole,None,None,None,None,Brown Leather Briefcase
 45201,White,Short Coil,Light Brown,None,Gray Oxford with Buttons,Navy Slacks,Brown Leather Shoes with Laces,None,None,Rosegold Aviators,None,Black Leather Briefcase
-45202,,,,,,,,,,,,
+45202,White,Short Afro Fade,Black,Thin,Gray Blazer with Black Shirt and Gray Tie,Light-Wash Denim,Brown Leather Shoes with Laces,None,None,None,None,None
 45203,White,Buzz Cut,Blonde,None,Navy Blazer with Striped Shirt and Navy Tie,Light-Wash Denim,Redbrown Leather Workboot with Brown Sole,None,Tan Workers Cap,None,None,Black Smartphone
 45204,White,Short Afro Fade,Light Grey,None,Denim Jumpsuit,None,Brown Leather Shoes with Laces,None,None,Rosegold Aviators,Stud Earring,Lunchbox
 45205,White,Updo Bun,Light Brown,None,Navy Oxford with Tie,Navy Slacks,Black Suede Chelseas with Brown Sole,Two Rings,None,None,None,Black Leather Briefcase
@@ -275,10 +275,10 @@
 45274,White,Long Afro,Black,None,Navy Jumpsuit,None,Black Suede Chelseas with Brown Sole,None,None,None,None,None
 45275,White,Short Afro Fade,Dark Brown,None,Dark Gray Longsleeve,Gray Slacks,Tan Suede Workboot with Tan Sole,Two Rings,None,None,None,Black Leather Briefcase
 45276,White,Straight Sideswept Fringe,Black,Stubble,Charcoal Blazer with Light Blue Shirt and No Tie,Khaki Slacks,Brown Leather Shoes with Laces,None,None,Black Books,None,None
-45277,,,,,,,,,,,,
-45278,,,,,,,,,,,,
-45279,,,,,,,,,,,,
-45280,,,,,,,,,,,,
+45277,White,Long Messy,Black,Goatee,Charcoal Blazer with Light Blue Shirt and No Tie,Khaki Slacks,Brown Leather Shoes with Laces,None,None,Black Books,None,None
+45278,White,None,Light Brown,None,Gray Oxford with Pocket,Gray Slacks,Tan Suede Workboot with Tan Sole,None,Tan Workers Cap,None,None,Lunchbox
+45279,White,Medium Curly Bob,Black,None,Khaki Oxford with Buttons,Navy Slacks,Black Leather Shoes with Laces,None,None,None,None,Black Smartphone
+45280,White,Short Afro Fade,Light Brown,None,Olive Oxford with Buttons,Dark-Wash Denim,Brown Leather Shoes with Laces,None,None,None,Stud Earring,Black Leather Briefcase
 45281,White,None,Dark Brown,None,Olive Oxford with Tie,Gray Slacks,White Canvas Sneaker with White Sole,None,None,Silver Aviators,None,Black Leather Briefcase
 45282,White,Straight Sideswept Fringe,Black,None,Khaki Jumpsuit,None,White Canvas Sneaker with White Sole,Two Rings,None,None,None,None
 45283,White,Short Coil,Dark Brown,None,Khaki Oxford with Buttons,Dark-Wash Denim,White Leather Sneaker with Grey Sole,None,None,None,None,None
@@ -461,18 +461,18 @@
 45460,White,Straight Sideswept Fringe,Light Grey,None,Light Gray Longsleeve,Charcoal Slacks,Brown Leather Shoes with Laces,None,None,Silver Aviators,None,None
 45461,White,Long Messy,Auburn,None,Gray Jumpsuit,None,Redbrown Leather Workboot with Brown Sole,None,None,Black Books,None,None
 45462,White,Long Messy,Black,None,Navy Oxford with Tie,Navy Slacks,White Canvas Sneaker with White Sole,None,None,Black Books,None,Black Smartphone
-45463,,,,,,,,,,,,
-45464,,,,,,,,,,,,
-45465,,,,,,,,,,,,
+45463,White,Medium Curly Bob,Black,None,Gray Oxford with Tie,Dark-Wash Denim,Tan Suede Workboot with Tan Sole,None,None,None,None,Brown Leather Briefcase
+45464,White,Buzz Cut,Black,Goatee,Denim Jumpsuit,None,Black Suede Chelseas with Brown Sole,Two Rings,None,None,None,Blue Lunchbox
+45465,White,Long Straight Bangs,Black,Goatee,Navy Blazer with Striped Shirt and Navy Tie,Light-Wash Denim,Tan Suede Workboot with Tan Sole,None,None,None,None,Brown Leather Briefcase
 45466,White,Buzz Cut,Light Brown,None,Navy Oxford with Tie,Navy Slacks,Brown Leather Shoes with Laces,None,Tan Workers Cap,None,Stud Earring,None
-45467,,,,,,,,,,,,
+45467,White,Updo Bun,Dark Brown,None,Light Gray Cardigan with Light Gray Oxford Shirt,Gray Slacks,White Leather Sneaker with Grey Sole,None,None,None,None,None
 45468,White,Short Afro Fade,Black,Thin,Gray Blazer with Black Shirt and Gray Tie,Light-Wash Denim,Brown Leather Shoes with Laces,None,None,None,None,None
 45469,White,Short Pixie,Black,Mustache,Light Gray Longsleeve,Dark-Wash Denim,Black Suede Chelseas with Brown Sole,Two Rings,None,None,Stud Earring,Black Leather Briefcase
 45470,White,Short Pixie,Light Grey,None,Olive Cardigan with Beige Oxford Shirt,Navy Slacks,Brown Leather Shoes with Laces,None,None,Silver Aviators,None,Lunchbox
 45471,White,Straight Sideswept Fringe,Dark Brown,None,Navy Blazer with Striped Shirt and No Tie,Gray Slacks,White Leather Sneaker with Grey Sole,None,None,None,None,Black Smartphone
 45472,White,Short Coil,Light Brown,None,Dark Gray Longsleeve,Light-Wash Denim,Black Suede Chelseas with Brown Sole,None,None,None,None,Black Leather Briefcase
 45473,White,Short Pixie,Blonde,None,Olive Oxford with Tie and Pocket,Gray Slacks,White Canvas Sneaker with White Sole,None,None,None,None,Black Leather Briefcase
-45474,,,,,,,,,,,,
+45474,White,Medium Curly Bob,Dark Brown,Stubble,Navy Blazer with Striped Shirt and Navy Tie,Navy Slacks,Brown Leather Shoes with Laces,None,None,None,None,None
 45475,White,Straight Sideswept Fringe,Black,Goatee,Khaki Oxford with Buttons,Khaki,Tan Suede Workboot with Tan Sole,Two Rings,None,None,None,None
 45476,White,Long Afro,Black,None,Olive Oxford with Tie,Dark-Wash Denim,Brown Leather Shoes with Laces,Two Rings,None,Black Books,Stud Earring,Brown Leather Briefcase
 45477,White,Short Pixie,Black,None,Tan Blazer with Off-White Shirt and Tan Tie,Gray Slacks,Black Leather Shoes with Laces,None,None,Rosegold Aviators,None,None
@@ -656,10 +656,10 @@
 45655,White,Medium Curly Bob,Dark Brown,Mustache,Navy Blazer with Striped Shirt and No Tie,Navy Slacks,Brown Leather Shoes with Laces,None,None,Black Books,None,None
 45656,White,None,Black,None,Tan Blazer with Off-White Shirt and Tan Tie,Blue Denim,Black Leather Shoes with Laces,Two Rings,Navy Blue Workers Cap,None,Stud Earring,Lunchbox
 45657,White,Short Coil,Black,Mustache,Denim Jumpsuit,None,Tan Suede Workboot with Tan Sole,None,None,None,None,None
-45658,,,,,,,,,,,,
-45659,,,,,,,,,,,,
-45660,,,,,,,,,,,,
-45661,,,,,,,,,,,,
+45658,White,None,Black,Beard,Navy Blazer with Striped Shirt and No Tie,Navy Slacks,Brown Leather Shoes with Laces,None,None,Silver Aviators,None,None
+45659,White,Medium Curly Bob,Black,None,Olive Oxford with Buttons,Gray Slacks,Black Suede Chelseas with Brown Sole,None,None,Black Books,None,None
+45660,White,Straight Sideswept Fringe,Dark Brown,None,Gray Oxford with Buttons,Navy Slacks,Redbrown Leather Workboot with Brown Sole,None,None,None,None,Brown Leather Briefcase
+45661,White,Short Afro Fade,Black,None,Olive Oxford with Pocket,Blue Denim,Tan Suede Workboot with Tan Sole,Two Rings,None,None,None,Lunchbox
 45662,White,Long Messy,Black,Goatee,Charcoal Blazer with Light Blue Shirt and No Tie,Khaki Slacks,Brown Leather Shoes with Laces,None,None,Black Books,None,None
 45663,White,Short Updo,Light Grey,None,Dark Gray Longsleeve,Light-Wash Denim,Black Leather Shoes with Laces,None,None,None,None,None
 45664,White,Short Messy,Black,None,Charcoal Blazer with Light Blue Shirt and Black Tie,Charcoal Slacks,Tan Suede Workboot with Tan Sole,None,None,None,None,Brown Leather Briefcase
@@ -822,14 +822,14 @@
 45821,White,Short Pixie,Light Brown,Goatee,Charcoal Blazer with Light Blue Shirt and Black Tie,Charcoal Slacks,Redbrown Leather Workboot with Brown Sole,None,None,None,None,Black Leather Briefcase
 45822,White,Short Pixie,Black,None,Khaki Oxford with Buttons,Light-Wash Denim,Black Suede Chelseas with Brown Sole,None,None,None,Stud Earring,None
 45823,White,Low Ponytail,Light Brown,None,Charcoal Blazer with Light Blue Shirt and No Tie,Light-Wash Denim,White Leather Sneaker with Grey Sole,None,None,None,None,Lunchbox
-45824,,,,,,,,,,,,
+45824,White,Short Messy,Light Grey,None,Tan Blazer with Off-White Shirt and No Tie,Khaki Slacks,Black Suede Chelseas with Brown Sole,None,None,Silver Aviators,None,Black Smartphone
 45825,White,Updo Bun,Light Brown,None,Gray Jumpsuit,None,Redbrown Leather Workboot with Brown Sole,None,None,None,None,Black Leather Briefcase
 45826,White,Short Pixie,Dark Brown,Stubble,Navy Oxford with Buttons,Khaki,Tan Suede Workboot with Tan Sole,None,None,None,Stud Earring,Blue Lunchbox
 45827,White,Long Messy,Dark Brown,None,Olive Cardigan with Light Gray Oxford Shirt,Khaki,Brown Leather Shoes with Laces,None,None,None,None,Black Leather Briefcase
 45828,White,Short Pixie,Light Brown,None,Light Gray Longsleeve,Charcoal Slacks,Black Leather Shoes with Laces,None,None,None,None,Lunchbox
 45829,White,Buzz Cut,Light Grey,None,Navy Oxford with Pocket,Dark-Wash Denim,White Leather Sneaker with Grey Sole,None,Tan Workers Cap,None,Stud Earring,None
 45830,White,Long Messy,Light Brown,None,Olive Oxford with Buttons,Navy Slacks,White Leather Sneaker with Grey Sole,None,None,None,None,None
-45831,,,,,,,,,,,,
+45831,White,Low Ponytail,Light Grey,Stubble,Red Longsleeve,Charcoal Slacks,Redbrown Leather Workboot with Brown Sole,Two Rings,None,Black Books,None,Brown Leather Briefcase
 45832,White,Straight Sideswept Fringe,Dark Brown,None,Tan Blazer with Off-White Shirt and Tan Tie,Khaki Slacks,White Canvas Sneaker with White Sole,None,None,Silver Aviators,None,Brown Leather Briefcase
 45833,White,None,Light Brown,None,Navy Jumpsuit,None,Black Leather Shoes with Laces,None,Purple Workers Cap,Black Books,None,Brown Leather Briefcase
 45834,White,Short Coil,Light Brown,None,Blue Longsleeve,Khaki,Black Leather Shoes with Laces,None,None,None,None,Black Smartphone
@@ -1177,7 +1177,7 @@
 46176,White,Buzz Cut,Light Brown,Stubble,Gray Blazer with Black Shirt and Gray Tie,Khaki Slacks,Black Suede Chelseas with Brown Sole,None,Tan Workers Cap,Black Books,None,None
 46177,White,Medium Curly Bob,Blonde,None,Navy Oxford with Tie and Pocket,Charcoal Slacks,Tan Suede Workboot with Tan Sole,None,None,Black Books,None,Black Smartphone
 46178,White,Short Updo,Blonde,None,Charcoal Blazer with Light Blue Shirt and Black Tie,Navy Slacks,Black Leather Shoes with Laces,None,None,Black Books,None,None
-46179,,,,,,,,,,,,
+46179,White,Medium Curly Bob,Blonde,Stubble,Gray Blazer with Black Shirt and Gray Tie,Dark-Wash Denim,Redbrown Leather Workboot with Brown Sole,None,None,None,None,Black Smartphone
 46180,White,Medium Curly Bob,Black,None,Charcoal Blazer with Light Blue Shirt and Black Tie,Charcoal Slacks,Black Leather Shoes with Laces,None,None,None,None,None
 46181,White,Short Afro Fade,Blonde,None,Blue Longsleeve,Charcoal Slacks,Tan Suede Workboot with Tan Sole,None,None,None,None,Brown Leather Briefcase
 46182,White,Long Messy,Black,Thin,Charcoal Blazer with Light Blue Shirt and Black Tie,Khaki,White Canvas Sneaker with White Sole,None,None,Black Books,None,Black Smartphone
@@ -1658,7 +1658,7 @@
 46657,White,Long Messy,Light Brown,None,Navy Jumpsuit,None,White Canvas Sneaker with White Sole,None,None,None,None,Black Smartphone
 46658,White,Short Afro Fade,Light Brown,None,Dark Gray Longsleeve,Light-Wash Denim,Black Suede Chelseas with Brown Sole,None,None,None,None,None
 46659,White,Short Afro Fade,Light Brown,Mustache,Khaki Oxford with Buttons,Khaki Slacks,Brown Leather Shoes with Laces,None,None,Black Books,None,Black Leather Briefcase
-46660,,,,,,,,,,,,
+46660,White,Short Updo,Light Brown,None,Olive Oxford with Tie,Charcoal Slacks,Brown Leather Shoes with Laces,None,None,Black Books,None,Black Leather Briefcase
 46661,White,Low Ponytail,Dark Brown,None,Gray Oxford with Pocket,Khaki,Black Leather Shoes with Laces,None,None,None,None,Black Leather Briefcase
 46662,White,Short Coil,Black,Thin,Blue Longsleeve,Dark-Wash Denim,White Leather Sneaker with Grey Sole,None,None,None,Stud Earring,Brown Leather Briefcase
 46663,White,Straight Sideswept Fringe,Dark Brown,Stubble,Navy Oxford with Buttons,Khaki Slacks,Tan Suede Workboot with Tan Sole,None,None,None,None,None
@@ -1806,7 +1806,7 @@
 46805,White,None,Blonde,None,Light Gray Longsleeve,Charcoal Slacks,Brown Leather Shoes with Laces,None,Tan Workers Cap,None,None,Black Smartphone
 46806,White,Buzz Cut,Blonde,None,Light Gray Cardigan with Light Gray Longsleeve Shirt,Gray Slacks,Brown Leather Shoes with Laces,None,None,None,None,Lunchbox
 46807,White,Long Messy,Light Brown,None,Olive Cardigan with Tan Oxford Shirt,Charcoal Slacks,Black Leather Shoes with Laces,None,None,None,None,None
-46808,,,,,,,,,,,,
+46808,White,Buzz Cut,Black,None,Gray Blazer with Black Shirt and No Tie,Charcoal Slacks,Black Leather Shoes with Laces,None,Tan Workers Cap,None,None,Brown Leather Briefcase
 46809,White,None,Black,Thin,Navy Blazer with Striped Shirt and No Tie,Gray Slacks,Redbrown Leather Workboot with Brown Sole,None,Tan Workers Cap,Black Books,None,None
 46810,White,Long Straight Bangs,Black,Thin,Khaki Oxford with Tie and Pocket,Blue Denim,White Leather Sneaker with Grey Sole,None,None,None,None,Brown Leather Briefcase
 46811,White,Long Afro,Dark Brown,Stubble,Red Longsleeve,Khaki Slacks,Redbrown Leather Workboot with Brown Sole,None,None,None,None,Blue Lunchbox
@@ -2278,7 +2278,7 @@
 47277,White,Updo Bun,Blonde,None,Gray Blazer with Black Shirt and Gray Tie,Gray Slacks,Black Suede Chelseas with Brown Sole,None,None,None,None,Black Smartphone
 47278,White,Buzz Cut,Light Brown,None,Khaki Oxford with Pocket,Dark-Wash Denim,Black Leather Shoes with Laces,None,Purple Workers Cap,Black Books,Stud Earring,Lunchbox
 47279,White,Straight Sideswept Fringe,Auburn,None,Light Gray Cardigan with Light Gray Oxford Shirt,Light-Wash Denim,White Leather Sneaker with Grey Sole,None,None,None,None,None
-47280,,,,,,,,,,,,
+47280,White,Updo Bun,Light Brown,None,Olve Cardigan with Tan Longsleeve Shirt,Navy Slacks,White Canvas Sneaker with White Sole,Two Rings,None,None,None,Brown Leather Briefcase
 47281,White,Medium Curly Bob,Blonde,Goatee,Khaki Oxford with Tie,Navy Slacks,White Canvas Sneaker with White Sole,None,None,Black Books,None,Brown Leather Briefcase
 47282,White,None,Light Brown,None,Navy Oxford with Buttons,Navy Slacks,Redbrown Leather Workboot with Brown Sole,None,Tan Workers Cap,None,None,Blue Lunchbox
 47283,White,Short Pixie,Black,None,Dark Gray Longsleeve,Gray Slacks,Brown Leather Shoes with Laces,None,None,None,None,Black Smartphone
@@ -2862,7 +2862,7 @@
 47861,White,Low Ponytail,Light Grey,None,Navy Oxford with Buttons,Charcoal Slacks,Brown Leather Shoes with Laces,Two Rings,None,None,None,Light Blue Smartphone
 47862,White,Short Coil,Light Grey,None,Navy Oxford with Pocket,Blue Denim,Black Leather Shoes with Laces,None,None,None,None,None
 47863,White,Short Messy,Light Grey,None,Khaki Oxford with Tie and Pocket,Charcoal Slacks,White Leather Sneaker with Grey Sole,None,None,None,None,Black Leather Briefcase
-47864,,,,,,,,,,,,
+47864,White,Straight Sideswept Fringe,Black,None,Gray Oxford with Tie,Charcoal Slacks,White Canvas Sneaker with White Sole,Two Rings,None,None,None,None
 47865,White,Straight Sideswept Fringe,Auburn,None,Dark Gray Longsleeve,Khaki Slacks,Tan Suede Workboot with Tan Sole,None,None,None,None,None
 47866,White,Short Coil,Black,None,Blue Longsleeve,Light-Wash Denim,Tan Suede Workboot with Tan Sole,None,None,None,None,Brown Leather Briefcase
 47867,White,Long Afro,Dark Brown,None,Navy Blazer with Striped Shirt and No Tie,Khaki Slacks,White Leather Sneaker with Grey Sole,Two Rings,None,None,None,Black Leather Briefcase
@@ -4066,7 +4066,7 @@
 49065,White,Short Afro Fade,Black,None,Light Gray Cardigan with Light Gray Longsleeve Shirt,Light-Wash Denim,Brown Leather Shoes with Laces,None,None,None,None,None
 49066,White,Buzz Cut,Black,None,Dark Gray Longsleeve,Khaki,Tan Suede Workboot with Tan Sole,None,Tan Workers Cap,None,None,None
 49067,White,Straight Sideswept Fringe,Dark Brown,None,Light Gray Longsleeve,Charcoal Slacks,Tan Suede Workboot with Tan Sole,None,None,None,None,None
-49068,,,,,,,,,,,,
+49068,White,Low Ponytail,Dark Brown,None,Light Gray Longsleeve,Dark-Wash Denim,Black Suede Chelseas with Brown Sole,None,None,Silver Aviators,None,Black Leather Briefcase
 49069,White,Short Pixie,Auburn,Thin,Navy Blazer with Striped Shirt and No Tie,Navy Slacks,Tan Suede Workboot with Tan Sole,None,None,None,None,None
 49070,White,Buzz Cut,Light Brown,None,Navy Oxford with Pocket,Gray Slacks,Brown Leather Shoes with Laces,None,Tan Workers Cap,None,None,None
 49071,White,Medium Curly Bob,Light Grey,Stubble,Gray Oxford with Pocket,Navy Slacks,White Canvas Sneaker with White Sole,None,None,None,None,Lunchbox
