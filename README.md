@@ -21,7 +21,9 @@ Thanks for reading this and I hope this information is useful
 
 ```
 
-You can change the pull count in GetRarityFromAll.ipynb.  Ranking is using the Rarity ranking method - https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c
+You can change the pull count in GetRarityFromAll.ipynb.  
+Ranking is using the Rarity ranking method - 
+https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c
 
 Top 25
        rankingID  niftyID     rarity
