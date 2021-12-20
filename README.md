@@ -15,6 +15,7 @@ Lastly, if you find this information useful then buy me a coffee @ vinceherrin.e
 
 Thanks for reading this and I hope this information is useful 
 
+Rarity ranking calculation article [Ranking Rarity: Understanding Rarity Calculation Methods](https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c).
 
 
 ## Metrics
@@ -22,8 +23,8 @@ Thanks for reading this and I hope this information is useful
 ```
 
 You can change the pull count in GetRarityFromAll.ipynb.  
-Ranking is using the Rarity ranking method - 
-https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c
+Ranking is using the Rarity ranking method described in the 
+article listed above
 
 Top 25
        rankingID  niftyID     rarity
