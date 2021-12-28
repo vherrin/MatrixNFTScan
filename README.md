@@ -18,391 +18,582 @@ Thanks for reading this and I hope this information is useful
 Rarity ranking calculation article [Ranking Rarity: Understanding Rarity Calculation Methods](https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c).
 
 
-## Metrics
+# Metrics
 
-```
+Please note that I'm using two different methods for calculating rarity with one using rarity-tools link above and the other is multiplication method 
+</br>
+</br>
+## Addition Method:
+</br>
+Rarity Score for a Trait Value = 1 / (Number of Items with that Trait Value / Total Number of Items in Collection)
 
-You can change the pull count in GetRarityFromAll.ipynb.  
-Ranking is using the Rarity ranking method described in the 
-article listed above
+The total Rarity Score for an NFT is the sum of the Rarity Score of all of it’s trait values.
+</br>
+</br>
+## Multiplication Method:
+</br>
+Rarity Score for a Trait Value = √√ (1 / (Number of Items with that Trait Value / Total Number of Items in Collection))
+</br>
+</br>
 
-Top 25
-       rankingID  niftyID     rarity
-               1    11621  11753.500
-               2    29795   6971.444
-               3    63467   6745.087
-               4    86373   6663.687
-               5    53836   6616.759
-               6    49110   6605.011
-               7    83101   6597.546
-               8    68770   6582.487
-               9     5135   6553.885
-              10    22889   6517.527
-              11     2942   6512.232
-              12    93728   6506.497
-              13    38379   6505.447
-              14    63775   6500.603
-              15      750   6488.856
-              16    17313   5614.408
-              17    39591   5272.704
-              18    81747   5254.856
-              19    52344   5216.025
-              20    74825   5211.553
-              21    48223   5207.643
-              22     1367   5198.539
-              23    26797   5184.565
-              24    58945   5172.361
-              25    93679   5166.613
+## Full 100k listings
+- [Sorted by Nifty ID using addition method](./full_a_sorted_niftyID.html) </br>
+- [Sorted by Ranking ID using addition method](./full_a_sorted_rankingID.html) </br>
+- [Sorted by Nifty ID using multiplication method](./full_m_sorted_niftyID.html) </br>
+- [Sorted by Ranking ID using multiplication method](./full_m_sorted_rankingID.html) </br>
 
+</br>
 
-Bottom 25 please note reverse order listing
+ ### Top 25 (rarity using addition)
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">aRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>11621</td>
+      <td>11526.5988</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>29795</td>
+      <td>6988.4026</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>63467</td>
+      <td>6760.9120</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>86373</td>
+      <td>6679.5724</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>53836</td>
+      <td>6632.4023</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>49110</td>
+      <td>6620.8614</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>83101</td>
+      <td>6613.3474</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>68770</td>
+      <td>6598.3764</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>5135</td>
+      <td>6569.6922</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>22889</td>
+      <td>6533.3190</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2942</td>
+      <td>6528.0594</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>93728</td>
+      <td>6522.2826</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>38379</td>
+      <td>6521.2416</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>63775</td>
+      <td>6516.4288</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>750</td>
+      <td>6504.6630</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>17313</td>
+      <td>5372.9618</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>81747</td>
+      <td>5265.4597</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>47263</td>
+      <td>5119.1217</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>39591</td>
+      <td>5030.0987</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>62311</td>
+      <td>4980.3959</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>44625</td>
+      <td>4976.4545</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>37120</td>
+      <td>4973.3525</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>52344</td>
+      <td>4973.3503</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>59977</td>
+      <td>4971.2298</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>74825</td>
+      <td>4968.8889</td>
+    </tr>
+  </tbody>
+</table></br>
 
-       rankingID  niftyID  rarity
-           96697    15504  29.487
-           96696    29479  29.895
-           96695    70646  29.937
-           96694    88333  30.279
-           96693    23442  30.813
-           96692     1189  31.476
-           96691    12840  31.495
-           96690      471  31.534
-           96689    31021  31.579
-           96688    69174  31.795
-           96687    67863  32.138
-           96686    22942  32.176
-           96685    57198  32.263
-           96684    12197  32.301
-           96683    94080  32.388
-           96682    94640  32.791
-           96681    17248  32.791
-           96680     2654  32.905
-           96679    53827  33.029
-           96678    30386  33.180
-           96677    84020  33.219
-           96676    16765  33.342
-           96675    89747  33.517
-           96674    59463  33.710
-           96673    38555  33.720
+### Bottom 25 (rarity using addition)
 
+Please notice the reverse order  <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">aRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>96934</td>
+      <td>15504</td>
+      <td>29.4959</td>
+    </tr>
+    <tr>
+      <td>96933</td>
+      <td>29479</td>
+      <td>29.9026</td>
+    </tr>
+    <tr>
+      <td>96932</td>
+      <td>70646</td>
+      <td>29.9415</td>
+    </tr>
+    <tr>
+      <td>96931</td>
+      <td>88333</td>
+      <td>30.2892</td>
+    </tr>
+    <tr>
+      <td>96930</td>
+      <td>23442</td>
+      <td>30.8032</td>
+    </tr>
+    <tr>
+      <td>96929</td>
+      <td>1189</td>
+      <td>31.4783</td>
+    </tr>
+    <tr>
+      <td>96928</td>
+      <td>12840</td>
+      <td>31.5034</td>
+    </tr>
+    <tr>
+      <td>96927</td>
+      <td>471</td>
+      <td>31.5437</td>
+    </tr>
+    <tr>
+      <td>96926</td>
+      <td>31021</td>
+      <td>31.5863</td>
+    </tr>
+    <tr>
+      <td>96925</td>
+      <td>69174</td>
+      <td>31.8040</td>
+    </tr>
+    <tr>
+      <td>96924</td>
+      <td>67863</td>
+      <td>32.1306</td>
+    </tr>
+    <tr>
+      <td>96923</td>
+      <td>22942</td>
+      <td>32.1806</td>
+    </tr>
+    <tr>
+      <td>96922</td>
+      <td>57198</td>
+      <td>32.2735</td>
+    </tr>
+    <tr>
+      <td>96921</td>
+      <td>12197</td>
+      <td>32.3123</td>
+    </tr>
+    <tr>
+      <td>96920</td>
+      <td>94080</td>
+      <td>32.3793</td>
+    </tr>
+    <tr>
+      <td>96919</td>
+      <td>94640</td>
+      <td>32.8031</td>
+    </tr>
+    <tr>
+      <td>96918</td>
+      <td>17248</td>
+      <td>32.8031</td>
+    </tr>
+    <tr>
+      <td>96917</td>
+      <td>2654</td>
+      <td>32.8992</td>
+    </tr>
+    <tr>
+      <td>96916</td>
+      <td>53827</td>
+      <td>33.0421</td>
+    </tr>
+    <tr>
+      <td>96915</td>
+      <td>30386</td>
+      <td>33.1726</td>
+    </tr>
+    <tr>
+      <td>96914</td>
+      <td>84020</td>
+      <td>33.2129</td>
+    </tr>
+    <tr>
+      <td>96913</td>
+      <td>16765</td>
+      <td>33.3539</td>
+    </tr>
+    <tr>
+      <td>96912</td>
+      <td>89747</td>
+      <td>33.5265</td>
+    </tr>
+    <tr>
+      <td>96911</td>
+      <td>59463</td>
+      <td>33.7038</td>
+    </tr>
+    <tr>
+      <td>96910</td>
+      <td>38555</td>
+      <td>33.7288</td>
+    </tr>
+  </tbody>
+</table></br>  </br>
 
-Empty Count =  3303 out of 100,000
+ ### Top 25 (rarity using multiplication)
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">mRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>11621</td>
+      <td>4700.1846</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>81747</td>
+      <td>3956.9145</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>47263</td>
+      <td>1410.4392</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>37120</td>
+      <td>1020.4555</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>74532</td>
+      <td>926.6603</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>33380</td>
+      <td>909.4168</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>46837</td>
+      <td>831.1293</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>74825</td>
+      <td>807.2481</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>17313</td>
+      <td>801.4360</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>69912</td>
+      <td>785.0074</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>43530</td>
+      <td>780.6974</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>39591</td>
+      <td>751.3014</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>49110</td>
+      <td>745.6505</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>5311</td>
+      <td>726.1983</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>62769</td>
+      <td>722.3062</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>10200</td>
+      <td>702.9221</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>26019</td>
+      <td>701.4431</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>44766</td>
+      <td>701.3217</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>1367</td>
+      <td>694.3080</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>29795</td>
+      <td>671.1420</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>53215</td>
+      <td>668.0605</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>83101</td>
+      <td>664.6471</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>70187</td>
+      <td>662.3367</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>70442</td>
+      <td>653.1730</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>16555</td>
+      <td>640.8446</td>
+    </tr>
+  </tbody>
+</table></br>
 
-0
-White    96697
-Name: Background, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-White    1.0
-Name: Background, dtype: float64
-=====================================================
-=====================================================
-1
-Straight Sideswept Fringe    9671
-Short Messy                  9641
-Buzz Cut                     8730
-Short Afro Fade              8710
-Short Coil                   8687
-Medium Curly Bob             7706
-Long Messy                   6793
-Low Ponytail                 6763
-Short Pixie                  6761
-Updo Bun                     4854
-Short Updo                   4833
-Long Straight Bangs          1942
-Long Afro                    1933
-Name: Hair Style, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Straight Sideswept Fringe    0.111130
-Short Messy                  0.110786
-Buzz Cut                     0.100317
-Short Afro Fade              0.100087
-Short Coil                   0.099823
-Medium Curly Bob             0.088550
-Long Messy                   0.078059
-Low Ponytail                 0.077714
-Short Pixie                  0.077691
-Updo Bun                     0.055778
-Short Updo                   0.055536
-Long Straight Bangs          0.022316
-Long Afro                    0.022212
-Name: Hair Style, dtype: float64
-=====================================================
-=====================================================
-2
-Black          29013
-Light Brown    21255
-Dark Brown     17437
-Blonde         13549
-Light Grey      9665
-Auburn          5778
-Name: Hair Color, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Black          0.300040
-Light Brown    0.219810
-Dark Brown     0.180326
-Blonde         0.140118
-Light Grey     0.099951
-Auburn         0.059754
-Name: Hair Color, dtype: float64
-=====================================================
-=====================================================
-3
-Stubble     9646
-Thin        4839
-Mustache    3867
-Goatee      3842
-Beard       1924
-Name: Facial Hair, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Stubble     0.399950
-Thin        0.200639
-Mustache    0.160337
-Goatee      0.159300
-Beard       0.079774
-Name: Facial Hair, dtype: float64
-=====================================================
-=====================================================
-4
-Light Gray Longsleeve                                   6783
-Charcoal Blazer with Light Blue Shirt and No Tie        6066
-Blue Longsleeve                                         5788
-Navy Blazer with Striped Shirt and No Tie               5232
-Navy Oxford with Buttons                                4165
-Charcoal Blazer with Light Blue Shirt and Black Tie     4035
-Dark Gray Longsleeve                                    3868
-Olive Oxford with Buttons                               3535
-Navy Blazer with Striped Shirt and Navy Tie             3501
-Gray Blazer with Black Shirt and No Tie                 3482
-Navy Oxford with Tie                                    2971
-Navy Oxford with Pocket                                 2963
-Red Longsleeve                                          2933
-Tan Blazer with Off-White Shirt and No Tie              2640
-Olive Oxford with Pocket                                2525
-Olive Oxford with Tie                                   2524
-Khaki Oxford with Buttons                               2364
-Gray Blazer with Black Shirt and Gray Tie               2312
-Gray Oxford with Buttons                                1784
-Navy Oxford with Tie and Pocket                         1765
-Tan Blazer with Off-White Shirt and Tan Tie             1740
-Khaki Oxford with Tie                                   1700
-Navy Jumpsuit                                           1698
-Khaki Oxford with Pocket                                1691
-Olive Oxford with Tie and Pocket                        1525
-Denim Jumpsuit                                          1445
-Gray Oxford with Pocket                                 1279
-Gray Oxford with Tie                                    1251
-Khaki Oxford with Tie and Pocket                        1015
-Gray Jumpsuit                                            965
-Gray Oxford with Tie and Pocket                          764
-Khaki Jumpsuit                                           720
-Light Gray Cardigan with Light Gray Longsleeve Shirt     707
-Dark Gray Cardigan with Light Gray Longsleeve Shirt      605
-Light Gray Cardigan with Beige Longsleeve Shirt          605
-Dark Gray Cardigan with Beige Longsleeve Shirt           521
-Light Gray Cardigan with Tan Longsleeve Shirt            504
-Light Gray Cardigan with Light Gray Oxford Shirt         472
-Dark Gray Cardigan with Tan Longsleeve Shirt             436
-Olive Cardigan with Light Gray Longsleeve Shirt          410
-Dark Gray Cardigan with Light Gray Oxford Shirt          404
-Light Gray Cardigan with Beige Oxford Shirt              402
-Olive Cardigan with Beige Longsleeve Shirt               357
-Dark Gray Cardigan with Beige Oxford Shirt               347
-Light Gray Cardigan with Tan Oxford Shirt                343
-Brown Cardigan with Light Gray Longsleeve Shirt          307
-Dark Gray Cardigan with Tan Oxford Shirt                 292
-Olve Cardigan with Tan Longsleeve Shirt                  289
-Olive Cardigan with Light Gray Oxford Shirt              264
-Brown Cardigan with Beige Longsleeve Shirt               261
-Olive Cardigan with Beige Oxford Shirt                   225
-Brown Cardigan with Tan Longsleeve Shirt                 220
-Brown Cardigan with Light Gray Oxford Shirt              207
-Light Gray Cardigan with Off-White Longsleeve Shirt      203
-Olive Cardigan with Tan Oxford Shirt                     194
-Dark Gray Cardigan with Off-White Longsleeve Shirt       180
-Brown Cardigan with Beigse Oxford Shirt                  174
-Brown Cardigan with Tan Oxford Shirt                     144
-Light Gray Cardigan with Off-White Oxford Shirt          136
-Dark Gray Cardigan with Off-White Oxford Shirt           118
-Olive Cardigan with Off-White Longsleeve Shirt           117
-Brown Cardigan with Off-White Longsleeve Shirt            90
-Olive Cardigan with Off-White Oxford Shirt                75
-Brown Cardigan with Off-White Oxford Shirt                59
-Name: Top, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Light Gray Longsleeve                                   0.070147
-Charcoal Blazer with Light Blue Shirt and No Tie        0.062732
-Blue Longsleeve                                         0.059857
-Navy Blazer with Striped Shirt and No Tie               0.054107
-Navy Oxford with Buttons                                0.043073
-Charcoal Blazer with Light Blue Shirt and Black Tie     0.041728
-Dark Gray Longsleeve                                    0.040001
-Olive Oxford with Buttons                               0.036557
-Navy Blazer with Striped Shirt and Navy Tie             0.036206
-Gray Blazer with Black Shirt and No Tie                 0.036009
-Navy Oxford with Tie                                    0.030725
-Navy Oxford with Pocket                                 0.030642
-Red Longsleeve                                          0.030332
-Tan Blazer with Off-White Shirt and No Tie              0.027302
-Olive Oxford with Pocket                                0.026112
-Olive Oxford with Tie                                   0.026102
-Khaki Oxford with Buttons                               0.024448
-Gray Blazer with Black Shirt and Gray Tie               0.023910
-Gray Oxford with Buttons                                0.018449
-Navy Oxford with Tie and Pocket                         0.018253
-Tan Blazer with Off-White Shirt and Tan Tie             0.017994
-Khaki Oxford with Tie                                   0.017581
-Navy Jumpsuit                                           0.017560
-Khaki Oxford with Pocket                                0.017488
-Olive Oxford with Tie and Pocket                        0.015771
-Denim Jumpsuit                                          0.014944
-Gray Oxford with Pocket                                 0.013227
-Gray Oxford with Tie                                    0.012937
-Khaki Oxford with Tie and Pocket                        0.010497
-Gray Jumpsuit                                           0.009980
-Gray Oxford with Tie and Pocket                         0.007901
-Khaki Jumpsuit                                          0.007446
-Light Gray Cardigan with Light Gray Longsleeve Shirt    0.007311
-Dark Gray Cardigan with Light Gray Longsleeve Shirt     0.006257
-Light Gray Cardigan with Beige Longsleeve Shirt         0.006257
-Dark Gray Cardigan with Beige Longsleeve Shirt          0.005388
-Light Gray Cardigan with Tan Longsleeve Shirt           0.005212
-Light Gray Cardigan with Light Gray Oxford Shirt        0.004881
-Dark Gray Cardigan with Tan Longsleeve Shirt            0.004509
-Olive Cardigan with Light Gray Longsleeve Shirt         0.004240
-Dark Gray Cardigan with Light Gray Oxford Shirt         0.004178
-Light Gray Cardigan with Beige Oxford Shirt             0.004157
-Olive Cardigan with Beige Longsleeve Shirt              0.003692
-Dark Gray Cardigan with Beige Oxford Shirt              0.003589
-Light Gray Cardigan with Tan Oxford Shirt               0.003547
-Brown Cardigan with Light Gray Longsleeve Shirt         0.003175
-Dark Gray Cardigan with Tan Oxford Shirt                0.003020
-Olve Cardigan with Tan Longsleeve Shirt                 0.002989
-Olive Cardigan with Light Gray Oxford Shirt             0.002730
-Brown Cardigan with Beige Longsleeve Shirt              0.002699
-Olive Cardigan with Beige Oxford Shirt                  0.002327
-Brown Cardigan with Tan Longsleeve Shirt                0.002275
-Brown Cardigan with Light Gray Oxford Shirt             0.002141
-Light Gray Cardigan with Off-White Longsleeve Shirt     0.002099
-Olive Cardigan with Tan Oxford Shirt                    0.002006
-Dark Gray Cardigan with Off-White Longsleeve Shirt      0.001861
-Brown Cardigan with Beigse Oxford Shirt                 0.001799
-Brown Cardigan with Tan Oxford Shirt                    0.001489
-Light Gray Cardigan with Off-White Oxford Shirt         0.001406
-Dark Gray Cardigan with Off-White Oxford Shirt          0.001220
-Olive Cardigan with Off-White Longsleeve Shirt          0.001210
-Brown Cardigan with Off-White Longsleeve Shirt          0.000931
-Olive Cardigan with Off-White Oxford Shirt              0.000776
-Brown Cardigan with Off-White Oxford Shirt              0.000610
-Name: Top, dtype: float64
-=====================================================
-=====================================================
-5
-Charcoal Slacks     21178
-Navy Slacks         18133
-Gray Slacks         12055
-Dark-Wash Denim     11006
-Light-Wash Denim     9436
-Khaki Slacks         9061
-Blue Denim           6300
-Khaki                4700
-Name: Bottom, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Charcoal Slacks     0.230524
-Navy Slacks         0.197379
-Gray Slacks         0.131219
-Dark-Wash Denim     0.119801
-Light-Wash Denim    0.102711
-Khaki Slacks        0.098630
-Blue Denim          0.068576
-Khaki               0.051160
-Name: Bottom, dtype: float64
-=====================================================
-=====================================================
-6
-Brown Leather Shoes with Laces               20326
-White Canvas Sneaker with White Sole         17374
-Black Suede Chelseas with Brown Sole         14525
-Black Leather Shoes with Laces               13573
-Tan Suede Workboot with Tan Sole             11620
-White Leather Sneaker with Grey Sole         11540
-Redbrown Leather Workboot with Brown Sole     7724
-Black Leather Chelsea with Blue Sole            15
-Name: Footwear, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Brown Leather Shoes with Laces               0.210203
-White Canvas Sneaker with White Sole         0.179675
-Black Suede Chelseas with Brown Sole         0.150211
-Black Leather Shoes with Laces               0.140366
-Tan Suede Workboot with Tan Sole             0.120169
-White Leather Sneaker with Grey Sole         0.119342
-Redbrown Leather Workboot with Brown Sole    0.079878
-Black Leather Chelsea with Blue Sole         0.000155
-Name: Footwear, dtype: float64
-=====================================================
-=====================================================
-7
-Two Rings        13552
-Ring One Blue      974
-Name: Ring, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Two Rings        0.932948
-Ring One Blue    0.067052
-Name: Ring, dtype: float64
-=====================================================
-=====================================================
-8
-Tan Workers Cap          6274
-Navy Blue Workers Cap    2422
-Purple Workers Cap        973
-Name: Headwear, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Tan Workers Cap          0.648878
-Navy Blue Workers Cap    0.250491
-Purple Workers Cap       0.100631
-Name: Headwear, dtype: float64
-=====================================================
-=====================================================
-9
-Black Books          19340
-Silver Aviators       9427
-Rosegold Aviators     5055
-3D Glasses              20
-Blue Books              19
-Name: Glasses, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Black Books          0.571159
-Silver Aviators      0.278403
-Rosegold Aviators    0.149287
-3D Glasses           0.000591
-Blue Books           0.000561
-Name: Glasses, dtype: float64
-=====================================================
-=====================================================
-10
-Stud Earring    9650
-Name: Piercings, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Stud Earring    1.0
-Name: Piercings, dtype: float64
-=====================================================
-=====================================================
-11
-Black Smartphone           21238
-Brown Leather Briefcase    17393
-Black Leather Briefcase    13506
-Lunchbox                    9686
-Blue Lunchbox               1950
-Light Blue Smartphone        947
-Name: Accessories, dtype: int64
- ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-Black Smartphone           0.328152
-Brown Leather Briefcase    0.268742
-Black Leather Briefcase    0.208684
-Lunchbox                   0.149660
-Blue Lunchbox              0.030130
-Light Blue Smartphone      0.014632
-Name: Accessories, dtype: float64
-=====================================================
-=====================================================
+### Bottom 25 (rarity using multiplication)
 
-
-```
+Please notice the reverse order  <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">mRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>96934</td>
+      <td>71614</td>
+      <td>5.9637</td>
+    </tr>
+    <tr>
+      <td>96933</td>
+      <td>67863</td>
+      <td>6.0476</td>
+    </tr>
+    <tr>
+      <td>96932</td>
+      <td>15504</td>
+      <td>6.1293</td>
+    </tr>
+    <tr>
+      <td>96931</td>
+      <td>8415</td>
+      <td>6.1624</td>
+    </tr>
+    <tr>
+      <td>96930</td>
+      <td>88333</td>
+      <td>6.2717</td>
+    </tr>
+    <tr>
+      <td>96929</td>
+      <td>2654</td>
+      <td>6.2875</td>
+    </tr>
+    <tr>
+      <td>96928</td>
+      <td>23442</td>
+      <td>6.2985</td>
+    </tr>
+    <tr>
+      <td>96927</td>
+      <td>48794</td>
+      <td>6.3168</td>
+    </tr>
+    <tr>
+      <td>96926</td>
+      <td>48815</td>
+      <td>6.3168</td>
+    </tr>
+    <tr>
+      <td>96925</td>
+      <td>29479</td>
+      <td>6.3696</td>
+    </tr>
+    <tr>
+      <td>96924</td>
+      <td>70646</td>
+      <td>6.3715</td>
+    </tr>
+    <tr>
+      <td>96923</td>
+      <td>31021</td>
+      <td>6.3745</td>
+    </tr>
+    <tr>
+      <td>96922</td>
+      <td>57198</td>
+      <td>6.4155</td>
+    </tr>
+    <tr>
+      <td>96921</td>
+      <td>1189</td>
+      <td>6.5183</td>
+    </tr>
+    <tr>
+      <td>96920</td>
+      <td>471</td>
+      <td>6.5311</td>
+    </tr>
+    <tr>
+      <td>96919</td>
+      <td>35298</td>
+      <td>6.6318</td>
+    </tr>
+    <tr>
+      <td>96918</td>
+      <td>19115</td>
+      <td>6.6584</td>
+    </tr>
+    <tr>
+      <td>96917</td>
+      <td>56777</td>
+      <td>6.6604</td>
+    </tr>
+    <tr>
+      <td>96916</td>
+      <td>9827</td>
+      <td>6.6604</td>
+    </tr>
+    <tr>
+      <td>96915</td>
+      <td>53827</td>
+      <td>6.6700</td>
+    </tr>
+    <tr>
+      <td>96914</td>
+      <td>20364</td>
+      <td>6.6961</td>
+    </tr>
+    <tr>
+      <td>96913</td>
+      <td>92937</td>
+      <td>6.7120</td>
+    </tr>
+    <tr>
+      <td>96912</td>
+      <td>84020</td>
+      <td>6.7143</td>
+    </tr>
+    <tr>
+      <td>96911</td>
+      <td>12840</td>
+      <td>6.7780</td>
+    </tr>
+    <tr>
+      <td>96910</td>
+      <td>20504</td>
+      <td>6.7849</td>
+    </tr>
+  </tbody>
+</table></br>  
