@@ -1,5 +1,5 @@
 # get latest
-cd MatrixNFTScan
+cd ..
 #git reset --hard HEAD
 #git clean -xffd
 
