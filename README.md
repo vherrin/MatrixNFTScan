@@ -43,6 +43,8 @@ Rarity Score for a Trait Value = √√ (1 / (Number of Items with that Trait Va
 - [Sorted by Ranking ID using multiplication method](./full_m_sorted_rankingID.html) </br>
 
 </br>
+## Updated on 2022-01-04</br>
+</br>
 
  ### Top 25 (rarity using addition)
 <table border="1" class="dataframe">
@@ -320,6 +322,8 @@ Please notice the reverse order  <table border="1" class="dataframe">
     </tr>
   </tbody>
 </table></br>  </br>
+Updated on 2022-01-04</br>
+</br>
 
  ### Top 25 (rarity using multiplication)
 <table border="1" class="dataframe">

@@ -1,0 +1,1 @@
+["Accessories", "Piercings", "Glasses", "Headwear", "Ring", "Footwear", "Bottom", "Top", "Facial Hair", "Hair Color", "Hair Style", "Background"]

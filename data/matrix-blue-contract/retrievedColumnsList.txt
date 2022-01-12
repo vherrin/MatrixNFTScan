@@ -1,0 +1,1 @@
+["Zen", "Name", "Hacking", "Transportation", "Occupation", "Wisdom", "Intelligence", "Social Media Followers", "Charisma", "Dexterity", "Salary", "Strength", "Credit Score", "Constitution", "Votes", "Generation", "Accessories", "Piercings", "Glasses", "Headwear", "Ring", "Footwear", "Bottom", "Top", "Facial Hair", "Hair Color", "Hair Style", "Background"]
