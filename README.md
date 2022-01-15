@@ -41,7 +41,7 @@ Rarity Score for a Trait Value = √√ (1 / (Number of Items with that Trait Va
 
  # ckw5j7pqf0011g4731pvaj6gm</br>
 ## Updated on 2022-01-14</br>
-- [Sorted by Nifty ID using addition method](./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_niftyID.html) </br>
+- [Sorted by Nifty ID using addition method](https://htmlpreview.github.io/?./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using addition method](./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_rankingID.html) </br>
  - [Sorted by Nifty ID using multiplication method](./data/ckw5j7pqf0011g4731pvaj6gm/full_m_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using multiplication method](./data/ckw5j7pqf0011g4731pvaj6gm/full_m_sorted_rankingID.html) </br>
@@ -603,7 +603,7 @@ Please notice the reverse order  <table border="1" class="dataframe">
 
  # matrix-red-contract</br>
 ## Updated on 2022-01-14</br>
-- [Sorted by Nifty ID using addition method](./data/matrix-red-contract/full_a_sorted_niftyID.html) </br>
+- [Sorted by Nifty ID using addition method](https://htmlpreview.github.io/?./data/matrix-red-contract/full_a_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using addition method](./data/matrix-red-contract/full_a_sorted_rankingID.html) </br>
  - [Sorted by Nifty ID using multiplication method](./data/matrix-red-contract/full_m_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using multiplication method](./data/matrix-red-contract/full_m_sorted_rankingID.html) </br>
@@ -1165,7 +1165,7 @@ Please notice the reverse order  <table border="1" class="dataframe">
 
  # matrix-blue-contract</br>
 ## Updated on 2022-01-14</br>
-- [Sorted by Nifty ID using addition method](./data/matrix-blue-contract/full_a_sorted_niftyID.html) </br>
+- [Sorted by Nifty ID using addition method](https://htmlpreview.github.io/?./data/matrix-blue-contract/full_a_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using addition method](./data/matrix-blue-contract/full_a_sorted_rankingID.html) </br>
  - [Sorted by Nifty ID using multiplication method](./data/matrix-blue-contract/full_m_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using multiplication method](./data/matrix-blue-contract/full_m_sorted_rankingID.html) </br>
