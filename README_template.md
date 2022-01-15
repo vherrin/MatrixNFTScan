@@ -36,9 +36,4 @@ Rarity Score for a Trait Value = √√ (1 / (Number of Items with that Trait Va
 </br>
 </br>
 
-## Full 100k listings
-- [Sorted by Nifty ID using addition method](./full_a_sorted_niftyID.html) </br>
-- [Sorted by Ranking ID using addition method](./full_a_sorted_rankingID.html) </br>
-- [Sorted by Nifty ID using multiplication method](./full_m_sorted_niftyID.html) </br>
-- [Sorted by Ranking ID using multiplication method](./full_m_sorted_rankingID.html) </br>
 

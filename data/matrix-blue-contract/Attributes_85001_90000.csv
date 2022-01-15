@@ -402,10 +402,10 @@
 85401,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 85402,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 85403,Grandmaster,None,Subscribed to 2600,Pragmatic Coupe,Unemployed,13,11,355555,12,10,52968,8,833,18,1,1,Black Leather Briefcase,,,,,Black Suede Chelseas with Brown Sole,Charcoal Slacks,Navy Blazer with Striped Shirt and Navy Tie,Stubble,Dark Brown,Short Afro Fade,White Heavy Rain
-85404,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-85405,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-85406,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-85407,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85404,Teacher,None,Pretty good with GW Basic,Pragmatic Coupe,Assistant to the Regional Manager,11,9,20,2,10,303303,13,805,16,1,1,Brown Leather Briefcase,,,Tan Worker's Cap,,White Canvas Sneaker with White Sole,Blue Denim,Dark Gray Cardigan with Off-White Oxford and No Tie,,Blonde,,White Light Rain
+85405,Teacher,None,Infamous handle on the Dark Web,Electric Car,Electrician,11,19,516,5,12,35555,7,725,11,1,1,Black Smartphone,,,,,Black Leather Shoes with Laces,Gray Slacks,Olive Oxford with Tie and Pocket,,Light Grey,Short Messy,White Light Rain
+85406,Guru,None,Stole a high school computer lab pass,Pragmatic Coupe,Talent Agent,15,12,1993,7,10,52968,8,711,10,1,1,Black Leather Briefcase,Stud Earring,Black Books,Tan Worker's Cap,,Redbrown Leather Workboot with Brown Sole,Khaki,Olive Oxford with Pocket,,Light Brown,,White Medium Rain
+85407,Disciple,None,Read beginner’s guide to hacking - Y2K edition,Low Rider,Electrician,10,7,516,5,11,76302,9,699,9,1,1,Brown Leather Briefcase,,Silver Aviators,,,Black Leather Shoes with Laces,Khaki,Khaki Oxford with Pocket,,Black,,White Medium Rain
 85408,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 85409,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 85410,New Apprentice,None,Subscribed to 2600,Pragmatic Coupe,Utility Worker,6,11,12453,9,10,35555,7,699,9,1,1,Black Smartphone,,,Tan Worker's Cap,Two Rings,Brown Leather Shoes with Laces,Charcoal Slacks,Charcoal Blazer with Light Blue Shirt and Black Tie,,Black,Buzz Cut,White Medium Rain
@@ -514,7 +514,7 @@
 85513,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 85514,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 85515,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-85516,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85516,Zen Master,None,Subscribed to 2600,Pragmatic Coupe,NFT Collector,14,11,12453,9,10,22576,6,753,13,1,1,,,Rosegold Aviators,,,Brown Leather Shoes with Laces,Charcoal Slacks,Olive Oxford with Tie,,Dark Brown,Short Messy,White Light Rain
 85517,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 85518,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 85519,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1307,7 +1307,7 @@
 86306,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86307,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86308,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86309,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86309,Teacher,None,Stole a high school computer lab pass,Electric Car,Unemployed,11,12,31133,10,12,1426,3,661,8,1,1,,Stud Earring,,,,White Canvas Sneaker with White Sole,Khaki Slacks,Tan Blazer with Off-White Shirt and No Tie,,Light Grey,Short Afro Fade,White Light Rain
 86310,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86311,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86312,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1452,7 +1452,7 @@
 86451,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86452,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86453,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86454,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86454,Disciple,None,Read the Bitcoin white paper twice,Hot Pink Roller Blades,Assistant to the Regional Manager,10,10,777,6,4,172581,12,610,7,1,1,Brown Leather Briefcase,Stud Earring,Rosegold Aviators,,,White Leather Sneaker with Grey Sole,Charcoal Slacks,Gray Oxford with Tie and Pocket,Stubble,Light Brown,Low Ponytail,White Heavy Rain
 86455,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86456,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86457,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1500,7 +1500,7 @@
 86499,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86500,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86501,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86502,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86502,Willing Student,None,Stole a high school computer lab pass,Electric Car,Talent Agent,5,12,128,4,12,10098,5,610,7,1,1,Brown Leather Briefcase,,,,,Tan Suede Workboot with Tan Sole,Navy Slacks,Dark Gray Longsleeve,,Dark Brown,Updo Bun,White Light Rain
 86503,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86504,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86505,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1663,7 +1663,7 @@
 86662,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86663,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86664,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86665,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86665,Promising Pupil,None,Stole a high school computer lab pass,Go-Kart,Customer Service Representative,7,12,516,5,8,1426,3,777,14,1,1,,Stud Earring,,Navy Blue Worker's Cap,,Black Suede Chelseas with Brown Sole,Blue Denim,Dark Gray Longsleeve,,Auburn,Buzz Cut,White Light Rain
 86666,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86667,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86668,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1905,7 +1905,7 @@
 86904,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86905,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86906,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86907,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86907,Zen Master,None,Pretty good with GW Basic,Pragmatic Coupe,Talent Agent,14,9,516,5,10,35555,7,508,5,1,1,Brown Leather Briefcase,,Black Books,,,Brown Leather Shoes with Laces,Gray Slacks,Gray Oxford with Tie and Pocket,,Blonde,Buzz Cut,White Light Rain
 86908,Teacher,None,Stole a high school computer lab pass,Low Rider,Assistant to the Regional Manager,11,12,612791,13,11,92000,10,559,6,1,1,Lunchbox,,,,Ring One Blue,White Leather Sneaker with Grey Sole,Charcoal Slacks,Olive Oxford with Tie and Pocket,Thin,Blonde,Short Coil,White Light Rain
 86909,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86910,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2155,8 +2155,8 @@
 87154,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87155,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87156,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87157,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87158,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87157,Master,None,Got caught hacking your grades,70's Hatchback,Computer Programmer,12,13,128,4,9,35555,7,699,9,1,1,Black Smartphone,,Black Books,,Ring One Blue,Tan Suede Workboot with Tan Sole,Navy Slacks,Dark Gray Longsleeve,Goatee,Light Grey,Long Messy,White Medium Rain
+87158,Graduate,None,Stole a high school computer lab pass,Pragmatic Coupe,Receptionist,9,12,0,1,10,10098,5,699,9,1,1,,,Rosegold Aviators,,Two Rings,Black Suede Chelseas with Brown Sole,Dark-Wash Denim,Charcoal Blazer with Light Blue Shirt and No Tie,Stubble,Blonde,Low Ponytail,White Light Rain
 87159,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87160,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87161,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2302,7 +2302,7 @@
 87301,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87302,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87303,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87304,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87304,Teacher,None,Subscribed to 2600,Pragmatic Coupe,Electrician,11,11,516,5,10,92000,10,777,14,1,1,,,,Tan Worker's Cap,,Brown Leather Shoes with Laces,Blue Denim,Gray Blazer with Black Shirt and No Tie,,Blonde,Buzz Cut,White Light Rain
 87305,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87306,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87307,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2340,10 +2340,10 @@
 87339,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87340,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87341,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87342,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87343,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87344,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87345,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87342,Graduate,None,Subscribed to 2600,Back of Rusty Pickup Truck,Bookkeeper,9,11,1654535,14,3,76302,9,457,4,1,1,,,,,Two Rings,Black Suede Chelseas with Brown Sole,Light-Wash Denim,Navy Oxford with Tie,,Auburn,Short Coil,White Light Rain
+87343,Budding Scholar,None,Subscribed to 2600,Low Rider,Marketing Intern,8,11,355555,12,11,22576,6,725,11,1,1,Brown Leather Briefcase,,Silver Aviators,,,White Canvas Sneaker with White Sole,,Denim Jumpsuit,,Light Brown,,White Medium Rain
+87344,Disciple,None,Watched a hacking tutorial video by a 13 year old,Low Rider,Day Trader,10,8,1993,7,11,101101,11,610,7,1,1,,,Black Books,,,Black Suede Chelseas with Brown Sole,,Gray Jumpsuit,Stubble,Light Brown,Straight Sideswept Fringe,White Medium Rain
+87345,Master,None,Got caught hacking your grades,70's Hatchback,Night Shift Supervisor,12,13,516,5,9,35555,7,739,12,1,1,,,,,,White Canvas Sneaker with White Sole,Charcoal Slacks,Navy Blazer with Striped Shirt and Navy Tie,,Auburn,Straight Sideswept Fringe,White Light Rain
 87346,Teacher,None,Know your way around a spreadsheet,Go-Kart,Talent Agent,11,6,777,6,8,35555,7,661,8,1,1,Brown Leather Briefcase,,,,,White Leather Sneaker with Grey Sole,Khaki Slacks,Navy Blazer with Striped Shirt and Navy Tie,,Black,Short Pixie,White Light Rain
 87347,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87348,Budding Scholar,None,Subscribed to 2600,Pragmatic Coupe,Computer Programmer,8,11,84059,11,10,35555,7,725,11,1,1,Brown Leather Briefcase,,Silver Aviators,,,White Canvas Sneaker with White Sole,Navy Slacks,Navy Blazer with Striped Shirt and No Tie,,Light Brown,Short Coil,White Light Rain
@@ -2440,9 +2440,9 @@
 87439,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87440,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87441,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87442,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87442,Disciple,None,Pretty good with GW Basic,Low Rider,Bookkeeper,10,9,84059,11,11,35555,7,711,10,1,1,Lunchbox,,,,,Black Suede Chelseas with Brown Sole,Charcoal Slacks,Tan Blazer with Off-White Shirt and Tan Tie,,Black,Short Coil,White Light Rain
 87443,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87444,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87444,Graduate,None,Stole a high school computer lab pass,Low Rider,Computer Programmer,9,12,777,6,11,172581,12,711,10,1,1,Black Smartphone,,,,,White Canvas Sneaker with White Sole,Charcoal Slacks,Brown Cardigan with Light Gray Longsleeve Shirt,Thin,Auburn,Low Ponytail,White Light Rain
 87445,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87446,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87447,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2849,7 +2849,7 @@
 87848,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87849,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87850,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87851,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87851,Disciple,None,Read the Bitcoin white paper twice,Low Rider,Receptionist,10,10,777,6,11,52968,8,711,10,1,1,,,,,,Brown Leather Shoes with Laces,Gray Slacks,Dark Gray Cardigan with Light Gray Longsleeve Shirt,,Light Grey,Short Afro Fade,White Light Rain
 87852,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87853,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87854,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3121,7 +3121,7 @@
 88120,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88121,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88122,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-88123,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88123,Awakened Mind,None,Subscribed to 2600,Brand New Ice Cream Truck,Customer Service Representative,17,11,12453,9,14,22576,6,739,12,1,1,Black Smartphone,,Black Books,,,Brown Leather Shoes with Laces,Gray Slacks,Gray Oxford with Tie,,Dark Brown,Long Messy,White Medium Rain
 88124,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88125,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88126,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3292,7 +3292,7 @@
 88291,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88292,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88293,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-88294,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88294,Teacher,None,Read the Bitcoin white paper twice,Hot Pink Roller Blades,Money Printing Machine Operator,11,10,1993,7,4,10098,5,725,11,1,1,,,Black Books,Navy Blue Worker's Cap,,Brown Leather Shoes with Laces,Light-Wash Denim,Olive Oxford with Tie and Pocket,,Auburn,,White Heavy Rain
 88295,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88296,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88297,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3344,7 +3344,7 @@
 88343,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88344,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88345,Disciple,None,Pretty good with GW Basic,Three Wheel Roadster,Talent Agent,10,9,84059,11,13,172581,12,661,8,1,1,Black Smartphone,,Black Books,,,Brown Leather Shoes with Laces,Dark-Wash Denim,Gray Oxford with Tie and Pocket,,Dark Brown,,White Light Rain
-88346,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88346,Grandmaster,None,Subscribed to 2600,Pragmatic Coupe,Talent Agent,13,11,12453,9,10,5260,4,753,13,1,1,Brown Leather Briefcase,,Rosegold Aviators,,Two Rings,Brown Leather Shoes with Laces,Khaki,Navy Oxford with Buttons,,Black,Short Afro Fade,White Light Rain
 88347,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88348,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88349,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3519,7 +3519,7 @@
 88518,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88519,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88520,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-88521,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88521,Teacher,None,Read the Bitcoin white paper twice,Back of Rusty Pickup Truck,Assistant to the Regional Manager,11,10,0,1,3,22576,6,711,10,1,1,,,,,,Black Suede Chelseas with Brown Sole,Navy Slacks,Light Gray Cardigan with Off-White Longsleeve Shirt,,Black,Straight Sideswept Fringe,White Light Rain
 88522,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88523,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88524,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3622,7 +3622,7 @@
 88621,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88622,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88623,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-88624,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88624,Teacher,None,Got caught hacking your grades,Souped-Up Sedan With Ground Effect Lights,Marketing Intern,11,13,31133,10,15,52968,8,699,9,1,1,Brown Leather Briefcase,Stud Earring,,Navy Blue Worker's Cap,,White Canvas Sneaker with White Sole,Gray Slacks,Gray Blazer with Black Shirt and No Tie,,Dark Brown,,White Medium Rain
 88625,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88626,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88627,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4420,7 +4420,7 @@
 89419,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89420,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89421,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-89422,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89422,Disciple,None,Sticky note with your password on it,Pragmatic Coupe,Computer Programmer,10,3,4981,8,10,35555,7,699,9,1,1,,,,,,Black Suede Chelseas with Brown Sole,Navy Slacks,Navy Blazer with Striped Shirt and Navy Tie,Beard,Light Grey,Updo Bun,White Medium Rain
 89423,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89424,Promising Pupil,None,Stole a high school computer lab pass,Souped-Up Sedan With Ground Effect Lights,Unemployed,7,12,516,5,15,101101,11,559,6,1,1,,,Silver Aviators,,,White Canvas Sneaker with White Sole,Charcoal Slacks,Navy Blazer with Striped Shirt and No Tie,Goatee,Light Brown,Medium Curly Bob,White Light Rain
 89425,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4465,9 +4465,9 @@
 89464,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89465,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89466,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-89467,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89467,Grandmaster,None,Read the Bitcoin white paper twice,Hot Pink Roller Blades,Talent Agent,13,10,516,5,4,35555,7,725,11,1,1,Black Smartphone,,Black Books,,,White Canvas Sneaker with White Sole,Charcoal Slacks,Navy Blazer with Striped Shirt and No Tie,,Dark Brown,Short Afro Fade,White Heavy Rain
 89468,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-89469,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89469,Zen Master,None,Friend Request from “White Rabbit Hacking Group”,Back of Rusty Pickup Truck,Bookkeeper,14,18,777,6,3,35555,7,610,7,1,1,Lunchbox,,Black Books,,,Redbrown Leather Workboot with Brown Sole,Gray Slacks,Blue Longsleeve,,Black,Short Coil,White Medium Rain
 89470,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89471,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89472,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4480,8 +4480,8 @@
 89479,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89480,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89481,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-89482,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-89483,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89482,Master,None,Subscribed to 2600,70's Hatchback,Assistant to the Regional Manager,12,11,1993,7,9,35555,7,711,10,1,1,Black Leather Briefcase,Stud Earring,Silver Aviators,,,Black Leather Shoes with Laces,Light-Wash Denim,Khaki Oxford with Buttons,Stubble,Dark Brown,,White Heavy Rain
+89483,Teacher,None,Watched a hacking tutorial video by a 13 year old,Brand New Ice Cream Truck,Blockchain Engineer,11,8,128,4,14,35555,7,791,15,1,1,Brown Leather Briefcase,Stud Earring,Silver Aviators,,,Redbrown Leather Workboot with Brown Sole,Khaki Slacks,Tan Blazer with Off-White Shirt and No Tie,Goatee,Auburn,Short Coil,White Light Rain
 89484,Disciple,None,Read the Bitcoin white paper twice,Pragmatic Coupe,Utility Worker,10,10,1993,7,10,52968,8,739,12,1,1,Blue Lunchbox,,Black Books,,,Brown Leather Shoes with Laces,Dark-Wash Denim,Navy Blazer with Striped Shirt and Navy Tie,,Black,Medium Curly Bob,White Light Rain
 89485,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89486,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4942,7 +4942,7 @@
 89941,Graduate,None,Know your way around a spreadsheet,Light-Up Folding Scooter,Blockchain Engineer,9,6,777,6,5,52968,8,725,11,1,1,,,,,Two Rings,White Canvas Sneaker with White Sole,Khaki,Olive Oxford with Buttons,,Light Grey,Low Ponytail,White Heavy Rain
 89942,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89943,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-89944,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89944,Graduate,None,Watched a hacking tutorial video by a 13 year old,Pragmatic Coupe,Sales Associate,9,8,1993,7,10,35555,7,355,2,1,1,Black Leather Briefcase,,Black Books,,,White Canvas Sneaker with White Sole,Dark-Wash Denim,Khaki Oxford with Pocket,Stubble,Auburn,Short Afro Fade,White Heavy Rain
 89945,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89946,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89947,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4959,7 +4959,7 @@
 89958,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89959,Graduate,None,Read the Bitcoin white paper twice,Pragmatic Coupe,Custodian,9,10,4981,8,10,52968,8,791,15,1,1,Black Leather Briefcase,Stud Earring,,Purple Worker's Cap,,Brown Leather Shoes with Laces,Navy Slacks,Light Gray Longsleeve,,Dark Brown,Buzz Cut,White Heavy Rain
 89960,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-89961,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89961,Pigeon,None,Stole a high school computer lab pass,Low Rider,Night Shift Supervisor,3,12,1993,7,11,76302,9,559,6,1,1,Black Leather Briefcase,,Silver Aviators,,,Black Leather Shoes with Laces,Navy Slacks,Gray Blazer with Black Shirt and No Tie,,Light Brown,Updo Bun,White Medium Rain
 89962,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89963,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 89964,,,,,,,,,,,,,,,,,,,,,,,,,,,,

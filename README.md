@@ -36,15 +36,16 @@ Rarity Score for a Trait Value = √√ (1 / (Number of Items with that Trait Va
 </br>
 </br>
 
-## Full 100k listings
-- [Sorted by Nifty ID using addition method](./full_a_sorted_niftyID.html) </br>
-- [Sorted by Ranking ID using addition method](./full_a_sorted_rankingID.html) </br>
-- [Sorted by Nifty ID using multiplication method](./full_m_sorted_niftyID.html) </br>
-- [Sorted by Ranking ID using multiplication method](./full_m_sorted_rankingID.html) </br>
 
 </br>
-## Updated on 2022-01-04</br>
-</br>
+
+ # ckw5j7pqf0011g4731pvaj6gm</br>
+## Updated on 2022-01-14</br>
+- [Sorted by Nifty ID using addition method](./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_niftyID.html) </br>
+ - [Sorted by Ranking ID using addition method](./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_rankingID.html) </br>
+ - [Sorted by Nifty ID using multiplication method](./data/ckw5j7pqf0011g4731pvaj6gm/full_m_sorted_niftyID.html) </br>
+ - [Sorted by Ranking ID using multiplication method](./data/ckw5j7pqf0011g4731pvaj6gm/full_m_sorted_rankingID.html) </br>
+ </br>
 
  ### Top 25 (rarity using addition)
 <table border="1" class="dataframe">
@@ -59,127 +60,127 @@ Rarity Score for a Trait Value = √√ (1 / (Number of Items with that Trait Va
     <tr>
       <td>1</td>
       <td>11621</td>
-      <td>11538.91</td>
+      <td>1149.69</td>
     </tr>
     <tr>
       <td>2</td>
       <td>29795</td>
-      <td>6993.64</td>
+      <td>696.60</td>
     </tr>
     <tr>
       <td>3</td>
       <td>63467</td>
-      <td>6768.26</td>
+      <td>674.38</td>
     </tr>
     <tr>
       <td>4</td>
       <td>86373</td>
-      <td>6686.85</td>
+      <td>666.23</td>
     </tr>
     <tr>
       <td>5</td>
       <td>53836</td>
-      <td>6639.36</td>
+      <td>661.51</td>
     </tr>
     <tr>
       <td>6</td>
       <td>49110</td>
-      <td>6627.84</td>
+      <td>660.37</td>
     </tr>
     <tr>
       <td>7</td>
       <td>83101</td>
-      <td>6620.44</td>
+      <td>659.63</td>
     </tr>
     <tr>
       <td>8</td>
       <td>68770</td>
-      <td>6605.49</td>
+      <td>658.14</td>
     </tr>
     <tr>
       <td>9</td>
       <td>5135</td>
-      <td>6576.79</td>
+      <td>655.29</td>
     </tr>
     <tr>
       <td>10</td>
       <td>22889</td>
-      <td>6540.37</td>
+      <td>651.67</td>
     </tr>
     <tr>
       <td>11</td>
       <td>2942</td>
-      <td>6535.14</td>
+      <td>651.15</td>
     </tr>
     <tr>
       <td>12</td>
       <td>93728</td>
-      <td>6529.35</td>
+      <td>650.57</td>
     </tr>
     <tr>
       <td>13</td>
       <td>38379</td>
-      <td>6528.32</td>
+      <td>650.47</td>
     </tr>
     <tr>
       <td>14</td>
       <td>63775</td>
-      <td>6523.51</td>
+      <td>649.99</td>
     </tr>
     <tr>
       <td>15</td>
       <td>750</td>
-      <td>6511.74</td>
+      <td>648.82</td>
     </tr>
     <tr>
       <td>16</td>
       <td>17313</td>
-      <td>5376.45</td>
+      <td>535.47</td>
     </tr>
     <tr>
       <td>17</td>
       <td>81747</td>
-      <td>5270.33</td>
+      <td>525.04</td>
     </tr>
     <tr>
       <td>18</td>
       <td>47263</td>
-      <td>5124.61</td>
+      <td>510.53</td>
     </tr>
     <tr>
       <td>19</td>
       <td>39591</td>
-      <td>5035.29</td>
+      <td>501.69</td>
     </tr>
     <tr>
       <td>20</td>
       <td>62311</td>
-      <td>4985.29</td>
+      <td>496.70</td>
     </tr>
     <tr>
       <td>21</td>
       <td>44625</td>
-      <td>4981.70</td>
+      <td>496.35</td>
     </tr>
     <tr>
       <td>22</td>
       <td>37120</td>
-      <td>4978.67</td>
+      <td>496.06</td>
     </tr>
     <tr>
       <td>23</td>
       <td>52344</td>
-      <td>4978.24</td>
+      <td>496.00</td>
     </tr>
     <tr>
       <td>24</td>
       <td>59977</td>
-      <td>4976.56</td>
+      <td>495.84</td>
     </tr>
     <tr>
       <td>25</td>
       <td>74825</td>
-      <td>4974.21</td>
+      <td>495.60</td>
     </tr>
   </tbody>
 </table></br>
@@ -196,134 +197,132 @@ Please notice the reverse order  <table border="1" class="dataframe">
   </thead>
   <tbody>
     <tr>
-      <td>97040</td>
+      <td>97210</td>
       <td>15504</td>
-      <td>29.49</td>
+      <td>2.93</td>
     </tr>
     <tr>
-      <td>97039</td>
+      <td>97209</td>
       <td>29479</td>
-      <td>29.90</td>
+      <td>2.97</td>
     </tr>
     <tr>
-      <td>97038</td>
+      <td>97208</td>
       <td>70646</td>
-      <td>29.94</td>
+      <td>2.98</td>
     </tr>
     <tr>
-      <td>97037</td>
+      <td>97207</td>
       <td>88333</td>
-      <td>30.29</td>
+      <td>3.01</td>
     </tr>
     <tr>
-      <td>97036</td>
+      <td>97206</td>
       <td>23442</td>
-      <td>30.80</td>
+      <td>3.06</td>
     </tr>
     <tr>
-      <td>97035</td>
+      <td>97205</td>
       <td>1189</td>
-      <td>31.48</td>
+      <td>3.13</td>
     </tr>
     <tr>
-      <td>97034</td>
+      <td>97204</td>
       <td>12840</td>
-      <td>31.50</td>
+      <td>3.13</td>
     </tr>
     <tr>
-      <td>97033</td>
-      <td>471</td>
-      <td>31.54</td>
-    </tr>
-    <tr>
-      <td>97032</td>
+      <td>97203</td>
       <td>31021</td>
-      <td>31.59</td>
+      <td>3.14</td>
     </tr>
     <tr>
-      <td>97031</td>
+      <td>97202</td>
+      <td>471</td>
+      <td>3.14</td>
+    </tr>
+    <tr>
+      <td>97201</td>
       <td>69174</td>
-      <td>31.80</td>
+      <td>3.16</td>
     </tr>
     <tr>
-      <td>97030</td>
+      <td>97200</td>
       <td>67863</td>
-      <td>32.14</td>
+      <td>3.20</td>
     </tr>
     <tr>
-      <td>97029</td>
+      <td>97199</td>
       <td>22942</td>
-      <td>32.18</td>
+      <td>3.20</td>
     </tr>
     <tr>
-      <td>97028</td>
+      <td>97198</td>
       <td>57198</td>
-      <td>32.27</td>
+      <td>3.21</td>
     </tr>
     <tr>
-      <td>97027</td>
+      <td>97197</td>
       <td>12197</td>
-      <td>32.31</td>
+      <td>3.21</td>
     </tr>
     <tr>
-      <td>97026</td>
+      <td>97196</td>
       <td>94080</td>
-      <td>32.37</td>
+      <td>3.22</td>
     </tr>
     <tr>
-      <td>97025</td>
+      <td>97195</td>
       <td>94640</td>
-      <td>32.80</td>
+      <td>3.26</td>
     </tr>
     <tr>
-      <td>97024</td>
+      <td>97194</td>
       <td>17248</td>
-      <td>32.80</td>
+      <td>3.26</td>
     </tr>
     <tr>
-      <td>97023</td>
+      <td>97193</td>
       <td>2654</td>
-      <td>32.91</td>
+      <td>3.27</td>
     </tr>
     <tr>
-      <td>97022</td>
+      <td>97192</td>
       <td>53827</td>
-      <td>33.04</td>
+      <td>3.29</td>
     </tr>
     <tr>
-      <td>97021</td>
-      <td>30386</td>
-      <td>33.17</td>
-    </tr>
-    <tr>
-      <td>97020</td>
+      <td>97191</td>
       <td>84020</td>
-      <td>33.21</td>
+      <td>3.30</td>
     </tr>
     <tr>
-      <td>97019</td>
+      <td>97190</td>
+      <td>30386</td>
+      <td>3.30</td>
+    </tr>
+    <tr>
+      <td>97189</td>
       <td>16765</td>
-      <td>33.36</td>
+      <td>3.32</td>
     </tr>
     <tr>
-      <td>97018</td>
+      <td>97188</td>
       <td>89747</td>
-      <td>33.52</td>
+      <td>3.33</td>
     </tr>
     <tr>
-      <td>97017</td>
+      <td>97187</td>
       <td>59463</td>
-      <td>33.70</td>
+      <td>3.35</td>
     </tr>
     <tr>
-      <td>97016</td>
+      <td>97186</td>
       <td>38555</td>
-      <td>33.73</td>
+      <td>3.35</td>
     </tr>
   </tbody>
 </table></br>  </br>
-Updated on 2022-01-04</br>
-</br>
 
  ### Top 25 (rarity using multiplication)
 <table border="1" class="dataframe">
@@ -338,127 +337,127 @@ Updated on 2022-01-04</br>
     <tr>
       <td>1</td>
       <td>11621</td>
-      <td>4703.08</td>
+      <td>46.57</td>
     </tr>
     <tr>
       <td>2</td>
       <td>81747</td>
-      <td>3955.62</td>
+      <td>12.35</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>47263</td>
-      <td>1410.83</td>
+      <td>63467</td>
+      <td>7.93</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>37120</td>
-      <td>1021.01</td>
+      <td>47263</td>
+      <td>7.84</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>74532</td>
-      <td>926.12</td>
+      <td>39591</td>
+      <td>7.44</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>33380</td>
-      <td>909.40</td>
+      <td>29795</td>
+      <td>6.63</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>46837</td>
-      <td>831.74</td>
+      <td>83101</td>
+      <td>6.58</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>74825</td>
-      <td>807.58</td>
+      <td>53836</td>
+      <td>6.31</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>17313</td>
-      <td>800.97</td>
+      <td>68770</td>
+      <td>5.73</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>69912</td>
-      <td>784.79</td>
+      <td>7732</td>
+      <td>5.33</td>
     </tr>
     <tr>
       <td>11</td>
-      <td>43530</td>
-      <td>780.36</td>
+      <td>44625</td>
+      <td>4.95</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>39591</td>
-      <td>751.24</td>
+      <td>86373</td>
+      <td>4.93</td>
     </tr>
     <tr>
       <td>13</td>
-      <td>49110</td>
-      <td>745.77</td>
+      <td>74825</td>
+      <td>4.49</td>
     </tr>
     <tr>
       <td>14</td>
-      <td>5311</td>
-      <td>726.69</td>
+      <td>17313</td>
+      <td>4.45</td>
     </tr>
     <tr>
       <td>15</td>
-      <td>62769</td>
-      <td>722.29</td>
+      <td>48223</td>
+      <td>4.33</td>
     </tr>
     <tr>
       <td>16</td>
-      <td>10200</td>
-      <td>702.91</td>
+      <td>73014</td>
+      <td>4.31</td>
     </tr>
     <tr>
       <td>17</td>
-      <td>26019</td>
-      <td>701.65</td>
+      <td>49110</td>
+      <td>4.15</td>
     </tr>
     <tr>
       <td>18</td>
-      <td>44766</td>
-      <td>700.85</td>
+      <td>10200</td>
+      <td>3.91</td>
     </tr>
     <tr>
       <td>19</td>
-      <td>1367</td>
-      <td>694.40</td>
+      <td>26019</td>
+      <td>3.90</td>
     </tr>
     <tr>
       <td>20</td>
-      <td>29795</td>
-      <td>670.53</td>
+      <td>1367</td>
+      <td>3.86</td>
     </tr>
     <tr>
       <td>21</td>
-      <td>53215</td>
-      <td>667.91</td>
+      <td>52344</td>
+      <td>3.78</td>
     </tr>
     <tr>
       <td>22</td>
-      <td>83101</td>
-      <td>664.92</td>
+      <td>63775</td>
+      <td>3.66</td>
     </tr>
     <tr>
       <td>23</td>
-      <td>70187</td>
-      <td>661.67</td>
+      <td>55033</td>
+      <td>3.52</td>
     </tr>
     <tr>
       <td>24</td>
-      <td>70442</td>
-      <td>652.70</td>
+      <td>86692</td>
+      <td>3.49</td>
     </tr>
     <tr>
       <td>25</td>
-      <td>16555</td>
-      <td>640.65</td>
+      <td>14982</td>
+      <td>3.40</td>
     </tr>
   </tbody>
 </table></br>
@@ -475,129 +474,1253 @@ Please notice the reverse order  <table border="1" class="dataframe">
   </thead>
   <tbody>
     <tr>
-      <td>97040</td>
-      <td>71614</td>
-      <td>5.96</td>
+      <td>97210</td>
+      <td>80225</td>
+      <td>0.20</td>
     </tr>
     <tr>
-      <td>97039</td>
-      <td>67863</td>
-      <td>6.05</td>
+      <td>97209</td>
+      <td>70407</td>
+      <td>0.21</td>
     </tr>
     <tr>
-      <td>97038</td>
-      <td>15504</td>
-      <td>6.13</td>
+      <td>97208</td>
+      <td>6160</td>
+      <td>0.22</td>
     </tr>
     <tr>
-      <td>97037</td>
-      <td>8415</td>
-      <td>6.16</td>
+      <td>97207</td>
+      <td>86171</td>
+      <td>0.22</td>
     </tr>
     <tr>
-      <td>97036</td>
-      <td>88333</td>
-      <td>6.27</td>
+      <td>97206</td>
+      <td>79571</td>
+      <td>0.22</td>
     </tr>
     <tr>
-      <td>97035</td>
+      <td>97205</td>
+      <td>32076</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97204</td>
+      <td>73026</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97203</td>
+      <td>68900</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97202</td>
+      <td>50100</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97201</td>
+      <td>11635</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97200</td>
+      <td>3151</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97199</td>
+      <td>60396</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97198</td>
+      <td>21352</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97197</td>
+      <td>58099</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97196</td>
+      <td>34239</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97195</td>
+      <td>25457</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97194</td>
+      <td>74475</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97193</td>
+      <td>96302</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97192</td>
+      <td>28412</td>
+      <td>0.24</td>
+    </tr>
+    <tr>
+      <td>97191</td>
+      <td>38057</td>
+      <td>0.24</td>
+    </tr>
+    <tr>
+      <td>97190</td>
+      <td>66171</td>
+      <td>0.24</td>
+    </tr>
+    <tr>
+      <td>97189</td>
+      <td>73450</td>
+      <td>0.24</td>
+    </tr>
+    <tr>
+      <td>97188</td>
+      <td>22453</td>
+      <td>0.24</td>
+    </tr>
+    <tr>
+      <td>97187</td>
+      <td>22418</td>
+      <td>0.24</td>
+    </tr>
+    <tr>
+      <td>97186</td>
+      <td>36490</td>
+      <td>0.24</td>
+    </tr>
+  </tbody>
+</table></br>  </br>
+
+ # matrix-red-contract</br>
+## Updated on 2022-01-14</br>
+- [Sorted by Nifty ID using addition method](./data/matrix-red-contract/full_a_sorted_niftyID.html) </br>
+ - [Sorted by Ranking ID using addition method](./data/matrix-red-contract/full_a_sorted_rankingID.html) </br>
+ - [Sorted by Nifty ID using multiplication method](./data/matrix-red-contract/full_m_sorted_niftyID.html) </br>
+ - [Sorted by Ranking ID using multiplication method](./data/matrix-red-contract/full_m_sorted_rankingID.html) </br>
+ </br>
+
+ ### Top 25 (rarity using addition)
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">aRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5090</td>
+      <td>10333.81</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>96220</td>
+      <td>10325.39</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>81743</td>
+      <td>10268.03</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>41904</td>
+      <td>10258.85</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>84328</td>
+      <td>10239.05</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>61440</td>
+      <td>10230.42</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>51080</td>
+      <td>10226.54</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>86889</td>
+      <td>10222.47</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>86839</td>
+      <td>10217.13</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>72688</td>
+      <td>10208.92</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>88042</td>
+      <td>10186.30</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>51216</td>
+      <td>10184.82</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>74323</td>
+      <td>10175.12</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>12530</td>
+      <td>10173.99</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>31653</td>
+      <td>10171.26</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>41240</td>
+      <td>10164.57</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>89892</td>
+      <td>10159.39</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>80020</td>
+      <td>10156.84</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>61378</td>
+      <td>10149.52</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>39160</td>
+      <td>10145.54</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>1373</td>
+      <td>10138.33</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>69853</td>
+      <td>10138.33</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>81243</td>
+      <td>10136.91</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>18763</td>
+      <td>10135.13</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>38181</td>
+      <td>10133.09</td>
+    </tr>
+  </tbody>
+</table></br>
+
+### Bottom 25 (rarity using addition)
+
+Please notice the reverse order  <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">aRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>39159</td>
+      <td>133</td>
+      <td>33.31</td>
+    </tr>
+    <tr>
+      <td>39158</td>
+      <td>11569</td>
+      <td>33.49</td>
+    </tr>
+    <tr>
+      <td>39157</td>
+      <td>24874</td>
+      <td>35.53</td>
+    </tr>
+    <tr>
+      <td>39156</td>
+      <td>21376</td>
+      <td>37.05</td>
+    </tr>
+    <tr>
+      <td>39155</td>
+      <td>87275</td>
+      <td>37.27</td>
+    </tr>
+    <tr>
+      <td>39154</td>
+      <td>51412</td>
+      <td>37.41</td>
+    </tr>
+    <tr>
+      <td>39153</td>
+      <td>80475</td>
+      <td>37.57</td>
+    </tr>
+    <tr>
+      <td>39152</td>
+      <td>77362</td>
+      <td>38.05</td>
+    </tr>
+    <tr>
+      <td>39151</td>
+      <td>55061</td>
+      <td>38.15</td>
+    </tr>
+    <tr>
+      <td>39150</td>
+      <td>96113</td>
+      <td>38.18</td>
+    </tr>
+    <tr>
+      <td>39149</td>
+      <td>83276</td>
+      <td>38.37</td>
+    </tr>
+    <tr>
+      <td>39148</td>
+      <td>90304</td>
+      <td>38.98</td>
+    </tr>
+    <tr>
+      <td>39147</td>
+      <td>57932</td>
+      <td>39.13</td>
+    </tr>
+    <tr>
+      <td>39146</td>
+      <td>4367</td>
+      <td>39.14</td>
+    </tr>
+    <tr>
+      <td>39145</td>
+      <td>20534</td>
+      <td>39.22</td>
+    </tr>
+    <tr>
+      <td>39144</td>
+      <td>65129</td>
+      <td>39.32</td>
+    </tr>
+    <tr>
+      <td>39143</td>
+      <td>86248</td>
+      <td>39.39</td>
+    </tr>
+    <tr>
+      <td>39142</td>
+      <td>31178</td>
+      <td>39.66</td>
+    </tr>
+    <tr>
+      <td>39141</td>
+      <td>47364</td>
+      <td>39.72</td>
+    </tr>
+    <tr>
+      <td>39140</td>
+      <td>27989</td>
+      <td>40.52</td>
+    </tr>
+    <tr>
+      <td>39139</td>
+      <td>67644</td>
+      <td>40.88</td>
+    </tr>
+    <tr>
+      <td>39138</td>
+      <td>11909</td>
+      <td>41.12</td>
+    </tr>
+    <tr>
+      <td>39137</td>
+      <td>7959</td>
+      <td>41.18</td>
+    </tr>
+    <tr>
+      <td>39136</td>
+      <td>33699</td>
+      <td>41.21</td>
+    </tr>
+    <tr>
+      <td>39135</td>
+      <td>48954</td>
+      <td>41.26</td>
+    </tr>
+  </tbody>
+</table></br>  </br>
+
+ ### Top 25 (rarity using multiplication)
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">mRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>71216</td>
+      <td>472003.20</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>19706</td>
+      <td>267712.26</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>88736</td>
+      <td>199290.58</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>12012</td>
+      <td>137229.26</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>21728</td>
+      <td>132476.73</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>12682</td>
+      <td>127774.03</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>48088</td>
+      <td>107042.52</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>11092</td>
+      <td>90419.44</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>54604</td>
+      <td>73910.37</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>34221</td>
+      <td>61879.46</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>66091</td>
+      <td>61451.82</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>86400</td>
+      <td>56569.42</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>73288</td>
+      <td>55184.03</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>41685</td>
+      <td>54536.04</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>65611</td>
+      <td>53289.77</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>69107</td>
+      <td>46277.70</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>81249</td>
+      <td>45585.14</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>43625</td>
+      <td>44799.11</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>63363</td>
+      <td>43927.53</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>66661</td>
+      <td>43850.99</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>75064</td>
+      <td>42365.61</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>43562</td>
+      <td>41943.97</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>71947</td>
+      <td>41865.10</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>26447</td>
+      <td>41729.11</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>66049</td>
+      <td>39906.49</td>
+    </tr>
+  </tbody>
+</table></br>
+
+### Bottom 25 (rarity using multiplication)
+
+Please notice the reverse order  <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">mRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>39159</td>
+      <td>21376</td>
+      <td>0.91</td>
+    </tr>
+    <tr>
+      <td>39158</td>
+      <td>11569</td>
+      <td>0.94</td>
+    </tr>
+    <tr>
+      <td>39157</td>
+      <td>133</td>
+      <td>1.04</td>
+    </tr>
+    <tr>
+      <td>39156</td>
+      <td>87275</td>
+      <td>1.06</td>
+    </tr>
+    <tr>
+      <td>39155</td>
+      <td>27989</td>
+      <td>1.06</td>
+    </tr>
+    <tr>
+      <td>39154</td>
+      <td>96113</td>
+      <td>1.15</td>
+    </tr>
+    <tr>
+      <td>39153</td>
+      <td>83460</td>
+      <td>1.16</td>
+    </tr>
+    <tr>
+      <td>39152</td>
+      <td>80475</td>
+      <td>1.20</td>
+    </tr>
+    <tr>
+      <td>39151</td>
+      <td>24874</td>
+      <td>1.24</td>
+    </tr>
+    <tr>
+      <td>39150</td>
+      <td>40952</td>
+      <td>1.28</td>
+    </tr>
+    <tr>
+      <td>39149</td>
+      <td>28851</td>
+      <td>1.29</td>
+    </tr>
+    <tr>
+      <td>39148</td>
+      <td>57932</td>
+      <td>1.35</td>
+    </tr>
+    <tr>
+      <td>39147</td>
+      <td>438</td>
+      <td>1.36</td>
+    </tr>
+    <tr>
+      <td>39146</td>
+      <td>20534</td>
+      <td>1.37</td>
+    </tr>
+    <tr>
+      <td>39145</td>
+      <td>77362</td>
+      <td>1.42</td>
+    </tr>
+    <tr>
+      <td>39144</td>
+      <td>20320</td>
+      <td>1.42</td>
+    </tr>
+    <tr>
+      <td>39143</td>
+      <td>79071</td>
+      <td>1.42</td>
+    </tr>
+    <tr>
+      <td>39142</td>
+      <td>37222</td>
+      <td>1.43</td>
+    </tr>
+    <tr>
+      <td>39141</td>
+      <td>44695</td>
+      <td>1.43</td>
+    </tr>
+    <tr>
+      <td>39140</td>
+      <td>48006</td>
+      <td>1.46</td>
+    </tr>
+    <tr>
+      <td>39139</td>
+      <td>79469</td>
+      <td>1.48</td>
+    </tr>
+    <tr>
+      <td>39138</td>
+      <td>17343</td>
+      <td>1.48</td>
+    </tr>
+    <tr>
+      <td>39137</td>
+      <td>73327</td>
+      <td>1.50</td>
+    </tr>
+    <tr>
+      <td>39136</td>
+      <td>83276</td>
+      <td>1.52</td>
+    </tr>
+    <tr>
+      <td>39135</td>
+      <td>62425</td>
+      <td>1.58</td>
+    </tr>
+  </tbody>
+</table></br>  </br>
+
+ # matrix-blue-contract</br>
+## Updated on 2022-01-14</br>
+- [Sorted by Nifty ID using addition method](./data/matrix-blue-contract/full_a_sorted_niftyID.html) </br>
+ - [Sorted by Ranking ID using addition method](./data/matrix-blue-contract/full_a_sorted_rankingID.html) </br>
+ - [Sorted by Nifty ID using multiplication method](./data/matrix-blue-contract/full_m_sorted_niftyID.html) </br>
+ - [Sorted by Ranking ID using multiplication method](./data/matrix-blue-contract/full_m_sorted_rankingID.html) </br>
+ </br>
+
+ ### Top 25 (rarity using addition)
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">aRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>47036</td>
+      <td>20961.61</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>55898</td>
+      <td>15392.83</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>55194</td>
+      <td>15317.48</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>13009</td>
+      <td>12271.29</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>71381</td>
+      <td>10517.11</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>27567</td>
+      <td>10448.83</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>79979</td>
+      <td>10331.47</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>13626</td>
+      <td>7352.08</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>76582</td>
+      <td>6958.94</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>45395</td>
+      <td>6930.83</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>11621</td>
+      <td>5282.56</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>7510</td>
+      <td>4431.49</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>74966</td>
+      <td>4409.31</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>68164</td>
+      <td>4387.57</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>8779</td>
+      <td>4225.70</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>47495</td>
+      <td>4225.48</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>71447</td>
+      <td>4186.03</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>55079</td>
+      <td>3888.47</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>60553</td>
+      <td>3704.49</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>92345</td>
+      <td>3567.11</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>33754</td>
+      <td>3550.89</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>62291</td>
+      <td>3532.80</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>59354</td>
+      <td>3497.07</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>83101</td>
+      <td>3219.40</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>77787</td>
+      <td>3001.06</td>
+    </tr>
+  </tbody>
+</table></br>
+
+### Bottom 25 (rarity using addition)
+
+Please notice the reverse order  <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">aRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10035</td>
+      <td>55147</td>
+      <td>126.32</td>
+    </tr>
+    <tr>
+      <td>10034</td>
+      <td>9710</td>
+      <td>131.50</td>
+    </tr>
+    <tr>
+      <td>10033</td>
+      <td>67484</td>
+      <td>138.34</td>
+    </tr>
+    <tr>
+      <td>10032</td>
+      <td>57833</td>
+      <td>139.92</td>
+    </tr>
+    <tr>
+      <td>10031</td>
+      <td>3854</td>
+      <td>142.00</td>
+    </tr>
+    <tr>
+      <td>10030</td>
+      <td>31010</td>
+      <td>144.51</td>
+    </tr>
+    <tr>
+      <td>10029</td>
+      <td>89282</td>
+      <td>145.48</td>
+    </tr>
+    <tr>
+      <td>10028</td>
+      <td>37366</td>
+      <td>145.62</td>
+    </tr>
+    <tr>
+      <td>10027</td>
+      <td>74676</td>
+      <td>147.13</td>
+    </tr>
+    <tr>
+      <td>10026</td>
+      <td>72078</td>
+      <td>147.49</td>
+    </tr>
+    <tr>
+      <td>10025</td>
+      <td>71129</td>
+      <td>147.54</td>
+    </tr>
+    <tr>
+      <td>10024</td>
+      <td>9525</td>
+      <td>148.23</td>
+    </tr>
+    <tr>
+      <td>10023</td>
+      <td>31223</td>
+      <td>148.46</td>
+    </tr>
+    <tr>
+      <td>10022</td>
+      <td>69477</td>
+      <td>148.84</td>
+    </tr>
+    <tr>
+      <td>10021</td>
+      <td>44241</td>
+      <td>150.24</td>
+    </tr>
+    <tr>
+      <td>10020</td>
+      <td>74923</td>
+      <td>151.45</td>
+    </tr>
+    <tr>
+      <td>10019</td>
+      <td>56633</td>
+      <td>151.99</td>
+    </tr>
+    <tr>
+      <td>10018</td>
+      <td>40873</td>
+      <td>152.13</td>
+    </tr>
+    <tr>
+      <td>10017</td>
+      <td>84016</td>
+      <td>152.19</td>
+    </tr>
+    <tr>
+      <td>10016</td>
+      <td>76584</td>
+      <td>152.34</td>
+    </tr>
+    <tr>
+      <td>10015</td>
+      <td>3057</td>
+      <td>152.37</td>
+    </tr>
+    <tr>
+      <td>10014</td>
+      <td>84109</td>
+      <td>152.49</td>
+    </tr>
+    <tr>
+      <td>10013</td>
+      <td>62728</td>
+      <td>152.57</td>
+    </tr>
+    <tr>
+      <td>10012</td>
+      <td>78351</td>
+      <td>152.78</td>
+    </tr>
+    <tr>
+      <td>10011</td>
+      <td>18412</td>
+      <td>153.09</td>
+    </tr>
+  </tbody>
+</table></br>  </br>
+
+ ### Top 25 (rarity using multiplication)
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">mRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>17601</td>
+      <td>57101417.78</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>47036</td>
+      <td>46881784.80</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>21677</td>
+      <td>44546780.15</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>55898</td>
+      <td>20970211.29</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>9260</td>
+      <td>19248636.07</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>90190</td>
+      <td>18488150.22</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>32839</td>
+      <td>16401933.30</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>1319</td>
+      <td>16021009.11</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>1884</td>
+      <td>11300589.59</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>77787</td>
+      <td>10940010.00</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>21454</td>
+      <td>10851932.12</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>21133</td>
+      <td>10742787.15</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>79308</td>
+      <td>10321468.88</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>16294</td>
+      <td>10277095.09</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>71381</td>
+      <td>10255964.22</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>95331</td>
+      <td>9840153.99</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>95783</td>
+      <td>9797774.06</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>17085</td>
+      <td>9769713.69</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>66967</td>
+      <td>9352810.27</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>21218</td>
+      <td>9164299.95</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>60553</td>
+      <td>9104783.08</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>92398</td>
+      <td>9002630.89</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>3651</td>
+      <td>8864936.92</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>48839</td>
+      <td>8421630.16</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>18717</td>
+      <td>7932371.84</td>
+    </tr>
+  </tbody>
+</table></br>
+
+### Bottom 25 (rarity using multiplication)
+
+Please notice the reverse order  <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">mRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10035</td>
+      <td>57833</td>
+      <td>3150.97</td>
+    </tr>
+    <tr>
+      <td>10034</td>
+      <td>55147</td>
+      <td>3497.84</td>
+    </tr>
+    <tr>
+      <td>10033</td>
+      <td>9710</td>
+      <td>4236.02</td>
+    </tr>
+    <tr>
+      <td>10032</td>
+      <td>18412</td>
+      <td>4306.10</td>
+    </tr>
+    <tr>
+      <td>10031</td>
+      <td>23916</td>
+      <td>4652.70</td>
+    </tr>
+    <tr>
+      <td>10030</td>
+      <td>67484</td>
+      <td>4886.47</td>
+    </tr>
+    <tr>
+      <td>10029</td>
+      <td>44241</td>
+      <td>5105.16</td>
+    </tr>
+    <tr>
+      <td>10028</td>
+      <td>33173</td>
+      <td>5161.41</td>
+    </tr>
+    <tr>
+      <td>10027</td>
+      <td>12216</td>
+      <td>5164.74</td>
+    </tr>
+    <tr>
+      <td>10026</td>
+      <td>71389</td>
+      <td>5190.42</td>
+    </tr>
+    <tr>
+      <td>10025</td>
+      <td>87903</td>
+      <td>5203.78</td>
+    </tr>
+    <tr>
+      <td>10024</td>
+      <td>20700</td>
+      <td>5334.51</td>
+    </tr>
+    <tr>
+      <td>10023</td>
+      <td>37366</td>
+      <td>5521.74</td>
+    </tr>
+    <tr>
+      <td>10022</td>
+      <td>31010</td>
+      <td>5674.72</td>
+    </tr>
+    <tr>
+      <td>10021</td>
+      <td>6524</td>
+      <td>5970.66</td>
+    </tr>
+    <tr>
+      <td>10020</td>
+      <td>75314</td>
+      <td>5983.31</td>
+    </tr>
+    <tr>
+      <td>10019</td>
+      <td>5220</td>
+      <td>6034.88</td>
+    </tr>
+    <tr>
+      <td>10018</td>
       <td>2654</td>
-      <td>6.29</td>
+      <td>6091.07</td>
     </tr>
     <tr>
-      <td>97034</td>
-      <td>23442</td>
-      <td>6.30</td>
+      <td>10017</td>
+      <td>67896</td>
+      <td>6311.09</td>
     </tr>
     <tr>
-      <td>97033</td>
-      <td>48815</td>
-      <td>6.32</td>
+      <td>10016</td>
+      <td>26654</td>
+      <td>6384.10</td>
     </tr>
     <tr>
-      <td>97032</td>
-      <td>48794</td>
-      <td>6.32</td>
+      <td>10015</td>
+      <td>9525</td>
+      <td>6462.68</td>
     </tr>
     <tr>
-      <td>97031</td>
-      <td>29479</td>
-      <td>6.37</td>
+      <td>10014</td>
+      <td>78605</td>
+      <td>6584.69</td>
     </tr>
     <tr>
-      <td>97030</td>
-      <td>70646</td>
-      <td>6.37</td>
+      <td>10013</td>
+      <td>3854</td>
+      <td>6622.91</td>
     </tr>
     <tr>
-      <td>97029</td>
-      <td>31021</td>
-      <td>6.38</td>
+      <td>10012</td>
+      <td>2558</td>
+      <td>6768.65</td>
     </tr>
     <tr>
-      <td>97028</td>
-      <td>57198</td>
-      <td>6.42</td>
-    </tr>
-    <tr>
-      <td>97027</td>
-      <td>1189</td>
-      <td>6.52</td>
-    </tr>
-    <tr>
-      <td>97026</td>
-      <td>471</td>
-      <td>6.53</td>
-    </tr>
-    <tr>
-      <td>97025</td>
-      <td>35298</td>
-      <td>6.63</td>
-    </tr>
-    <tr>
-      <td>97024</td>
-      <td>9827</td>
-      <td>6.66</td>
-    </tr>
-    <tr>
-      <td>97023</td>
-      <td>19115</td>
-      <td>6.66</td>
-    </tr>
-    <tr>
-      <td>97022</td>
-      <td>56777</td>
-      <td>6.66</td>
-    </tr>
-    <tr>
-      <td>97021</td>
-      <td>53827</td>
-      <td>6.67</td>
-    </tr>
-    <tr>
-      <td>97020</td>
-      <td>20364</td>
-      <td>6.70</td>
-    </tr>
-    <tr>
-      <td>97019</td>
-      <td>84020</td>
-      <td>6.71</td>
-    </tr>
-    <tr>
-      <td>97018</td>
-      <td>92937</td>
-      <td>6.71</td>
-    </tr>
-    <tr>
-      <td>97017</td>
-      <td>20504</td>
-      <td>6.78</td>
-    </tr>
-    <tr>
-      <td>97016</td>
-      <td>12840</td>
-      <td>6.78</td>
+      <td>10011</td>
+      <td>54692</td>
+      <td>6771.83</td>
     </tr>
   </tbody>
 </table></br>  
