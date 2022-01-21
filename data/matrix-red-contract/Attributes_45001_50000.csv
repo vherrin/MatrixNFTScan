@@ -1,7 +1,7 @@
 ,Perception,Headjack,Will,Movement,Name,Persuasion,Top,Awareness,Glasses,Footwear,Power,Charisma,Wisdom,Intelligence,Dexterity,Constitution,Strength,Votes,Generation,Right Hand Accessory,Left Hand Accessory,Front Neck Tattoo,Side Neck Tattoo,Forearm Tattoo,Bicep Tattoo,Piercings,Neckwear,Wristwear,Facial Expression,Facial Hair,Hair Dye,Hair Color,Hair Style,Background,Bottom
 45001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45003,Can see over the horizon,Yes,Steps forward as others flee,Two left feet,None,Your significant other's mom loves you,Black Leather Tank,You have a childlike sense of wonder,Black Futurist with Black Lens,Black Snakeskin Neo Combat Boot,Can take a punch,8,7,13,3,13,3,1,1,,,,,Valknut,Triangle,,,,,,Natural,Blonde,Messy Updo Bun,Light Rain,Black Cotton Wool Slacks with Buckles
 45004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45005,Can see around corners,Yes,Incredible moral fiber,Two left feet,None,Even you don't believe you,Green Patent Leather Moto Jacket with Black Cotton Crew,Eckhart Tolle has you on speed dial,Black Futurist with Black Lens,Green Leather Combat Cuff Boot,Can take a punch,1,17,11,3,11,3,1,1,,Phone,,,,,"Black Nose, Lip, Forehead",,,,,White,Dark Brown,Short Curly Fade,Light Rain,Black Cotton Leggings
 45006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -17,7 +17,7 @@
 45016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45019,Can hear a heartbeat a mile away,Yes,Quiet confidence,A gelatinous blob,None,You're a bit of a charmer,Black Cotton Martial Arts Top,Laughing at your mistakes,Black Wayfarer with Black Lens,Black Knee High Leather Boots,Your grandma beats you at arm-wrestling,7,10,12,1,10,2,1,1,Silver Short Sai,Katana with Black Handle and White Blade,,,,,,,,,Goatee,Natural,Dark Brown,,Light Rain,Black Snakeskin Pants with Buckles
 45020,Excellent at reading people,Yes,Quiet confidence,Two left feet,None,Maintains status quo,Green Cotton Mandarin Tunic,Accepting the impermanence of things,Black Hex with Purple Polarized Lens,Black Leather Neo Combat Boot,Can put up a fight,5,11,8,3,10,4,1,1,,Black Long Sai,,,,,,,,Smirk,,Pink,Light Brown,Bob with Fringes,Heavy Rain,White Cotton Wool Slacks with Buckles
 45021,You've got a bad feeling about this,Yes,Incredible moral fiber,Two left feet,None,Your significant other's mom loves you,Black Cotton Tank,You know the sound of one hand clapping,,Black Leather Combat Cuff Boot,Can take a punch,8,13,9,3,11,3,1,1,,Katana with Black Handle and White Blade,,Square,Triforce,Equality Sign,,,Thick Leather,Smirk,Thin,Natural,Black,Buzz Cut,Light Rain,Black Cotton Martial Arts Pants
 45022,Can hear a bee's wings,Yes,Reluctant volunteer,Can walk and chew gum AT THE SAME TIME (good job!),None,People follow you blindly,Green Cotton Tank,Self-induced illusions fade,,Green Knee High Leather Boots,Can take a punch,11,8,10,4,5,3,1,1,Katana with Black Handle and Gold Blade,Silver Staff,Circle,,Intersecting Triangles,Interlocking Circles,Silver Earrings,,,Meditative,,Natural,Black,Pulled Back Short,Medium Rain,Black Leather Pants with Buckles
@@ -57,7 +57,7 @@
 45056,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45057,Can hear a bee's wings,Yes,Unshakable resolve,Two left feet,None,Your significant other's mom loves you,Black Leather Moto Jacket with Black Cotton Crew,Laughing at your mistakes,Round Black with Black Lens,Black Patent Leather Neo Combat Boot,Can put up a fight,8,10,10,3,12,4,1,1,,Katana with Black Handle and Silver Blade,,,,,,,,,,Natural,Black,Messy Updo Bun,Light Rain,Black Cotton Wool Slacks with Buckles
 45058,The world has come into focus,Yes,Incredible moral fiber,Can walk on ceilings,None,You're a bit of a charmer,Black Cotton Martial Arts Top,Laughing at your mistakes,Round Black with Black Lens,Green Black Patent Leather Neo Combat Boot,Scrappy,7,10,5,15,11,5,1,1,,Black Submachine Gun,,,,,,,,Scowl,Goatee,Natural,Light Grey,Short Afro Fade,Light Rain,Red Cotton Wool Slacks with Buckles
-45059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45059,You've got a bad feeling about this,Yes,Incredible moral fiber,Two left feet,None,People smile back at you,Green Patent Leather Moto Jacket with Black Cotton Crew,Self-induced illusions fade,Black Wayfarer with Black Lens,White Leather Combat Cuff Boot,You are the dangerzone,6,8,9,3,11,15,1,1,Black Short Sai,Katana with Black Handle and Silver Blade,,,,,,,,Scowl,,Natural,Black,Long Messy,Light Rain,Green Cotton Wool Slacks with Buckles
 45060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45061,Can see around corners,Yes,Incredible moral fiber,Two left feet,None,You're a bit of a charmer,Red Patent Leather Longsleeve Crew,Accepting the impermanence of things,Round Black with Black Lens,Black Leather Neo Combat Boot,People get out of your way,7,11,11,3,11,7,1,1,,,,,,,,,Thick Leather,Scowl,,Light Purple,Light Brown,Buzz Cut,Medium Rain,Black Patent Leather Pants with Buckles
 45062,You've got a bad feeling about this,Yes,True grit,Can walk and chew gum AT THE SAME TIME (good job!),None,You're a bit of a charmer,White Leather Tunic with Buttons,You have walked the manifold path,Round Black with Black Lens,Green Leather Neo Combat Boot,Your grandma beats you at arm-wrestling,7,14,9,4,9,2,1,1,,Black Shotgun,,,,,,,,Smirk,,Natural,Black,Short Messy,Light Rain,Green Leather Pants with Buckles
@@ -143,7 +143,7 @@
 45142,Can hear a bee's wings,Yes,True grit,Sleep paralysis,None,Others are helpless to deny you,Charcoal Cotton Longsleeve Crew,Laughing at your mistakes,,Red Leather Combat Cuff Boot,Can put up a fight,13,10,10,2,9,4,1,1,,Katana with Black Handle and Silver Blade,Intersecting Triangles,,,,,,,Smirk,,Natural,Light Brown,Bob with Fringes,Medium Rain,Black Cotton Wool Slacks with Buckles
 45143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45145,Can see around corners,Yes,Incredible moral fiber,Can walk and chew gum AT THE SAME TIME (good job!),None,You're a bit of a charmer,Green Leather Moto Jacket with Green Cotton Crew,Learning to regulate emotions,Black Wayfarer with Black Lens,Patent Green Leather Combat Cuff Boot,Can put up a fight,7,9,11,4,11,4,1,1,,,,,,,Silver Earrings,,,,,Natural,Light Grey,Short Messy,Light Rain,Black Cotton Wool Slacks with Buckles
 45146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -315,7 +315,7 @@
 45314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45315,Can hear a bee's wings,Yes,Quiet confidence,Can walk and chew gum AT THE SAME TIME (good job!),None,Nobody's buying it,Green Leather Moto Jacket with Black Leather Crew,Self-induced illusions fade,Black Futurist with Black Lens,Black Leather Combat Cuff Boot,Paper hands,2,8,10,4,10,1,1,1,,Katana with Black Handle and Silver Blade,,,,,,,,Smirk,,Green,Black,Faux Hawk,Light Rain,Black Cotton Leggings
 45316,Can see around corners,Yes,Last one standing,Pretty light on your feet,None,Your significant other's mom loves you,Black Cotton Martial Arts Top,You know the sound of one hand clapping,Black Wayfarer with Black Lens,,Scrappy,8,13,11,6,14,5,1,1,,Katana with Black Handle and Silver Blade,,,,,,,,Smirk,,Neon Red,Black,Buzz Cut,Light Rain,Red Cotton Martial Arts Pants
-45317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45317,Can hear a bee's wings,Yes,Unshakable resolve,Two left feet,None,Your significant other's mom loves you,Black Patent Leather Crewneck Tunic,Accepting the impermanence of things,Black and Gold Wayfarer with Black Lens,Black Leather Neo Combat Boot,Your grandma beats you at arm-wrestling,8,11,10,3,12,2,1,1,Katana with Black Handle and Silver Blade,Katana with White Handle and Silver Blade,,,,,,Leather Choker,,Scowl,,Natural,Black,Bob with Fringes,Light Rain,Green Cotton Leggings
 45318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45320,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -433,7 +433,7 @@
 45432,Can hear a bee's wings,Yes,Incredible moral fiber,A gelatinous blob,None,Maintains status quo,Green Leather Moto Jacket with Black Cotton Crew,Accepting the impermanence of things,Translucent Hex with Red Polarized Lens,Black Leather Combat Cuff Boot,I wouldn't mess with you,5,11,10,1,11,6,1,1,,,,,,,Black Earrings,,,Smirk,,Natural,Light Brown,,Light Rain,Green Leather Pants with Buckles
 45433,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45434,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45435,Can hear a bee's wings,Yes,Incredible moral fiber,Two left feet,None,Maintains status quo,Green Leather Moto Jacket with Charcoal Cotton Crew,You know the sound of one hand clapping,Black and Gold Wayfarer with Black Lens,Green Knee High Leather Boots,Can take a punch,5,13,10,3,11,3,1,1,,,,,,,,,,Smirk,,Natural,Black,Braids,Medium Rain,Black Patent Leather Leggins
 45436,Can hear a heartbeat a mile away,Yes,Quiet confidence,Can walk and chew gum AT THE SAME TIME (good job!),None,People follow you blindly,White Leather Trench Coat with Green Snakeskin Tank,Laughing at your mistakes,Black Neo with Black Lens,Black Leather Neo Combat Boot,Can take a punch,11,10,12,4,10,3,1,1,,Dark Wood Staff,,,,,,,,,,Natural,Light Brown,Short Sideswept Fringe,Medium Rain,Black Cotton Leggings
 45437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45438,Can hear a bee's wings,Yes,Quiet confidence,Getting the hang of it,None,Your significant other's mom loves you,Charcoal Cotton Longsleeve Crew,Laughing at your mistakes,,Red Leather Combat Cuff Boot,Your grandma beats you at arm-wrestling,8,10,10,5,10,2,1,1,Black Short Sai,Katana with White Handle and Silver Blade,,,,,"Black Nose, Lip, Forehead",,Studded Leather,Scowl,,Natural,Black,Braids,Medium Rain,Green Cotton Martial Arts Pants
@@ -570,10 +570,10 @@
 45569,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45570,Can see around corners,Yes,Steps forward as others flee,Two left feet,None,Maintains status quo,Black Cotton Tank,Laughing at your mistakes,Round Silver with Mirror Lens,White Knee High Leather Boots,Can take a punch,5,10,11,3,13,3,1,1,,Dark Wood Staff,Valknut,,,Small Arrows,,,,Scowl,,Natural,Light Grey,Bob with Fringes,Heavy Rain,Black Cotton Wool Slacks with Buckles
 45571,Can see around corners,Yes,Quiet confidence,Two left feet,None,Your significant other's mom loves you,Charcoal Leather Longsleeve Crew,Laughing at your mistakes,Black Wayfarer with Black Lens,Black Knee High Leather Boots,Can put up a fight,8,10,11,3,10,4,1,1,,Phone,,,,,"Black Nose, Lip",,Thick Leather,,Beard,Natural,Dark Brown,Pulled Back Short,Light Rain,Green Patent Leather Pants with Buckles
-45572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45573,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45574,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45575,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45572,Can hear a heartbeat a mile away,Yes,Unshakable resolve,Pretty light on your feet,None,Could probably convince a small child,Red Patent Lather Trench Coat with Black Cotton Oxford and Red Tie,You know the sound of one hand clapping,,White Leather Combat Cuff Boot,Scrappy,3,13,12,6,12,5,1,1,Katana with White Handle and Silver Blade,Phone,,,,,,,,Smirk,,Natural,Dark Brown,Short Messy,Light Rain,Black Cotton Wool Slacks with Buckles
+45573,Heightened senses,Yes,Unshakable resolve,Two left feet,None,Even you don't believe you,Charcoal Cotton Longsleeve Crew,You have walked the manifold path,,White Knee High Leather Boots,Scrappy,1,14,7,3,12,5,1,1,,Phone,,,,,,,Studded Leather,Scowl,,Natural,Light Brown,Short Messy,Heavy Rain,Black Cotton Wool Slacks with Buckles
+45574,Can hear a heartbeat a mile away,Yes,Incredible moral fiber,Can walk and chew gum AT THE SAME TIME (good job!),None,Maintains status quo,Black Cotton Tank,Appreciation for the complexity of human behavior,,Black Leather Neo Combat Boot,Your grandma beats you at arm-wrestling,5,12,12,4,11,2,1,1,,Gold Long Sai,,,Valknut,Shaded Triangle,,,,Smirk,Goatee,Natural,Black,Short Sideswept Fringe,Light Rain,Black Leather Pants with Buckles
+45575,Can see over the horizon,Yes,People think of you in their time of need,Two left feet,None,Could win a presidency without a political background,Red Wool Mandarin Trench Coat,Laughing at your mistakes,Round Black with Black Lens,Black Snakeskin Neo Combat Boot,Can put up a fight,15,10,13,3,17,4,1,1,Black Gun,Gold Short Sai,,,,,,,,Smirk,,Natural,Dark Brown,Long Straight Bangs,Light Rain,Green Leather Leggings
 45576,Can hear a heartbeat a mile away,Yes,Incredible moral fiber,Two left feet,None,Your significant other's mom loves you,Green Leather Tank,Learning to regulate emotions,Silver Morpheus with Orange and Red Gradient Lens,Red Patent Leather Neo Combat Boot,Scrappy,8,9,12,3,11,5,1,1,,Phone,,,Triforce,,Silver Nose and Lip Rings,,,,,Natural,Light Brown,Low Ponytail,Medium Rain,Black Cotton Wool Slacks with Buckles
 45577,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45578,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -726,7 +726,7 @@
 45725,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45726,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45727,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45728,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45728,Can smell fear,Yes,Quiet confidence,Two left feet,None,Your significant other's mom loves you,Charcoal Cotton Longsleeve Crew,Accepting the impermanence of things,Black Wayfarer with Black Lens,Black Leather Neo Combat Boot,Can take a punch,8,11,14,3,10,3,1,1,Black Long Sai,Black Gun,,,,,,Leather Choker,Studded Leather,,,Natural,Black,Asymmetrical Bob,Medium Rain,Black Cotton Wool Slacks with Buckles
 45729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45730,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45731,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -910,7 +910,7 @@
 45909,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45910,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45911,Can see over the horizon,Yes,True grit,Sleep paralysis,None,Your significant other's mom loves you,Green Cotton Martial Arts Top,You forgot your mantra,Black Futurist with Black Lens,,Can take a punch,8,5,13,2,9,3,1,1,,Dark Wood Staff,Alchemy,Interlocking Circles,,,,,,,,Pink,Auburn,Buzz Cut,Light Rain,Black Cotton Martial Arts Pants
-45912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45912,Can see around corners,Yes,Last one standing,Two left feet,None,Could sell ice to an eskimo,Black Patent Lather Trench Coat with Black Cotton Oxford and Red Tie,You know the sound of one hand clapping,,Black Leather Neo Combat Boot,People get out of your way,9,13,11,3,14,7,1,1,,,,,,,Silver Earrings,,,,Mustache,Natural,Black,Short Messy,Heavy Rain,Black Leather Leggings
 45913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45914,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45915,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -950,7 +950,7 @@
 45949,Can hear a heartbeat a mile away,Yes,Steps forward as others flee,Can walk and chew gum AT THE SAME TIME (good job!),None,Could probably convince a small child,Black Patent Leather Trench Coat with Black Cotton Tank,Laughing at your mistakes,Round Black with Black Lens,Green Patent Leather Knee High Boots,Can take a punch,3,10,12,4,13,3,1,1,,,Intersecting Triangles,,,,,,,Scowl,,Natural,Black,Long Afro,Light Rain,Black Leather Pants with Buckles
 45950,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45951,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45952,You've got a bad feeling about this,Yes,Surprising resilience,Sleep paralysis,None,People follow you blindly,Black Patent Leather Tunic with Buttons,Appreciation for the complexity of human behavior,Round Silver with Mirror Lens,Patent White Leather Combat Cuff Boot,I wouldn't mess with you,11,12,9,2,8,6,1,1,,,,,,,,,,,,Natural,Light Brown,,Medium Rain,Black Cotton Wool Slacks with Buckles
 45953,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45954,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45955,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -981,7 +981,7 @@
 45980,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45982,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45983,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45983,You've got a bad feeling about this,Yes,Quiet confidence,Getting the hang of it,None,Natural born leader,Black Leather Mandarin Trench Coat,Appreciation for the complexity of human behavior,,Black Patent Leather Neo Combat Boot,Can put up a fight,10,12,9,5,10,4,1,1,Black Gun,Silver Submachine Gun,,,,,,,,Scowl,,Natural,Blonde,,Light Rain,Red Cotton Leggings
 45984,Can see around corners,Yes,Incredible moral fiber,Two left feet,None,Could probably convince a small child,Red Wool Mandarin Trench Coat,Appreciation for the complexity of human behavior,Black Morpheus with Dark Mirrored Lens,Green Patent Leather Knee High Boots,Can put up a fight,3,12,11,3,11,4,1,1,,,,,,,,,,,Stubble,Natural,Light Brown,Messy Updo Bun,Light Rain,Black Cotton Wool Slacks with Buckles
 45985,Can see around corners,Yes,True grit,Getting the hang of it,None,Your significant other's mom loves you,Charcoal Patent Leather Longsleeve Crew,Learning to regulate emotions,,Green Black Patent Leather Neo Combat Boot,People get out of your way,8,9,11,5,9,7,1,1,Phone,,,,,,,,,Scowl,,Natural,Blonde,,Light Rain,Black Cotton Wool Slacks with Buckles
 45986,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1015,7 +1015,7 @@
 46014,Can hear a bee's wings,Yes,Unshakable resolve,Sleep paralysis,None,Could probably convince a small child,White Cotton Mandarin Tunic,The veil begins to lift,,Patent Green Leather Combat Cuff Boot,Scrappy,3,6,10,2,12,5,1,1,Black Shotgun,Silver Gun,,,,,Black Earrings,Leather Choker,,Smirk,,Natural,Light Brown,,Light Rain,Red Leather Leggings
 46015,Can smell fear,Yes,True grit,Two left feet,None,People smile back at you,Green Snakeskin Moto Jacket with Green Patent Leather Crew,Laughing at your mistakes,Black Wayfarer with Black Lens,Black Leather Combat Cuff Boot,Your grandma beats you at arm-wrestling,6,10,14,3,9,2,1,1,,Phone,,,,,Black Earrings,,,,,Natural,Black,Messy Updo Bun,Light Rain,Black Leather Leggings
 46016,Can hear a heartbeat a mile away,Yes,Quiet confidence,Sleep paralysis,None,Natural born leader,Black Leather Moto Jacket with Green Cotton Crew,Laughing at your mistakes,Black Futurist with Black Lens,Black Patent Leather Knee High Boots,People get out of your way,10,10,12,2,10,7,1,1,,,,,,,,,,,,Green,Dark Brown,Medium Curly Bob,Medium Rain,Black Leather Pants with Buckles
-46017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46017,Can hear a heartbeat a mile away,Yes,Incredible moral fiber,Two left feet,None,Glossophobia,Charcoal Patent Leather Longsleeve Crew,Self-induced illusions fade,Black Wayfarer with Black Lens,Black Patent Leather Neo Combat Boot,Can take a punch,4,8,12,3,11,3,1,1,Katana with Black Handle and Silver Blade,Black Submachine Gun,,,,,,,,,,Natural,Blonde,Short Afro Fade,Light Rain,Black Cotton Leggings
 46018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1065,7 +1065,7 @@
 46064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46067,Can hear a bee's wings,Yes,Quiet confidence,Getting the hang of it,None,Maintains status quo,Red Cotton Tunic with Buttons,Accepting the impermanence of things,Translucent Hex with Red Polarized Lens,Green Leather Combat Cuff Boot,Can take a punch,5,11,10,5,10,3,1,1,,Silver Staff,,,,,,,,,Stubble,Natural,Dark Brown,Short Coil,Heavy Rain,Black Snakeskin Pants with Buckles
 46068,Can hear a bee's wings,Yes,Quiet confidence,Pretty light on your feet,None,People smile back at you,Black Leather Moto Jacket with Charcoal Cotton Crew,Learning to regulate emotions,,Black Leather Combat Cuff Boot,Can put up a fight,6,9,10,6,10,4,1,1,Silver Staff,Katana with Black Handle and Silver Blade,,,,,,,,Meditative,,Natural,Black,Buzz Cut,Heavy Rain,Green Cotton Leggings
 46069,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46070,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1073,9 +1073,9 @@
 46072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46074,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46076,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46075,The world has come into focus,Yes,Unshakable resolve,A gelatinous blob,None,Could probably convince a small child,White Wool Mandarin Trench Coat,Laughing at your mistakes,,Black Leather Neo Combat Boot,Can take a punch,3,10,5,1,12,3,1,1,,Phone,,,,,,,,,,Natural,Blonde,Braids,Light Rain,Green Cotton Leggings
+46076,Can hear a bee's wings,Yes,Incredible moral fiber,Can walk and chew gum AT THE SAME TIME (good job!),None,Glossophobia,Black Cotton Longsleeve with Zipper,You know the sound of one hand clapping,Translucent Hex with Red Polarized Lens,Black Leather Combat Cuff Boot,People get out of your way,4,13,10,4,11,7,1,1,,,,Equality Sign,,,Silver Earrings,,,,,Pink,Black,Mohawk,Medium Rain,Black Leather Pants with Buckles
+46077,Can hear a bee's wings,Yes,Last one standing,Two left feet,None,Maintains status quo,Black Leather Tank,You know the sound of one hand clapping,Round Black with Black Lens,Patent Green Leather Combat Cuff Boot,I wouldn't mess with you,5,13,10,3,14,6,1,1,,Katana with Black Handle and Silver Blade,,,,Intersecting Triangles,,,,Smirk,,Pink,Dark Brown,Asymmetrical Bob,Heavy Rain,Black Cotton Leggings
 46078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1158,7 +1158,7 @@
 46157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46160,Can hear a bee's wings,Yes,Incredible moral fiber,Two left feet,None,Could win a presidency without a political background,Black Cotton Longsleeve Crew,Self-induced illusions fade,,Black Leather Combat Cuff Boot,Can put up a fight,15,8,10,3,11,4,1,1,,,,,,,"Black Nose, Lip",,Thick Leather,Scowl,Stubble,Pink,Dark Brown,Medium Curly Bob,Light Rain,Black Cotton Leggings
 46161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1264,7 +1264,7 @@
 46263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46266,Can hear a bee's wings,Yes,Surprising resilience,Can walk and chew gum AT THE SAME TIME (good job!),None,Others are helpless to deny you,Red Leather Tunic with Buttons,Laughing at your mistakes,Black Hex with Purple Polarized Lens,Black Leather Combat Cuff Boot,I wouldn't mess with you,13,10,10,4,8,6,1,1,,,,,,,"Black Nose, Lip, Forehead",,,,,Natural,Dark Brown,Short Messy,Medium Rain,Black Patent Leather Pants with Buckles
 46267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46269,Can hear a heartbeat a mile away,Yes,Incredible moral fiber,Can walk and chew gum AT THE SAME TIME (good job!),None,Everything is always an option,Black Leather Trench Coat with Black Leather Tank,Appreciation for the complexity of human behavior,,Red Snakeskin Knee High Boots,Your grandma beats you at arm-wrestling,12,12,12,4,11,2,1,1,Dark Wood Staff,,,,,,,,,,Goatee,Natural,Dark Brown,Faux Hawk,Light Rain,Black Leather Pants with Buckles
@@ -1602,7 +1602,7 @@
 46601,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46603,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46604,Can hear a bee's wings,Yes,Surprising resilience,Sleep paralysis,None,You're a bit of a charmer,Black Wool Mandarin Trench Coat,You have a childlike sense of wonder,,Black Leather Combat Cuff Boot,Can take a punch,7,7,10,2,8,3,1,1,,Black Arm Pole,,,,,,,,Scowl,,Light Purple,Light Brown,Medium Curly Bob,Medium Rain,Black Leather Pants with Buckles
 46605,Can hear a bee's wings,Yes,Steps forward as others flee,Always picked first,None,Could probably convince a small child,Green Patent Leather Mandarin Trench Coat,Self-induced illusions fade,Black Neo with Black Lens,Black Leather Combat Cuff Boot,Can take a punch,3,8,10,8,13,3,1,1,,Black Shotgun,,,,,,,,Smirk,,Natural,Black,Short Messy,Light Rain,Black Cotton Wool Slacks with Buckles
 46606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46607,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1644,7 +1644,7 @@
 46643,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46644,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46645,You've got a bad feeling about this,Yes,Incredible moral fiber,Can walk and chew gum AT THE SAME TIME (good job!),None,Glossophobia,Red Cotton Tank,Self-induced illusions fade,,Black Leather Neo Combat Boot,Scrappy,4,8,9,4,11,5,1,1,,Phone,,Triangle,Intersecting Triangles,Shaded Triangle,Black Earrings,,Thick Leather,Scowl,,Light Purple,Blonde,Low Ponytail,Medium Rain,Black Cotton Wool Slacks with Buckles
-46646,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46646,Can see around corners,Yes,Stiff upper lip,Getting the hang of it,None,Could sell ice to an eskimo,Green Leather Moto Jacket with Red Cotton Crew,Laughing at your mistakes,Black and Gold Wayfarer with Black Lens,Black Patent Leather Neo Combat Boot,Your grandma beats you at arm-wrestling,9,10,11,5,7,2,1,1,,Silver Staff,,,,,,,,,,Natural,Black,,Medium Rain,Red Leather Pants with Buckles
 46647,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46648,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46649,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1762,15 +1762,15 @@
 46761,Can see over the horizon,Yes,Quiet confidence,Running circles around enemies,None,Could sell ice to an eskimo,Black Cotton Tunic with Buttons,Learning to regulate emotions,Black and Gold Wayfarer with Black Lens,Black Leather Neo Combat Boot,Can take a punch,9,9,13,7,10,3,1,1,,Phone,,Intersecting Squares,,,"Black Nose, Lip, Forehead",,,,Goatee,Natural,Black,Long Straight Bangs,Medium Rain,Black Cotton Leggings
 46762,Can see around corners,Yes,True grit,Pretty light on your feet,None,People smile back at you,Green Leather Moto Jacket with Black Cotton Crew,Appreciation for the complexity of human behavior,Round Black with Black Lens,Green Knee High Leather Boots,Can take a punch,6,12,11,6,9,3,1,1,,Katana with Black Handle and Silver Blade,,,,,,,,,Stubble,Neon Red,Black,Short Curly Fade,Light Rain,Black Cotton Wool Slacks with Buckles
 46763,Can see around corners,Yes,Steps forward as others flee,Abnormal flexibility,None,Your significant other's mom loves you,Charcoal Patent Leather Longsleeve Crew,Accepting the impermanence of things,,Red Knee High Leather Boots,Can put up a fight,8,11,11,9,13,4,1,1,,Phone,,Equality Sign,,,,,Thick Leather,Meditative,,Neon Red,Blonde,Short Updo,Medium Rain,Black Cotton Leggings
-46764,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46765,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46764,Can see over the horizon,Yes,Begrudging participant,Astonishing acrobatics,None,People smile back at you,Black Leather Trench Coat with Black Cotton Oxford and White Tie,You have a childlike sense of wonder,Black Neo with Black Lens,Black Leather Combat Cuff Boot,Scrappy,6,7,13,10,6,5,1,1,,Black Shotgun,,,,,,,,Smirk,,Natural,Dark Brown,Asymmetrical Bob,Medium Rain,Black Patent Leather Pants with Buckles
+46765,Can hear a bee's wings,Yes,Quiet confidence,Getting the hang of it,None,Glossophobia,Black Leather Moto Jacket with White Cotton Crew,Appreciation for the complexity of human behavior,Black and Gold Wayfarer with Black Lens,Black Leather Combat Cuff Boot,Can put up a fight,4,12,10,5,10,4,1,1,Black Short Sai,Katana with Black Handle and Silver Blade,Triangle,,,,Black Earrings,,,Scowl,Stubble,White,Light Grey,Short Afro Fade,Heavy Rain,White Leather Pants with Buckles
 46766,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46767,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46767,Can see around corners,Yes,Quiet confidence,Two left feet,None,People follow you blindly,Green Cotton Tank,Laughing at your mistakes,,Black Leather Combat Cuff Boot,The gym stops to watch you lift,11,10,11,3,10,8,1,1,,,,,Triforce,Shaded Circle,,,Thick Leather,Scowl,,Natural,Dark Brown,Messy Updo Bun,Light Rain,Green Snakeskin Leggings
 46768,Can hear a bee's wings,Yes,Incredible moral fiber,Two left feet,None,Nobody's buying it,Black Leather Moto Jacket with Charcoal Cotton Crew,Self-induced illusions fade,,Patent Black Leather Combat Cuff Boot,People get out of your way,2,8,10,3,11,7,1,1,,Katana with White Handle and White Blade,,Shaded Circle,,,,,,Meditative,,Natural,Blonde,,Heavy Rain,Green Leather Pants with Buckles
 46769,Can hear a bee's wings,Yes,Quiet confidence,Two left feet,None,People smile back at you,Red Leather Trench Coat with Black Cotton Oxford and White Tie,Accepting the impermanence of things,,Patent Black Leather Combat Cuff Boot,The gym stops to watch you lift,6,11,10,3,10,8,1,1,,Phone,,,,,Gold Erl,,,Scowl,,Natural,Dark Brown,Buzz Cut,Heavy Rain,Black Cotton Wool Slacks with Buckles
 46770,Can hear a bee's wings,Yes,True grit,Two left feet,None,Could probably convince a small child,Red Leather Mandarin Trench Coat,Self-induced illusions fade,Black Futurist with Black Lens,Black Leather Combat Cuff Boot,Can put up a fight,3,8,10,3,9,4,1,1,Phone,Katana with White Handle and Silver Blade,,,,,Black Earrings,,,Smirk,,Natural,Light Brown,Low Ponytail,Medium Rain,Black Cotton Leggings
 46771,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46772,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46772,Can see over the horizon,Yes,Quiet confidence,Sleep paralysis,None,Maintains status quo,Black Cotton Mandarin Tunic,Learning to regulate emotions,,Black Knee High Leather Boots,Scrappy,5,9,13,2,10,5,1,1,,Gold Long Sai,,Sierpiński Triangle,,,,,,,Thin,Neon Red,Black,Medium Curly Bob,Medium Rain,Black Cotton Leggings
 46773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46774,Heightened senses,Yes,True grit,Can walk and chew gum AT THE SAME TIME (good job!),None,Maintains status quo,Red Leather Trench Coat with Black Cotton Oxford and Green Tie,Appreciation for the complexity of human behavior,Black Wayfarer with Black Lens,White Leather Combat Cuff Boot,Scrappy,5,12,7,4,9,5,1,1,Dark Wood Staff,,,,,,Black Earrings,,,,,Natural,Black,Short Messy,Light Rain,Black Cotton Wool Slacks with Buckles
 46775,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2155,11 +2155,11 @@
 47154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47157,Can see around corners,Yes,Quiet confidence,Two left feet,None,Maintains status quo,Black Cotton Mandarin Tunic,Appreciation for the complexity of human behavior,,Green Black Patent Leather Neo Combat Boot,I wouldn't mess with you,5,12,11,3,10,6,1,1,,,,,,,Black Earrings,,,,Stubble,Green,Light Brown,Buzz Cut,Light Rain,Green Cotton Wool Slacks with Buckles
 47158,Can see around corners,Yes,Incredible moral fiber,Two left feet,None,You're a bit of a charmer,Green Cotton Tank,Learning to regulate emotions,Black and Gold Wayfarer with Black Lens,White Leather Combat Cuff Boot,Paper hands,7,9,11,3,11,1,1,1,,Silver Arm Pole,,,Valknut,Valknut,,,,Scowl,,Natural,Black,Short Pixie,Medium Rain,White Cotton Leggings
 47159,You've got a bad feeling about this,Yes,Incredible moral fiber,Can walk and chew gum AT THE SAME TIME (good job!),None,You're a bit of a charmer,Black Leather Tank,Reality is seen as it is,,Patent Green Leather Combat Cuff Boot,Can take a punch,7,15,9,4,11,3,1,1,Katana with White Handle and Silver Blade,Black Arm Pole,,,Interlocking Circles,Moon Patterns,,,Thick Leather,,,Natural,Dark Brown,Medium Curly Bob,Light Rain,Black Cotton Wool Slacks with Buckles
 47160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47161,Can see around corners,Yes,Incredible moral fiber,Getting the hang of it,None,Could sell ice to an eskimo,Red Patent Leather Tank,Accepting the impermanence of things,Black Futurist with Black Lens,Patent Red Leather Combat Cuff Boot,Your grandma beats you at arm-wrestling,9,11,11,5,11,2,1,1,,Black Submachine Gun,,,Equality Sign,,,Leather Choker,Thick Leather,Smirk,,Natural,Black,Short Messy,Light Rain,Green Cotton Wool Slacks with Buckles
 47162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47163,Can hear a heartbeat a mile away,Yes,Steps forward as others flee,Two left feet,None,People follow you blindly,Black Patent Leather Trench Coat with Red Cotton Tank,Self-induced illusions fade,Black Hex with Purple Polarized Lens,Green Knee High Leather Boots,Your grandma beats you at arm-wrestling,11,8,12,3,13,2,1,1,,,,,,,"Black Nose, Lip, Forehead",,,Scowl,,Natural,Auburn,Faux Hawk,Light Rain,Black Leather Pants with Buckles
 47164,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2314,9 +2314,9 @@
 47313,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47315,You've got a bad feeling about this,Yes,True grit,Can walk and chew gum AT THE SAME TIME (good job!),None,People smile back at you,Green Leather Moto Jacket with Black Cotton Crew,Appreciation for the complexity of human behavior,Black Neo with Black Lens,Black Leather Combat Cuff Boot,Can take a punch,6,12,9,4,9,3,1,1,,Phone,,,,,,,,,,Natural,Black,Pulled Back Short,Heavy Rain,Green Cotton Leggings
-47316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47316,Excellent at reading people,Yes,Incredible moral fiber,Two left feet,None,Glossophobia,Green Leather Mandarin Tunic,Accepting the impermanence of things,,Black Patent Leather Knee High Boots,Scrappy,4,11,8,3,11,5,1,1,Black Submachine Gun,,,,,,,Leather Cuff,,Scowl,Thin,Pink,Dark Brown,Long Straight Bangs,Light Rain,Black Leather Pants with Buckles
 47317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47318,Heightened senses,Yes,Quiet confidence,Sleep paralysis,None,Your significant other's mom loves you,Black Leather Moto Jacket with Green Leather Crew,Learning to regulate emotions,,Green Leather Combat Cuff Boot,Can take a punch,8,9,7,2,10,3,1,1,Katana with Black Handle and Silver Blade,Black Gun,,,,,"Black Nose, Lip, Forehead",,,Smirk,,Natural,Light Brown,,Light Rain,Black Leather Leggings
 47319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47320,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47321,Nothing gets past you,Yes,Quiet confidence,Sleep paralysis,None,You're a bit of a charmer,Black Cotton Longsleeve Crew,Appreciation for the complexity of human behavior,,Black Leather Combat Cuff Boot,Your grandma beats you at arm-wrestling,7,12,6,2,10,2,1,1,Silver Shotgun,,,,,,,,Thick Leather,Smirk,Stubble,Natural,Black,Messy Updo Bun,Light Rain,Red Cotton Martial Arts Pants
@@ -2369,7 +2369,7 @@
 47368,Can hear a bee's wings,Yes,Quiet confidence,Getting the hang of it,None,Maintains status quo,Black Cotton Longsleeve Crew,Laughing at your mistakes,,Green Leather Neo Combat Boot,Can take a punch,5,10,10,5,10,3,1,1,,,,,,,,,,Scowl,Goatee,Natural,Light Grey,,Light Rain,Black Leather Pants with Buckles
 47369,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47370,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47371,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47371,Can hear a bee's wings,Yes,Steps forward as others flee,Sleep paralysis,None,Your significant other's mom loves you,Black Cotton Longsleeve Crew,Appreciation for the complexity of human behavior,Black and Gold Wayfarer with Black Lens,Green Leather Neo Combat Boot,Your grandma beats you at arm-wrestling,8,12,10,2,13,2,1,1,,Phone,,,,,,,,,Goatee,Natural,Light Brown,Short Messy,Light Rain,Black Cotton Wool Slacks with Buckles
 47372,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47373,Your third eye is open,Yes,Quiet confidence,Pretty light on your feet,None,Your significant other's mom loves you,Green Cotton Mandarin Tunic,Accepting the impermanence of things,Black Wayfarer with Black Lens,Black Leather Neo Combat Boot,I wouldn't mess with you,8,11,15,6,10,6,1,1,,,,,,,,,,Scowl,,Natural,Black,Pulled Back Short,Light Rain,Green Cotton Leggings
 47374,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2380,8 +2380,8 @@
 47379,Can hear a bee's wings,Yes,Surprising resilience,Can walk and chew gum AT THE SAME TIME (good job!),None,People smile back at you,Black Leather Trench Coat with Green Leather Tank,Appreciation for the complexity of human behavior,Black Neo with Black Lens,Green Black Patent Leather Neo Combat Boot,Your grandma beats you at arm-wrestling,6,12,10,4,8,2,1,1,,,,,,,,,,Scowl,,Natural,Black,Bob with Fringes,Light Rain,Black Cotton Wool Slacks with Buckles
 47380,Your third eye is open,Yes,Incredible moral fiber,Can walk and chew gum AT THE SAME TIME (good job!),None,Glossophobia,Black Patent Leather Tank,Laughing at your mistakes,,Patent Black Leather Combat Cuff Boot,Can take a punch,4,10,15,4,11,3,1,1,,Silver Staff,,,Interlocking Circles,Valknut,Silver Earrings,,,Meditative,,Natural,Dark Brown,Short Coil,Light Rain,Black Cotton Martial Arts Pants
 47381,Can hear a heartbeat a mile away,Yes,Steps forward as others flee,Pretty light on your feet,None,Maintains status quo,Black Cotton Martial Arts Top,Accepting the impermanence of things,,Black Leather Combat Cuff Boot,Your grandma beats you at arm-wrestling,5,11,12,6,13,2,1,1,,,,,,,,,,,,Natural,Light Brown,Short Sideswept Fringe,Heavy Rain,Green Cotton Wool Slacks with Buckles
-47382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47383,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47382,Can hear a heartbeat a mile away,Yes,Unshakable resolve,Can walk and chew gum AT THE SAME TIME (good job!),None,Others are helpless to deny you,Black Cotton Tank,Accepting the impermanence of things,Translucent Hex with Red Polarized Lens,Green Leather Neo Combat Boot,Your grandma beats you at arm-wrestling,13,11,12,4,12,2,1,1,,Black Gun,,,Valknut,Shaded Circle,,,,,Mustache,Natural,Light Grey,Short Messy,Light Rain,Black Cotton Leggings
+47383,Can see around corners,Yes,True grit,Two left feet,None,Glossophobia,Black Cotton Longsleeve Crew,Appreciation for the complexity of human behavior,Black Wayfarer with Black Lens,Patent White Leather Combat Cuff Boot,Your grandma beats you at arm-wrestling,4,12,11,3,9,2,1,1,Phone,Silver Long Sai,Shaded Triangle,,,,,,,,,Light Purple,Light Brown,Bob with Fringes,Medium Rain,Green Cotton Wool Slacks with Buckles
 47384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47385,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47386,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2674,7 +2674,7 @@
 47673,Can see around corners,Yes,Surprising resilience,Sleep paralysis,None,You're a bit of a charmer,Black Cotton Tank,Accepting the impermanence of things,Round Black with Black Lens,Black Knee High Leather Boots,People get out of your way,7,11,11,2,8,7,1,1,,Dark Wood Staff,,,,Native Arrows,,,,,,Natural,Black,Faux Hawk,Medium Rain,Red Cotton Wool Slacks with Buckles
 47674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47675,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47676,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47676,You've got a bad feeling about this,Yes,Quiet confidence,A gelatinous blob,None,You're a bit of a charmer,Red Cotton Tunic with Buttons,Laughing at your mistakes,,Patent Black Leather Combat Cuff Boot,Scrappy,7,10,9,1,10,5,1,1,,Black Short Sai,,,,,Black Earrings,,,,,White,Black,Short Afro Fade,Light Rain,Black Cotton Leggings
 47677,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47678,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47679,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2795,7 +2795,7 @@
 47794,Can smell fear,Yes,True grit,Sleep paralysis,None,You're a bit of a charmer,Black Leather Mandarin Tunic,Laughing at your mistakes,Round Silver with Mirror Lens,Black Leather Combat Cuff Boot,Can put up a fight,7,10,14,2,9,4,1,1,Phone,Katana with Black Handle and Silver Blade,,,,,Black Eyebrow Ring,Leather Choker,,Scowl,,Neon Red,Dark Brown,Short Pixie,Medium Rain,Black Cotton Wool Slacks with Buckles
 47795,Can hear a bee's wings,Yes,Unshakable resolve,Getting the hang of it,None,Could sell ice to an eskimo,Green Leather Mandarin Tunic,Accepting the impermanence of things,Black Morpheus with Dark Mirrored Lens,Black Leather Neo Combat Boot,I wouldn't mess with you,9,11,10,5,12,6,1,1,,Dark Wood Staff,,,,,Black Earrings,,,,,Natural,Black,Low Ponytail,Light Rain,Black Cotton Leggings
 47796,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47797,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47797,Can see around corners,Yes,Quiet confidence,Can walk and chew gum AT THE SAME TIME (good job!),None,Your significant other's mom loves you,Black Patent Leather Mandarin Trench Coat,Laughing at your mistakes,Black and Gold Wayfarer with Black Lens,Black Leather Combat Cuff Boot,Your grandma beats you at arm-wrestling,8,10,11,4,10,2,1,1,,,,,,,,,,,,Natural,Dark Brown,,Heavy Rain,White Cotton Leggings
 47798,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47799,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2941,10 +2941,10 @@
 47940,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47941,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47942,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47943,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47943,Can hear a bee's wings,Yes,Incredible moral fiber,Can walk and chew gum AT THE SAME TIME (good job!),None,Maintains status quo,Black Leather Longsleeve Crew,Appreciation for the complexity of human behavior,,Black Patent Leather Knee High Boots,Scrappy,5,12,10,4,11,5,1,1,Black Submachine Gun,,,,,,,,,,,Natural,Blonde,Pulled Back Short,Light Rain,Green Cotton Wool Slacks with Buckles
 47944,Can hear a bee's wings,Yes,Incredible moral fiber,Two left feet,None,Maintains status quo,Green Cotton Tunic with Buttons,Laughing at your mistakes,,Black Knee High Leather Boots,Scrappy,5,10,10,3,11,5,1,1,,Black Short Sai,,Intersecting Squares,,,Black Earrings,,,Smirk,Stubble,White,Black,Short Afro Fade,Medium Rain,Black Cotton Leggings
 47945,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47946,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47946,Can hear a bee's wings,Yes,True grit,Can walk and chew gum AT THE SAME TIME (good job!),None,People follow you blindly,Green Cotton Martial Arts Top,Learning to regulate emotions,,Patent Black Leather Combat Cuff Boot,People get out of your way,11,9,10,4,9,7,1,1,,Black Arm Pole,,,,,Black Earrings,,,Scowl,Goatee,Natural,Dark Brown,Short Curly Fade,Medium Rain,Green Cotton Martial Arts Pants
 47947,Can see around corners,Yes,Incredible moral fiber,Two left feet,None,Your significant other's mom loves you,Green Cotton Martial Arts Top,Accepting the impermanence of things,,,Your grandma beats you at arm-wrestling,8,11,11,3,11,2,1,1,Katana with Black Handle and Silver Blade,Black Long Sai,,,,,Black Earrings,,,Meditative,Stubble,Natural,Dark Brown,Short Curly Fade,Medium Rain,Black Cotton Martial Arts Pants
 47948,Can hear a heartbeat a mile away,Yes,Unshakable resolve,Getting the hang of it,None,People smile back at you,Black Cotton Tank,Learning to regulate emotions,Black Wayfarer with Black Lens,Black Snakeskin Combat Cuff Boot,I wouldn't mess with you,6,9,12,5,12,6,1,1,,,,,Shaded Circle,Circle,,,,,,Natural,Auburn,Short Sideswept Fringe,Heavy Rain,Black Leather Pants with Buckles
 47949,Can see around corners,Yes,Quiet confidence,Can walk and chew gum AT THE SAME TIME (good job!),None,People smile back at you,Red Snakeskin Longsleeve Crew,Laughing at your mistakes,Black Neo with Mirror Lens,Black Leather Combat Cuff Boot,Can take a punch,6,10,11,4,10,3,1,1,,,,,,,,,,,,Natural,Black,Short Updo,Light Rain,Black Patent Leather Leggins
@@ -3073,10 +3073,10 @@
 48072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48073,Can see over the horizon,Yes,True grit,Two left feet,None,Nobody's buying it,Black Cotton Tunic with Buttons,Accepting the impermanence of things,,Black Leather Neo Combat Boot,Can take a punch,2,11,13,3,9,3,1,1,Phone,Katana with Black Handle and Silver Blade,,,,,Black Eyebrow Ring,,,Meditative,Goatee,Yellow,Blonde,Short Curly Fade,Light Rain,Green Cotton Leggings
 48074,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48076,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48075,The world has come into focus,Yes,Incredible moral fiber,Running circles around enemies,None,People smile back at you,Green Patent Leather Longsleeve Crew,You have a childlike sense of wonder,Black Neo with Mirror Lens,Black Leather Combat Cuff Boot,Can take a punch,6,7,5,7,11,3,1,1,,Dark Wood Staff,,,,,"Silver Nose, Lip, Forehead",,,,Thin,Natural,Light Brown,Asymmetrical Bob,Light Rain,Black Cotton Martial Arts Pants
+48076,You've got a bad feeling about this,Yes,Incredible moral fiber,Always picked first,None,Glossophobia,Black Leather Trench Coat with Black Cotton Oxford and Green Tie,Accepting the impermanence of things,,Green Leather Combat Cuff Boot,People get out of your way,4,11,9,8,11,7,1,1,Black Short Sai,Dark Wood Staff,,,,,,,,Meditative,,Natural,Black,Braids,Light Rain,Green Cotton Leggings
 48077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48078,Can hear a bee's wings,Yes,Leads when no one else will,Two left feet,None,Maintains status quo,Black Patent Leather Trench Coat with Black Cotton Tank,Appreciation for the complexity of human behavior,Black Wayfarer with Black Lens,Black Leather Combat Cuff Boot,The gym stops to watch you lift,5,12,10,3,16,8,1,1,Black Submachine Gun,,,,,,Silver Earrings,,,Scowl,,Natural,Dark Brown,,Light Rain,Green Leather Leggings
 48079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48080,You've got a bad feeling about this,Yes,Quiet confidence,Two left feet,None,Your significant other's mom loves you,White Leather Mandarin Trench Coat,Appreciation for the complexity of human behavior,Black Neo with Black Lens,Patent Green Leather Combat Cuff Boot,Can put up a fight,8,12,9,3,10,4,1,1,,,,,,,,,,,Stubble,Natural,Light Grey,Short Curly Fade,Medium Rain,Red Leather Leggings
 48081,Can hear a bee's wings,Yes,True grit,Two left feet,None,People smile back at you,Charcoal Cotton Longsleeve Crew,Laughing at your mistakes,Black Wayfarer with Black Lens,Red Snakeskin Neo Combat Boot,Can put up a fight,6,10,10,3,9,4,1,1,,Katana with Black Handle and Silver Blade,,,,,Black Earrings,,Studded Leather,Smirk,,Natural,Dark Brown,Short Pixie,Medium Rain,Red Leather Leggings
@@ -3358,7 +3358,7 @@
 48357,Can hear a heartbeat a mile away,Yes,Quiet confidence,Two left feet,None,You inspire the people of Zion,Charcoal Cotton Longsleeve Crew,Laughing at your mistakes,Black Futurist with Black Lens,Black Snakeskin Neo Combat Boot,Can put up a fight,18,10,12,3,10,4,1,1,Dark Wood Staff,Dark Wood Staff,,,,,,,,Scowl,,Light Blue,Black,Medium Curly Bob,Light Rain,Green Cotton Wool Slacks with Buckles
 48358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48359,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48360,Can hear a bee's wings,Yes,Quiet confidence,Running circles around enemies,None,You're a bit of a charmer,Red Leather Trench Coat with Red Cotton Tank,You have walked the manifold path,Black Neo with Black Lens,Black Knee High Leather Boots,Your grandma beats you at arm-wrestling,7,14,10,7,10,2,1,1,Katana with White Handle and White Blade,Black Shotgun,,Shaded Triangle,,,Black Eyebrow Ring,,,,,White,Black,Buzz Cut,Light Rain,Black Leather Pants with Buckles
 48361,Your third eye is open,Yes,Unshakable resolve,Running circles around enemies,None,Your significant other's mom loves you,Red Cotton Tunic with Buttons,Accepting the impermanence of things,Black Futurist with Black Lens,Red Leather Neo Combat Boot,Can take a punch,8,11,15,7,12,3,1,1,Silver Staff,,,,,,Black Eyebrow Ring,Leather Cuff,,,,Green,Dark Brown,Buzz Cut,Medium Rain,Black Cotton Wool Slacks with Buckles
 48362,Can hear a bee's wings,Yes,Incredible moral fiber,Running circles around enemies,None,Maintains status quo,White Cotton Longsleeve Crew,Laughing at your mistakes,,Black Patent Leather Neo Combat Boot,I wouldn't mess with you,5,10,10,7,11,6,1,1,Katana with Black Handle and Silver Blade,Black Submachine Gun,,Sierpiński Triangle,,,,,,Scowl,,White,Black,Buzz Cut,Light Rain,White Cotton Leggings
 48363,You've got a bad feeling about this,Yes,Quiet confidence,Two left feet,None,Maintains status quo,Black Patent Leather Moto Jacket with Green Leather Crew,Accepting the impermanence of things,Black and Gold Wayfarer with Black Lens,Black Leather Neo Combat Boot,Can take a punch,5,11,9,3,10,3,1,1,,Black Gun,,,,,,,,,,Yellow,Dark Brown,Long Straight Bangs,Medium Rain,Black Leather Leggings
@@ -3451,10 +3451,10 @@
 48450,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48451,Can hear a bee's wings,Yes,Last one standing,Sleep paralysis,None,Glossophobia,Black Cotton Martial Arts Top,Learning to regulate emotions,,Patent Red Leather Combat Cuff Boot,I wouldn't mess with you,4,9,10,2,14,6,1,1,,Katana with Black Handle and White Blade,,Intersecting Squares,,,"Silver Nose, Lip, Forehead",,,Smirk,,Light Purple,Black,Short Curly Fade,Light Rain,Red Cotton Leggings
 48452,Can hear a heartbeat a mile away,Yes,Quiet confidence,Always picked first,None,Even you don't believe you,Green Cotton Longsleeve Crew,Appreciation for the complexity of human behavior,,Black Leather Combat Cuff Boot,Scrappy,1,12,12,8,10,5,1,1,,Black Arm Pole,Intersecting Triangles,,,,,,Thick Leather,Meditative,,Natural,Light Grey,Medium Curly Bob,Light Rain,Red Cotton Wool Slacks with Buckles
-48453,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48453,Can smell fear,Yes,Quiet confidence,Getting the hang of it,None,People smile back at you,Green Patent Leather Trench Coat with Black Cotton Tank,Appreciation for the complexity of human behavior,Round Silver with Mirror Lens,Green Patent Leather Knee High Boots,Can take a punch,6,12,14,5,10,3,1,1,,Black Short Sai,,,,,,,,Scowl,,Natural,Light Brown,,Medium Rain,Black Cotton Leggings
 48454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48455,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48456,Can hear a bee's wings,Yes,Quiet confidence,Two left feet,None,You're a bit of a charmer,Black Snakeskin Trench Coat with Black Cotton Oxford and Red Tie,You have walked the manifold path,Black Neo with Black Lens,Black Leather Neo Combat Boot,Paper hands,7,14,10,3,10,1,1,1,,Phone,,,,,,,,Smirk,,Yellow,Black,Long Messy,Heavy Rain,Green Cotton Wool Slacks with Buckles
 48457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48458,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3583,10 +3583,10 @@
 48582,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48583,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48584,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48585,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48587,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48588,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48585,Nothing gets past you,Yes,Quiet confidence,Can walk and chew gum AT THE SAME TIME (good job!),None,You're a bit of a charmer,Red Patent Leather Moto Jacket with Black Cotton Crew,Laughing at your mistakes,White Futurist with Mirror Lens,Black Patent Leather Knee High Boots,Paper hands,7,10,6,4,10,1,1,1,Phone,Phone,,,,,,,,,,Natural,Light Brown,Short Messy,Light Rain,Black Cotton Wool Slacks with Buckles
+48586,Can hear a heartbeat a mile away,Yes,Incredible moral fiber,Two left feet,None,Natural born leader,Black Snakeskin Trench Coat with White Cotton Oxford and Black Tie,Laughing at your mistakes,Black Wayfarer with Black Lens,Black Leather Combat Cuff Boot,Your grandma beats you at arm-wrestling,10,10,12,3,11,2,1,1,,Katana with Black Handle and Silver Blade,,,,,,,,,Stubble,Natural,Light Brown,Short Curly Fade,Light Rain,Green Patent Leather Leggins
+48587,Can see around corners,Yes,Steps forward as others flee,Can walk and chew gum AT THE SAME TIME (good job!),None,Maintains status quo,Charcoal Patent Leather Longsleeve Crew,Laughing at your mistakes,,Black Leather Neo Combat Boot,Your grandma beats you at arm-wrestling,5,10,11,4,13,2,1,1,,,,,,,"Black Nose, Lip",,,Scowl,Stubble,Natural,Light Grey,Asymmetrical Bob,Medium Rain,Black Cotton Wool Slacks with Buckles
+48588,Can see around corners,Yes,Quiet confidence,Pretty light on your feet,None,People follow you blindly,White Cotton Longsleeve Crew,Learning to regulate emotions,Black and Gold Wayfarer with Black Lens,Black Patent Leather Knee High Boots,Can take a punch,11,9,11,6,10,3,1,1,,Black Gun,,Shaded Circle,,,,,,Scowl,,Natural,Blonde,Short Afro Fade,Heavy Rain,Black Leather Leggings
 48589,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48590,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48591,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3650,7 +3650,7 @@
 48649,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48650,Can hear a heartbeat a mile away,Yes,Surprising resilience,Can walk and chew gum AT THE SAME TIME (good job!),None,Your significant other's mom loves you,Green Leather Trench Coat with Green Leather Tank,Accepting the impermanence of things,,Black Leather Neo Combat Boot,Can take a punch,8,11,12,4,8,3,1,1,,Katana with Black Handle and Silver Blade,,,,,"Black Nose, Lip",,,Smirk,,Natural,Dark Brown,Short Messy,Heavy Rain,Green Cotton Leggings
 48651,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48652,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48652,Nothing gets past you,Yes,True grit,Getting the hang of it,None,People smile back at you,Green Patent Leather Tank,You have walked the manifold path,,Green Leather Neo Combat Boot,Paper hands,6,14,6,5,9,1,1,1,Black Long Sai,Silver Gun,,,,Triangle,,,,Scowl,,Pink,Auburn,Long Straight Bangs,Light Rain,Black Cotton Wool Slacks with Buckles
 48653,Can see around corners,Yes,Incredible moral fiber,Pretty light on your feet,None,You're a bit of a charmer,Black Cotton Mandarin Tunic,You know the sound of one hand clapping,Black Wayfarer with Black Lens,Black Leather Neo Combat Boot,People get out of your way,7,13,11,6,11,7,1,1,,,Sierpiński Triangle,,,,Black Earrings,,,,Goatee,Natural,Blonde,,Light Rain,Black Leather Pants with Buckles
 48654,You've got a bad feeling about this,Yes,Incredible moral fiber,Two left feet,None,Your significant other's mom loves you,Charcoal Cotton Longsleeve Crew,Self-induced illusions fade,Black Futurist with Black Lens,Patent Red Leather Combat Cuff Boot,Can take a punch,8,8,9,3,11,3,1,1,,Dark Wood Staff,,,,,,,Thick Leather,,,Natural,Dark Brown,Braids,Light Rain,Black Cotton Martial Arts Pants
 48655,Nothing gets past you,Yes,Last one standing,Can walk and chew gum AT THE SAME TIME (good job!),None,Maintains status quo,Charcoal Cotton Longsleeve Crew,Laughing at your mistakes,Black Wayfarer with Black Lens,Green Patent Leather Knee High Boots,Paper hands,5,10,6,4,14,1,1,1,,,,,,,"Black Nose, Lip",,,,,Dark Blue,Light Brown,Pulled Back Short,Medium Rain,White Cotton Wool Slacks with Buckles
@@ -3749,7 +3749,7 @@
 48748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48749,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48750,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48751,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48751,Can see around corners,Yes,Surprising resilience,Pretty light on your feet,None,Glossophobia,Black Leather Tank,Accepting the impermanence of things,Black Neo with Mirror Lens,Black Leather Combat Cuff Boot,I wouldn't mess with you,4,11,11,6,8,6,1,1,,Dark Wood Staff,,,Valknut,Alchemy,,,Studded Leather,,Stubble,Green,Blonde,Braids,Light Rain,Black Cotton Martial Arts Pants
 48752,Can see around corners,Yes,Incredible moral fiber,Sleep paralysis,None,Maintains status quo,Black Cotton Mandarin Tunic,Deeper truths are apparent,Black Wayfarer with Black Lens,Black Leather Combat Cuff Boot,Can take a punch,5,16,11,2,11,3,1,1,Black Submachine Gun,Katana with Black Handle and Silver Blade,,,,,,,,Scowl,Stubble,Light Purple,Black,Asymmetrical Bob,Light Rain,Green Cotton Leggings
 48753,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48754,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3758,10 +3758,10 @@
 48757,Can hear a heartbeat a mile away,Yes,Unshakable resolve,Can walk and chew gum AT THE SAME TIME (good job!),None,Glossophobia,Green Cotton Longsleeve Crew,Laughing at your mistakes,Round Black with Black Lens,Patent Black Leather Combat Cuff Boot,Can take a punch,4,10,12,4,12,3,1,1,Phone,Phone,Interlocking Circles,,,,Silver Nose and Lip Rings,,Thick Leather,,,White,Dark Brown,Pulled Back Short,Heavy Rain,Black Cotton Leggings
 48758,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48759,Can hear a bee's wings,Yes,Steps forward as others flee,Can walk and chew gum AT THE SAME TIME (good job!),None,Your significant other's mom loves you,Black Leather Trench Coat with Black Cotton Oxford and Green Tie,Laughing at your mistakes,Translucent Hex with Red Polarized Lens,Green Snakeskin Combat Cuff Boot,Paper hands,8,10,10,4,13,1,1,1,,,,,,,Black Earrings,,,,,Natural,Black,Short Coil,Medium Rain,Black Patent Leather Pants with Buckles
-48760,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48760,The world has come into focus,Yes,Steps forward as others flee,Getting the hang of it,None,Could probably convince a small child,Green Leather Trench Coat with Black Cotton Oxford and Green Tie,You forgot your mantra,,Black Leather Neo Combat Boot,People get out of your way,3,5,5,5,13,7,1,1,Phone,Black Short Sai,,,,,Black Eyebrow Ring,,,Scowl,,Natural,Black,Short Messy,Heavy Rain,Black Leather Pants with Buckles
 48761,Can see around corners,Yes,True grit,Two left feet,None,Glossophobia,Black Leather Moto Jacket with Black Leather Crew,Learning to regulate emotions,,Black Patent Leather Neo Combat Boot,Can take a punch,4,9,11,3,9,3,1,1,Phone,Phone,,,,,Black Erl,,,Meditative,,Natural,Dark Brown,Bob with Fringes,Light Rain,Black Cotton Wool Slacks with Buckles
 48762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48763,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48763,Can see around corners,Yes,Even death can't stop you,Getting the hang of it,None,Maintains status quo,Black Cotton Martial Arts Top,You have walked the manifold path,Black Wayfarer with Black Lens,Black Leather Neo Combat Boot,Can take a punch,5,14,11,5,19,3,1,1,,Dark Wood Staff,,,,,,,,,,Natural,Light Brown,Short Curly Fade,Heavy Rain,Red Cotton Wool Slacks with Buckles
 48764,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48765,Can see around corners,Yes,Quiet confidence,Always picked first,None,Glossophobia,Black Cotton Tank,Learning to regulate emotions,Black Neo with Black Lens,Black Leather Combat Cuff Boot,Can put up a fight,4,9,11,8,10,4,1,1,,Dark Wood Staff,,,Shaded Circle,,Black Earrings,,,Scowl,,Natural,Blonde,Short Pixie,Light Rain,Black Cotton Wool Slacks with Buckles
 48766,Can hear a bee's wings,Yes,Stiff upper lip,Can walk and chew gum AT THE SAME TIME (good job!),None,You're a bit of a charmer,Red Cotton Longsleeve Crew,Laughing at your mistakes,,Black Patent Leather Neo Combat Boot,I wouldn't mess with you,7,10,10,4,7,6,1,1,,,,,,,,,,Meditative,,Natural,Dark Brown,Buzz Cut,Medium Rain,Black Leather Pants with Buckles
@@ -4061,10 +4061,10 @@
 49060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49061,"You read the instructions, twice",Yes,Quiet confidence,Always picked first,None,Maintains status quo,Black Leather Trench Coat with Red Cotton Tank,Accepting the impermanence of things,Black Morpheus with Dark Mirrored Lens,Black Knee High Leather Boots,Your grandma beats you at arm-wrestling,5,11,4,8,10,2,1,1,Phone,Dark Wood Staff,,,,,,,,,,Dark Blue,Auburn,Faux Hawk,Light Rain,Green Cotton Leggings
 49062,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49063,Can hear a bee's wings,Yes,Incredible moral fiber,Two left feet,None,Maintains status quo,Black Snakeskin Tank,Laughing at your mistakes,,Black Patent Leather Neo Combat Boot,Can take a punch,5,10,10,3,11,3,1,1,,Phone,,Shaded Circle,Intersecting Triangles,,,,Studded Leather,,Stubble,Pink,Blonde,Pulled Back Short,Medium Rain,Black Leather Leggings
 49064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49065,Can hear a bee's wings,Yes,Surprising resilience,Two left feet,None,People smile back at you,Black Cotton Tank,Learning to regulate emotions,Black Neo with Black Lens,Black Patent Leather Neo Combat Boot,Your grandma beats you at arm-wrestling,6,9,10,3,8,2,1,1,Phone,Katana with Black Handle and White Blade,,,,Interlocking Circles,Black Earrings,,,,,Natural,Black,Short Coil,Light Rain,Black Patent Leather Pants with Buckles
+49066,Can hear a bee's wings,Yes,Quiet confidence,Can walk and chew gum AT THE SAME TIME (good job!),None,Natural born leader,Red Leather Trench Coat with Black Cotton Oxford and Green Tie,Accepting the impermanence of things,,Black Knee High Leather Boots,Can take a punch,10,11,10,4,10,3,1,1,,,,,,,,,,Smirk,Mustache,Yellow,Black,Long Straight Bangs,Light Rain,Red Cotton Leggings
 49067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49068,Can hear a bee's wings,Yes,True grit,Two left feet,None,Maintains status quo,Green Cotton Tunic with Buttons,Appreciation for the complexity of human behavior,,Red Leather Combat Cuff Boot,Can put up a fight,5,12,10,3,9,4,1,1,,Gold Gun,,,,,,,,Scowl,,Natural,Dark Brown,Short Sideswept Fringe,Medium Rain,Green Cotton Wool Slacks with Buckles
 49069,Can see around corners,Yes,True grit,Can walk and chew gum AT THE SAME TIME (good job!),None,Maintains status quo,Black Leather Mandarin Trench Coat,Learning to regulate emotions,,Black Leather Neo Combat Boot,I wouldn't mess with you,5,9,11,4,9,6,1,1,,Phone,,,,,"Black Nose, Lip",,,,,Natural,Auburn,Long Messy,Light Rain,Black Leather Leggings
@@ -4086,7 +4086,7 @@
 49085,Excellent at reading people,Yes,Last one standing,Getting the hang of it,None,Maintains status quo,Black Leather Trench Coat with Black Cotton Oxford and Red Tie,Laughing at your mistakes,Black Neo with Black Lens,White Leather Neo Combat Boot,Can take a punch,5,10,8,5,14,3,1,1,Katana with Black Handle and White Blade,,,,,,,,,,,White,Black,Short Messy,Heavy Rain,Black Leather Leggings
 49086,Can hear a heartbeat a mile away,Yes,Incredible moral fiber,Two left feet,None,Nobody's buying it,Black Patent Leather Tank,You know the sound of one hand clapping,Round Black with Black Lens,Black Patent Leather Knee High Boots,Can take a punch,2,13,12,3,11,3,1,1,Katana with White Handle and Silver Blade,,,,Intersecting Triangles,Shaded Circle,Black Earrings,,,,,Natural,Black,,Light Rain,Red Patent Leather Pants with Buckles
 49087,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49088,Can see over the horizon,Yes,Surprising resilience,Can walk and chew gum AT THE SAME TIME (good job!),None,Maintains status quo,Red Leather Trench Coat with Black Cotton Oxford and Red Tie,Accepting the impermanence of things,,Black Snakeskin Combat Cuff Boot,Can put up a fight,5,11,13,4,8,4,1,1,Black Long Sai,,,,,,"Black Nose, Lip",,,Meditative,,Light Purple,Black,Short Sideswept Fringe,Light Rain,Black Patent Leather Pants with Buckles
 49089,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4226,8 +4226,8 @@
 49225,The world has come into focus,Yes,Unshakable resolve,Pretty light on your feet,None,People smile back at you,Green Cotton Tank,Accepting the impermanence of things,,Black Patent Leather Knee High Boots,Can take a punch,6,11,5,6,12,3,1,1,,Gold Staff,,,Triforce,Shaded Moon Patterns,,,Studded Leather,Meditative,,Natural,Light Grey,Short Curly Fade,Medium Rain,Black Patent Leather Leggins
 49226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49227,Heightened senses,Yes,Quiet confidence,Abnormal flexibility,None,Everything is always an option,Black Patent Leather Trench Coat with Black Cotton Tank,Laughing at your mistakes,Black and Gold Wayfarer with Black Lens,Red Leather Combat Cuff Boot,Paper hands,12,10,7,9,10,1,1,1,,Phone,,,,,Black Earrings,,,,,Pink,Black,Short Pixie,Heavy Rain,Black Leather Leggings
-49228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49228,Can hear a bee's wings,Yes,Surprising resilience,Can walk and chew gum AT THE SAME TIME (good job!),None,People smile back at you,Green Leather Trench Coat with White Cotton Oxford and Black Tie,Laughing at your mistakes,,Black Snakeskin Combat Cuff Boot,Can take a punch,6,10,10,4,8,3,1,1,Silver Staff,,,,,,"Black Nose, Lip",,,Meditative,,Natural,Light Brown,,Light Rain,Black Cotton Leggings
+49229,Nothing gets past you,Yes,Quiet confidence,Can walk and chew gum AT THE SAME TIME (good job!),None,People smile back at you,Black Patent Lather Trench Coat with Black Cotton Oxford and Red Tie,Eckhart Tolle has you on speed dial,Black Neo with Black Lens,White Snakeskin Combat Cuff Boot,People get out of your way,6,17,6,4,10,7,1,1,Black Submachine Gun,,,,,,,,,,,White,Light Brown,Buzz Cut,Heavy Rain,Black Cotton Leggings
 49230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49231,You've got a bad feeling about this,Yes,Unshakable resolve,Can walk and chew gum AT THE SAME TIME (good job!),None,You're a bit of a charmer,White Patent Leather Crewneck Tunic,Learning to regulate emotions,Black Neo with Mirror Lens,Black Patent Leather Knee High Boots,Scrappy,7,9,9,4,12,5,1,1,,,,,,,Black Earrings,Leather Choker,,,Stubble,Natural,Dark Brown,Buzz Cut,Medium Rain,Green Cotton Wool Slacks with Buckles
 49232,You've got a bad feeling about this,Yes,Incredible moral fiber,Sleep paralysis,None,Even you don't believe you,Green Leather Moto Jacket with Black Leather Crew,Self-induced illusions fade,Black Wayfarer with Black Lens,Black Patent Leather Knee High Boots,Can take a punch,1,8,9,2,11,3,1,1,Katana with Black Handle and White Blade,,,,,,,,,,,Natural,Blonde,,Heavy Rain,Green Cotton Wool Slacks with Buckles
@@ -4346,7 +4346,7 @@
 49345,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49348,Can hear a heartbeat a mile away,Yes,Incredible moral fiber,Getting the hang of it,None,Could probably convince a small child,Red Wool Mandarin Trench Coat,Accepting the impermanence of things,,Red Leather Combat Cuff Boot,Can take a punch,3,11,12,5,11,3,1,1,Katana with Black Handle and Silver Blade,Katana with White Handle and Silver Blade,,,,,"Black Nose, Lip, Forehead",,,Smirk,,White,Black,Buzz Cut,Medium Rain,Black Cotton Wool Slacks with Buckles
 49349,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49350,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49351,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4413,7 +4413,7 @@
 49412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49414,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49415,Can hear a heartbeat a mile away,Yes,Quiet confidence,Pretty light on your feet,None,Even you don't believe you,Black Cotton Tank,Laughing at your mistakes,,Black Knee High Leather Boots,The gym stops to watch you lift,1,10,12,6,10,8,1,1,Katana with Black Handle and Silver Blade,Phone,,,Borromean Rings,Small Arrows,,,,Scowl,,Natural,Blonde,Short Coil,Light Rain,Black Cotton Leggings
 49416,You've got a bad feeling about this,Yes,Incredible moral fiber,Can walk and chew gum AT THE SAME TIME (good job!),None,Your significant other's mom loves you,Green Leather Moto Jacket with Green Cotton Crew,Accepting the impermanence of things,Black Futurist with Black Lens,Black Patent Leather Knee High Boots,Your grandma beats you at arm-wrestling,8,11,9,4,11,2,1,1,Silver Staff,Black Arm Pole,,,,,Silver Earrings,,,Scowl,,Natural,Blonde,Short Messy,Heavy Rain,Black Cotton Wool Slacks with Buckles
 49417,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49418,Can see around corners,Yes,Incredible moral fiber,Two left feet,None,Nobody's buying it,Green Patent Leather Longsleeve Crew,Laughing at your mistakes,,White Knee High Leather Boots,Can take a punch,2,10,11,3,11,3,1,1,,Katana with Black Handle and Silver Blade,,,,,Black Earrings,,,,,Natural,Dark Brown,Short Updo,Light Rain,Black Cotton Wool Slacks with Buckles
@@ -4479,9 +4479,9 @@
 49478,Can smell fear,Yes,Incredible moral fiber,Two left feet,None,Your significant other's mom loves you,Charcoal Patent Leather Longsleeve Crew,Appreciation for the complexity of human behavior,,Patent Black Leather Combat Cuff Boot,Your grandma beats you at arm-wrestling,8,12,14,3,11,2,1,1,,Silver Shotgun,,,,,Black Eyebrow Ring,,Thick Leather,Smirk,,Natural,Black,Short Sideswept Fringe,Light Rain,White Leather Leggings
 49479,Heightened senses,Yes,Unshakable resolve,Sleep paralysis,None,Your significant other's mom loves you,Red Cotton Longsleeve with Zipper,Accepting the impermanence of things,Black Wayfarer with Black Lens,Patent Black Leather Combat Cuff Boot,Scrappy,8,11,7,2,12,5,1,1,Phone,,,,,,,,Thick Leather,Smirk,,Natural,Auburn,Medium Curly Bob,Light Rain,Black Leather Leggings
 49480,Can see around corners,Yes,Surprising resilience,Running circles around enemies,None,Glossophobia,Black Leather Trench Coat with White Cotton Oxford and Black Tie,Laughing at your mistakes,,Black Knee High Leather Boots,Can take a punch,4,10,11,7,8,3,1,1,,,,,,,,,,Smirk,Goatee,Natural,Light Grey,,Light Rain,Black Patent Leather Pants with Buckles
-49481,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49482,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49483,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49481,Time slows for you,Yes,True grit,A gelatinous blob,None,Your significant other's mom loves you,Green Cotton Tank,You know the sound of one hand clapping,,Black Leather Combat Cuff Boot,Paper hands,8,13,16,1,9,1,1,1,,Dark Wood Staff,,,Circle,Triforce,Black Earrings,Leather Choker,,Scowl,,White,Light Grey,Short Curly Fade,Medium Rain,Green Cotton Leggings
+49482,You've got a bad feeling about this,Yes,True grit,Two left feet,None,Your significant other's mom loves you,White Patent Leather Moto Jacket with Green Cotton Crew,Laughing at your mistakes,Black Hex with Purple Polarized Lens,Black Knee High Leather Boots,Your grandma beats you at arm-wrestling,8,10,9,3,9,2,1,1,,,,,,,Black Earrings,,,Scowl,,Natural,Light Grey,Short Curly Fade,Medium Rain,Green Leather Pants with Buckles
+49483,Can hear a bee's wings,Yes,Incredible moral fiber,Two left feet,None,People smile back at you,Black Patent Lather Trench Coat with Purple Cotton Oxford and Green Tie,Learning to regulate emotions,,Black Leather Combat Cuff Boot,Can take a punch,6,9,10,3,11,3,1,1,,,,,,,Silver Erl,,,Scowl,Thin,Natural,Dark Brown,Medium Curly Bob,Medium Rain,Red Leather Pants with Buckles
 49484,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49485,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49486,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4492,7 +4492,7 @@
 49491,You've got a bad feeling about this,Yes,Begrudging participant,Can walk and chew gum AT THE SAME TIME (good job!),None,You're a bit of a charmer,Charcoal Patent Leather Longsleeve Crew,Laughing at your mistakes,,Green Patent Leather Knee High Boots,Can take a punch,7,10,9,4,6,3,1,1,,,Sierpiński Triangle,,,,Black Earrings,,,,,Natural,Dark Brown,,Medium Rain,Black Cotton Wool Slacks with Buckles
 49492,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49493,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49494,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49494,Can hear a bee's wings,Yes,Steps forward as others flee,Getting the hang of it,None,Could sell ice to an eskimo,Black Cotton Tank,Laughing at your mistakes,,Green Patent Leather Knee High Boots,Scrappy,9,10,10,5,13,5,1,1,,Phone,,Intersecting Triangles,Triforce,,,,,,,Natural,Light Grey,Long Messy,Light Rain,Black Cotton Leggings
 49495,Can smell fear,Yes,Steps forward as others flee,Sleep paralysis,None,Your significant other's mom loves you,Green Patent Leather Trench Coat with Green Cotton Tank,Accepting the impermanence of things,Black Wayfarer with Black Lens,Black Snakeskin Combat Cuff Boot,The gym stops to watch you lift,8,11,14,2,13,8,1,1,,,,,,,,,,,,White,Light Brown,Braids,Medium Rain,Black Cotton Wool Slacks with Buckles
 49496,Nothing gets past you,Yes,Quiet confidence,Two left feet,None,You're a bit of a charmer,Black Leather Moto Jacket with White Patent Leather Crew,Eckhart Tolle has you on speed dial,Black Morpheus with Dark Mirrored Lens,Patent Red Leather Combat Cuff Boot,Can put up a fight,7,17,6,3,10,4,1,1,Katana with Black Handle and Silver Blade,Black Arm Pole,,,,,,,,Smirk,Goatee,Yellow,Light Grey,Short Updo,Light Rain,Black Snakeskin Leggings
 49497,Can see around corners,Yes,Incredible moral fiber,Two left feet,None,Glossophobia,Red Leather Crewneck Tunic,Accepting the impermanence of things,Round Black with Black Lens,Red Leather Combat Cuff Boot,I wouldn't mess with you,4,11,11,3,11,6,1,1,Katana with Black Handle and Silver Blade,Black Gun,Circle,Intersecting Triangles,,,,,,Scowl,,Natural,Dark Brown,Short Messy,Heavy Rain,Black Patent Leather Pants with Buckles
@@ -4509,7 +4509,7 @@
 49508,Can see around corners,Yes,Quiet confidence,Can walk and chew gum AT THE SAME TIME (good job!),None,Nobody's buying it,Red Leather Moto Jacket with Black Cotton Crew,Accepting the impermanence of things,,Black Patent Leather Knee High Boots,Paper hands,2,11,11,4,10,1,1,1,,,,,,,,,,Smirk,,Natural,Dark Brown,Medium Curly Bob,Medium Rain,Green Cotton Wool Slacks with Buckles
 49509,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49510,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49511,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49511,Can hear a bee's wings,Yes,True grit,Sleep paralysis,None,Natural born leader,Green Cotton Longsleeve Crew,Laughing at your mistakes,,Black Leather Combat Cuff Boot,Can take a punch,10,10,10,2,9,3,1,1,,Dark Wood Staff,,,,,,,Thick Leather,Scowl,,Natural,Light Brown,Short Pixie,Light Rain,Black Cotton Martial Arts Pants
 49512,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49513,You've got a bad feeling about this,Yes,True grit,Two left feet,None,People smile back at you,Green Cotton Longsleeve with Zipper,You know the sound of one hand clapping,,Black Leather Neo Combat Boot,Paper hands,6,13,9,3,9,1,1,1,,Katana with Black Handle and Silver Blade,,,,,,,Thick Leather,Meditative,,Natural,Auburn,Short Afro Fade,Light Rain,Black Cotton Leggings
 49514,Can see over the horizon,Yes,Quiet confidence,Running circles around enemies,None,People smile back at you,Charcoal Leather Longsleeve Crew,Laughing at your mistakes,Black Futurist with Black Lens,Black Leather Combat Cuff Boot,Scrappy,6,10,13,7,10,5,1,1,,Katana with Black Handle and Silver Blade,,,,,,,Thick Leather,Scowl,,Natural,Black,,Light Rain,Black Cotton Wool Slacks with Buckles
@@ -4656,7 +4656,7 @@
 49655,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49656,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49657,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49658,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49658,Can hear a bee's wings,Yes,True grit,Always picked first,None,Glossophobia,Green Leather Moto Jacket with Black Leather Crew,You know the sound of one hand clapping,Black Morpheus with Dark Mirrored Lens,Red Leather Neo Combat Boot,Your grandma beats you at arm-wrestling,4,13,10,8,9,2,1,1,,Black Gun,,,,,"Black Nose, Lip, Forehead",,,,,Light Purple,Blonde,Long Straight Bangs,Light Rain,Red Cotton Wool Slacks with Buckles
 49659,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49660,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49661,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4824,9 +4824,9 @@
 49823,Nothing gets past you,Yes,Last one standing,Sleep paralysis,None,Glossophobia,Black Patent Lather Trench Coat with Black Cotton Oxford and White Tie,You know the sound of one hand clapping,Black Wayfarer with Black Lens,Black Leather Neo Combat Boot,Can take a punch,4,13,6,2,14,3,1,1,,Black Submachine Gun,,,,,,,,,Mustache,Natural,Dark Brown,,Light Rain,Red Leather Leggings
 49824,You've got a bad feeling about this,Yes,Quiet confidence,Can walk and chew gum AT THE SAME TIME (good job!),None,Your significant other's mom loves you,Green Cotton Martial Arts Top,Learning to regulate emotions,Black and Gold Wayfarer with Black Lens,,Paper hands,8,9,9,4,10,1,1,1,,Phone,,,,,,,,,Stubble,Pink,Dark Brown,Long Straight Bangs,Heavy Rain,Black Cotton Martial Arts Pants
 49825,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49826,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49826,Can see around corners,Yes,Quiet confidence,Two left feet,None,Nobody's buying it,Charcoal Leather Longsleeve Crew,Appreciation for the complexity of human behavior,Black Wayfarer with Black Lens,Black Patent Leather Neo Combat Boot,Can take a punch,2,12,11,3,10,3,1,1,Katana with White Handle and Silver Blade,Katana with Black Handle and Silver Blade,Interlocking Circles,,,,,,Studded Leather,,,Natural,Black,Short Afro Fade,Light Rain,Black Cotton Leggings
 49827,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49828,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49828,Can hear a heartbeat a mile away,Yes,Begrudging participant,Two left feet,None,People smile back at you,Black Snakeskin Moto Jacket with Charcoal Cotton Crew,You have a childlike sense of wonder,,Red Leather Neo Combat Boot,Can take a punch,6,7,12,3,6,3,1,1,,Katana with White Handle and Silver Blade,,,,,,,,,,Green,Light Grey,Short Pixie,Medium Rain,Black Cotton Leggings
 49829,Can see around corners,Yes,Incredible moral fiber,Sleep paralysis,None,You're a bit of a charmer,Black Leather Mandarin Trench Coat,Learning to regulate emotions,,Black Leather Neo Combat Boot,Can put up a fight,7,9,11,2,11,4,1,1,Phone,,,,,,,,,,Beard,Neon Red,Blonde,Buzz Cut,Light Rain,Black Cotton Leggings
 49830,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4851,7 +4851,7 @@
 49850,Can hear a heartbeat a mile away,Yes,Quiet confidence,Getting the hang of it,None,People follow you blindly,Red Leather Trench Coat with Black Cotton Oxford and Red Tie,Laughing at your mistakes,,Black Leather Neo Combat Boot,Can put up a fight,11,10,12,5,10,4,1,1,,,,,,,Black Earrings,,,Scowl,,Natural,Black,Short Afro Fade,Medium Rain,Black Patent Leather Leggins
 49851,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49852,Can see around corners,Yes,Incredible moral fiber,Getting the hang of it,None,People smile back at you,Green Snakeskin Moto Jacket with Black Cotton Crew,Laughing at your mistakes,,Green Knee High Leather Boots,Can take a punch,6,10,11,5,11,3,1,1,,,Intersecting Squares,,,,,,,,,Natural,Black,Short Curly Fade,Medium Rain,Black Patent Leather Leggins
-49853,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49853,Can see around corners,Yes,True grit,Can walk and chew gum AT THE SAME TIME (good job!),None,You're a bit of a charmer,Black Leather Longsleeve with Zipper,Learning to regulate emotions,Black Wayfarer with Black Lens,Patent White Leather Combat Cuff Boot,Your grandma beats you at arm-wrestling,7,9,11,4,9,2,1,1,,Phone,,,,,,,,Scowl,,Green,Dark Brown,Medium Curly Bob,Light Rain,Black Cotton Leggings
 49854,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49855,Can hear a heartbeat a mile away,Yes,Incredible moral fiber,Can walk and chew gum AT THE SAME TIME (good job!),None,People smile back at you,Black Leather Tank,Accepting the impermanence of things,Black Wayfarer with Black Lens,Red Leather Neo Combat Boot,Scrappy,6,11,12,4,11,5,1,1,Katana with Black Handle and Silver Blade,Black Arm Pole,,,,Shaded Stacking Triangles,,,Studded Leather,,Thin,Green,Black,Messy Updo Bun,Light Rain,Black Cotton Wool Slacks with Buckles
 49856,Can see around corners,Yes,Begrudging participant,Can walk and chew gum AT THE SAME TIME (good job!),None,Could sell ice to an eskimo,Black Patent Lather Trench Coat with Black Cotton Oxford and White Tie,Laughing at your mistakes,Black Hex with Purple Polarized Lens,Green Black Patent Leather Neo Combat Boot,I wouldn't mess with you,9,10,11,4,6,6,1,1,Katana with Black Handle and Silver Blade,Katana with White Handle and White Blade,,,,,,,,,,Yellow,Blonde,Short Coil,Light Rain,Green Cotton Leggings
@@ -4864,7 +4864,7 @@
 49863,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49865,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49866,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49866,Excellent at reading people,Yes,Incredible moral fiber,Two left feet,None,People smile back at you,Black Leather Trench Coat with White Cotton Oxford and Black Tie,Laughing at your mistakes,Black Neo with Black Lens,Black Snakeskin Knee High Boots,Your grandma beats you at arm-wrestling,6,10,8,3,11,2,1,1,Silver Submachine Gun,Gold Staff,,,,,Black Earrings,,,,,Pink,Light Brown,Short Afro Fade,Light Rain,White Patent Leather Leggins
 49867,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49868,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49869,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4970,7 +4970,7 @@
 49969,You've got a bad feeling about this,Yes,Leads when no one else will,Two left feet,None,Glossophobia,Red Leather Longsleeve Crew,Accepting the impermanence of things,Black Wayfarer with Black Lens,Patent Black Leather Combat Cuff Boot,The gym stops to watch you lift,4,11,9,3,16,8,1,1,Katana with Black Handle and Silver Blade,,Equality Sign,,,,,,Thick Leather,Scowl,,Natural,Light Brown,Short Afro Fade,Light Rain,Green Cotton Martial Arts Pants
 49970,Can see over the horizon,Yes,Can eat just one potato chip,Always picked first,None,Maintains status quo,Red Leather Trench Coat with Black Cotton Tank,Accepting the impermanence of things,,Patent Black Leather Combat Cuff Boot,Can put up a fight,5,11,13,8,15,4,1,1,,Phone,,,,,Black Earrings,Leather Cuff,,Scowl,,Natural,Light Brown,Pulled Back Short,Medium Rain,Red Patent Leather Leggins
 49971,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49972,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49972,You notice every glitch in the Matrix,Yes,Incredible moral fiber,Can instantly copy any movement or pattern,None,People smile back at you,Green Patent Leather Trench Coat with Black Leather Tank,Accepting the impermanence of things,Black Wayfarer with Black Lens,Black Leather Neo Combat Boot,The gym stops to watch you lift,6,11,17,11,11,8,1,1,Phone,Black Shotgun,Triangle,Equality Sign,,,Black Earrings,,,,Beard,Natural,Auburn,Buzz Cut,Light Rain,Black Cotton Wool Slacks with Buckles
 49973,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49974,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

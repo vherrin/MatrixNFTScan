@@ -522,7 +522,7 @@
 75521,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75522,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75523,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-75524,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75524,Master,None,Subscribed to 2600,70's Hatchback,Blockchain Engineer,12,11,4981,8,9,22576,6,661,8,1,1,Black Leather Briefcase,,Black Books,,,Black Suede Chelseas with Brown Sole,Charcoal Slacks,Dark Gray Longsleeve,,Black,Short Updo,White Light Rain
 75525,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75526,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75527,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -609,7 +609,7 @@
 75608,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75609,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75610,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-75611,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75611,Graduate,None,Read the Bitcoin white paper twice,70's Hatchback,Night Shift Supervisor,9,10,51,3,9,35555,7,508,5,1,1,Light Blue Smartphone,,,,,Black Suede Chelseas with Brown Sole,Charcoal Slacks,Blue Longsleeve,,Black,Long Messy,White Medium Rain
 75612,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75613,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75614,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -622,7 +622,7 @@
 75621,Teacher,None,Got caught hacking your grades,Pragmatic Coupe,Night Shift Supervisor,11,13,777,6,10,52968,8,559,6,1,1,Brown Leather Briefcase,,Silver Aviators,,,Black Leather Shoes with Laces,Charcoal Slacks,Tan Blazer with Off-White Shirt and No Tie,Thin,Black,Short Messy,White Light Rain
 75622,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75623,Disciple,None,Subscribed to 2600,Pragmatic Coupe,Talent Agent,10,11,4981,8,10,3040332,16,457,4,1,1,Brown Leather Briefcase,,,,,Black Suede Chelseas with Brown Sole,Charcoal Slacks,Tan Blazer with Off-White Shirt and Tan Tie,,Blonde,Short Updo,White Light Rain
-75624,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75624,Teacher,None,Stole a high school computer lab pass,Pragmatic Coupe,Unemployed,11,12,12453,9,10,303303,13,844,19,1,1,Brown Leather Briefcase,,Silver Aviators,,,Brown Leather Shoes with Laces,,Navy Jumpsuit,Mustache,Light Grey,Short Coil,White Medium Rain
 75625,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75626,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75627,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -870,7 +870,7 @@
 75869,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75870,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75871,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-75872,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75872,Expanding Brain,None,Watched a hacking tutorial video by a 13 year old,70's Hatchback,Blockchain Engineer,16,8,1993,7,9,35555,7,711,10,1,1,Lunchbox,,,,,Black Suede Chelseas with Brown Sole,Blue Denim,Blue Longsleeve,,Black,Short Coil,White Medium Rain
 75873,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75874,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75875,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -883,8 +883,8 @@
 75882,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75883,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75884,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-75885,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-75886,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75885,Disciple,None,Got caught hacking your grades,Electric Car,Legal Assistant,10,13,84059,11,12,92000,10,739,12,1,1,Lunchbox,,,,,Black Leather Shoes with Laces,Dark-Wash Denim,Navy Oxford with Buttons,,Black,Buzz Cut,White Medium Rain
+75886,Teacher,None,Read the Bitcoin white paper twice,Pragmatic Coupe,Night Shift Supervisor,11,10,128,4,10,92000,10,661,8,1,1,Brown Leather Briefcase,,,,,Tan Suede Workboot with Tan Sole,Gray Slacks,Light Gray Longsleeve,,Light Brown,Short Pixie,White Light Rain
 75887,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75888,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75889,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2216,7 +2216,7 @@
 77215,Disciple,None,Got caught hacking your grades,Electric Car,Project Manager,10,13,128,4,12,52968,8,699,9,1,1,,,,,,Brown Leather Shoes with Laces,Gray Slacks,Tan Blazer with Off-White Shirt and Tan Tie,Thin,Light Brown,Short Messy,White Light Rain
 77216,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 77217,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-77218,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77218,Graduate,None,Subscribed to 2600,Pragmatic Coupe,Legal Assistant,9,11,516,5,10,52968,8,739,12,1,1,Brown Leather Briefcase,,,Tan Worker's Cap,,Black Suede Chelseas with Brown Sole,Khaki Slacks,Dark Gray Cardigan with Beige Oxford and No Tie,,Black,Buzz Cut,White Light Rain
 77219,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 77220,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 77221,Budding Scholar,None,Read the Bitcoin white paper twice,Low Rider,Money Printing Machine Operator,8,10,516,5,11,52968,8,791,15,1,1,Black Smartphone,,Rosegold Aviators,,,Black Suede Chelseas with Brown Sole,Gray Slacks,Gray Oxford with Tie and Pocket,Stubble,Blonde,Medium Curly Bob,White Heavy Rain
@@ -3912,7 +3912,7 @@
 78911,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 78912,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 78913,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-78914,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78914,Budding Scholar,None,Pretty good with GW Basic,Pragmatic Coupe,Custodian,8,9,1993,7,10,22576,6,711,10,1,1,Black Smartphone,Stud Earring,Black Books,,,White Canvas Sneaker with White Sole,Charcoal Slacks,Charcoal Blazer with Light Blue Shirt and Black Tie,,Black,Short Messy,White Medium Rain
 78915,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 78916,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 78917,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4029,7 +4029,7 @@
 79028,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79029,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79030,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-79031,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79031,Grandmaster,None,Stole a high school computer lab pass,Pragmatic Coupe,Legal Assistant,13,12,12453,9,10,35555,7,661,8,1,1,Black Leather Briefcase,,,,,White Canvas Sneaker with White Sole,Khaki Slacks,Tan Blazer with Off-White Shirt and No Tie,,Blonde,Medium Curly Bob,White Medium Rain
 79032,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79033,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79034,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4112,10 +4112,10 @@
 79111,Disciple,None,Stole a high school computer lab pass,Back of Rusty Pickup Truck,Computer Programmer,10,12,128,4,3,52968,8,711,10,1,1,Brown Leather Briefcase,Stud Earring,,,Two Rings,Black Suede Chelseas with Brown Sole,Dark-Wash Denim,Navy Oxford with Tie,Stubble,Light Grey,Short Afro Fade,White Heavy Rain
 79112,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79113,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-79114,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79114,Master,None,Read the Bitcoin white paper twice,Low Rider,Receptionist,12,10,4981,8,11,52968,8,753,13,1,1,Black Leather Briefcase,Stud Earring,,Tan Worker's Cap,,Brown Leather Shoes with Laces,,Navy Jumpsuit,,Light Brown,,White Light Rain
 79115,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79116,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-79117,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79117,Budding Scholar,None,Stole a high school computer lab pass,Low Rider,Utility Worker,8,12,516,5,11,10098,5,699,9,1,1,,,Silver Aviators,,,Brown Leather Shoes with Laces,Light-Wash Denim,Dark Gray Cardigan with Light Gray Oxford Shirt,,Light Brown,Short Afro Fade,White Light Rain
 79118,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79119,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79120,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4506,7 +4506,7 @@
 79505,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79506,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79507,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-79508,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79508,Teacher,None,Watched a hacking tutorial video by a 13 year old,Low Rider,Customer Service Representative,11,8,0,1,11,52968,8,833,18,1,1,Lunchbox,,Black Books,Navy Blue Worker's Cap,Two Rings,Brown Leather Shoes with Laces,Light-Wash Denim,Navy Blazer with Striped Shirt and Navy Tie,,Light Grey,Buzz Cut,White Medium Rain
 79509,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79510,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79511,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4553,7 +4553,7 @@
 79552,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79553,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79554,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-79555,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79555,Teacher,None,Earned an MIT Computer Sciences Diploma,Pragmatic Coupe,Assistant to the Regional Manager,11,14,1993,7,10,52968,8,739,12,1,1,Black Leather Briefcase,Stud Earring,,,,Tan Suede Workboot with Tan Sole,Navy Slacks,Charcoal Blazer with Light Blue Shirt and No Tie,,Black,Low Ponytail,White Medium Rain
 79556,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 79557,Master,None,Subscribed to 2600,Low Rider,Day Trader,12,11,516,5,11,52968,8,753,13,1,1,Black Leather Briefcase,,,,,Brown Leather Shoes with Laces,Navy Slacks,Tan Blazer with Off-White Shirt and No Tie,,Blonde,Long Straight Bangs,White Light Rain
 79558,Disciple,None,Read the Bitcoin white paper twice,Pragmatic Coupe,Receptionist,10,10,1993,7,10,35555,7,699,9,1,1,Brown Leather Briefcase,Stud Earring,,,,Black Leather Shoes with Laces,Charcoal Slacks,Navy Oxford with Tie,,Blonde,Short Messy,White Light Rain
