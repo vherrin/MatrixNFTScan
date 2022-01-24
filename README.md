@@ -39,7 +39,7 @@ Rarity Score for a Trait Value = √√ (1 / (Number of Items with that Trait Va
 
 </br>
 
- # Contract: ckw5j7pqf0011g4731pvaj6gm</br>
+ # Contract: base (ckw5j7pqf0011g4731pvaj6gm)</br>
 ## Updated on 2022-01-23</br>
 - [Sorted by Nifty ID using addition method](./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using addition method](./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_rankingID.html) </br>
