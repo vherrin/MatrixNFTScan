@@ -39,8 +39,570 @@ Rarity Score for a Trait Value = √√ (1 / (Number of Items with that Trait Va
 
 </br>
 
- # matrix-red-contract</br>
-## Updated on 2022-01-21</br>
+ # Contract: ckw5j7pqf0011g4731pvaj6gm</br>
+## Updated on 2022-01-23</br>
+- [Sorted by Nifty ID using addition method](./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_niftyID.html) </br>
+ - [Sorted by Ranking ID using addition method](./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_rankingID.html) </br>
+ - [Sorted by Nifty ID using multiplication method](./data/ckw5j7pqf0011g4731pvaj6gm/full_m_sorted_niftyID.html) </br>
+ - [Sorted by Ranking ID using multiplication method](./data/ckw5j7pqf0011g4731pvaj6gm/full_m_sorted_rankingID.html) </br>
+ </br>
+
+ ### Top 25 (rarity using addition)
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">aRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>11621</td>
+      <td>1223.22</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>29795</td>
+      <td>740.93</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>63467</td>
+      <td>717.45</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>86373</td>
+      <td>708.79</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>53836</td>
+      <td>703.82</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>49110</td>
+      <td>702.57</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>83101</td>
+      <td>701.80</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>68770</td>
+      <td>700.24</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>5135</td>
+      <td>697.20</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>22889</td>
+      <td>693.35</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>2942</td>
+      <td>692.80</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>93728</td>
+      <td>692.19</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>38379</td>
+      <td>692.09</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>63775</td>
+      <td>691.57</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>750</td>
+      <td>690.34</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>17313</td>
+      <td>569.48</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>81747</td>
+      <td>558.55</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>47263</td>
+      <td>543.14</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>39591</td>
+      <td>533.73</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>62311</td>
+      <td>528.43</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>44625</td>
+      <td>528.06</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>37120</td>
+      <td>527.77</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>52344</td>
+      <td>527.69</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>59977</td>
+      <td>527.54</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>74825</td>
+      <td>527.28</td>
+    </tr>
+  </tbody>
+</table></br>
+
+### Bottom 25 (rarity using addition)
+
+Please notice the reverse order  <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">aRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>97619</td>
+      <td>15504</td>
+      <td>3.11</td>
+    </tr>
+    <tr>
+      <td>97618</td>
+      <td>29479</td>
+      <td>3.15</td>
+    </tr>
+    <tr>
+      <td>97617</td>
+      <td>70646</td>
+      <td>3.16</td>
+    </tr>
+    <tr>
+      <td>97616</td>
+      <td>88333</td>
+      <td>3.19</td>
+    </tr>
+    <tr>
+      <td>97615</td>
+      <td>23442</td>
+      <td>3.24</td>
+    </tr>
+    <tr>
+      <td>97614</td>
+      <td>471</td>
+      <td>3.32</td>
+    </tr>
+    <tr>
+      <td>97613</td>
+      <td>12840</td>
+      <td>3.32</td>
+    </tr>
+    <tr>
+      <td>97612</td>
+      <td>1189</td>
+      <td>3.32</td>
+    </tr>
+    <tr>
+      <td>97611</td>
+      <td>31021</td>
+      <td>3.33</td>
+    </tr>
+    <tr>
+      <td>97610</td>
+      <td>69174</td>
+      <td>3.35</td>
+    </tr>
+    <tr>
+      <td>97609</td>
+      <td>22942</td>
+      <td>3.39</td>
+    </tr>
+    <tr>
+      <td>97608</td>
+      <td>67863</td>
+      <td>3.39</td>
+    </tr>
+    <tr>
+      <td>97607</td>
+      <td>57198</td>
+      <td>3.40</td>
+    </tr>
+    <tr>
+      <td>97606</td>
+      <td>12197</td>
+      <td>3.40</td>
+    </tr>
+    <tr>
+      <td>97605</td>
+      <td>94080</td>
+      <td>3.41</td>
+    </tr>
+    <tr>
+      <td>97604</td>
+      <td>94640</td>
+      <td>3.46</td>
+    </tr>
+    <tr>
+      <td>97603</td>
+      <td>17248</td>
+      <td>3.46</td>
+    </tr>
+    <tr>
+      <td>97602</td>
+      <td>2654</td>
+      <td>3.47</td>
+    </tr>
+    <tr>
+      <td>97601</td>
+      <td>53827</td>
+      <td>3.48</td>
+    </tr>
+    <tr>
+      <td>97600</td>
+      <td>30386</td>
+      <td>3.49</td>
+    </tr>
+    <tr>
+      <td>97599</td>
+      <td>84020</td>
+      <td>3.50</td>
+    </tr>
+    <tr>
+      <td>97598</td>
+      <td>16765</td>
+      <td>3.51</td>
+    </tr>
+    <tr>
+      <td>97597</td>
+      <td>89747</td>
+      <td>3.53</td>
+    </tr>
+    <tr>
+      <td>97596</td>
+      <td>59463</td>
+      <td>3.55</td>
+    </tr>
+    <tr>
+      <td>97595</td>
+      <td>38555</td>
+      <td>3.56</td>
+    </tr>
+  </tbody>
+</table></br>  </br>
+
+ ### Top 25 (rarity using multiplication)
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">mRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>11621</td>
+      <td>52.40</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>81747</td>
+      <td>14.31</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>47263</td>
+      <td>8.95</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>63467</td>
+      <td>8.79</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>39591</td>
+      <td>8.37</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>29795</td>
+      <td>7.45</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>83101</td>
+      <td>7.40</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>53836</td>
+      <td>7.00</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>68770</td>
+      <td>6.35</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>7732</td>
+      <td>5.99</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>44625</td>
+      <td>5.56</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>86373</td>
+      <td>5.38</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>74825</td>
+      <td>5.12</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>17313</td>
+      <td>5.07</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>48223</td>
+      <td>4.86</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>73014</td>
+      <td>4.84</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>49110</td>
+      <td>4.73</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>26019</td>
+      <td>4.45</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>10200</td>
+      <td>4.45</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>1367</td>
+      <td>4.40</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>52344</td>
+      <td>4.12</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>55033</td>
+      <td>4.02</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>63775</td>
+      <td>3.99</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>86692</td>
+      <td>3.97</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>14982</td>
+      <td>3.82</td>
+    </tr>
+  </tbody>
+</table></br>
+
+### Bottom 25 (rarity using multiplication)
+
+Please notice the reverse order  <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th style="min-width: 80px;">rankingID</th>
+      <th style="min-width: 80px;">niftyID</th>
+      <th style="min-width: 80px;">mRarity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>97619</td>
+      <td>80225</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97618</td>
+      <td>70407</td>
+      <td>0.23</td>
+    </tr>
+    <tr>
+      <td>97617</td>
+      <td>50100</td>
+      <td>0.25</td>
+    </tr>
+    <tr>
+      <td>97616</td>
+      <td>79571</td>
+      <td>0.25</td>
+    </tr>
+    <tr>
+      <td>97615</td>
+      <td>86171</td>
+      <td>0.25</td>
+    </tr>
+    <tr>
+      <td>97614</td>
+      <td>74475</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97613</td>
+      <td>21352</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97612</td>
+      <td>68900</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97611</td>
+      <td>32076</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97610</td>
+      <td>60396</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97609</td>
+      <td>73026</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97608</td>
+      <td>2847</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97607</td>
+      <td>34239</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97606</td>
+      <td>3151</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97605</td>
+      <td>11635</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97604</td>
+      <td>96302</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97603</td>
+      <td>6160</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97602</td>
+      <td>89145</td>
+      <td>0.26</td>
+    </tr>
+    <tr>
+      <td>97601</td>
+      <td>44073</td>
+      <td>0.27</td>
+    </tr>
+    <tr>
+      <td>97600</td>
+      <td>20144</td>
+      <td>0.27</td>
+    </tr>
+    <tr>
+      <td>97599</td>
+      <td>38057</td>
+      <td>0.27</td>
+    </tr>
+    <tr>
+      <td>97598</td>
+      <td>73450</td>
+      <td>0.27</td>
+    </tr>
+    <tr>
+      <td>97597</td>
+      <td>36438</td>
+      <td>0.27</td>
+    </tr>
+    <tr>
+      <td>97596</td>
+      <td>78555</td>
+      <td>0.27</td>
+    </tr>
+    <tr>
+      <td>97595</td>
+      <td>36450</td>
+      <td>0.27</td>
+    </tr>
+  </tbody>
+</table></br>  </br>
+
+ # Contract: matrix-red-contract</br>
+## Updated on 2022-01-23</br>
 - [Sorted by Nifty ID using addition method](./data/matrix-red-contract/full_a_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using addition method](./data/matrix-red-contract/full_a_sorted_rankingID.html) </br>
  - [Sorted by Nifty ID using multiplication method](./data/matrix-red-contract/full_m_sorted_niftyID.html) </br>
@@ -60,127 +622,127 @@ Rarity Score for a Trait Value = √√ (1 / (Number of Items with that Trait Va
     <tr>
       <td>1</td>
       <td>5090</td>
-      <td>10743.61</td>
+      <td>10800.54</td>
     </tr>
     <tr>
       <td>2</td>
       <td>96220</td>
-      <td>10740.38</td>
+      <td>10798.65</td>
     </tr>
     <tr>
       <td>3</td>
       <td>81743</td>
-      <td>10674.31</td>
+      <td>10730.83</td>
     </tr>
     <tr>
       <td>4</td>
       <td>41904</td>
-      <td>10668.41</td>
+      <td>10725.47</td>
     </tr>
     <tr>
       <td>5</td>
       <td>52958</td>
-      <td>10660.69</td>
+      <td>10717.62</td>
     </tr>
     <tr>
       <td>6</td>
       <td>84328</td>
-      <td>10649.29</td>
+      <td>10707.18</td>
     </tr>
     <tr>
       <td>7</td>
       <td>61440</td>
-      <td>10637.72</td>
+      <td>10693.90</td>
     </tr>
     <tr>
       <td>8</td>
       <td>51080</td>
-      <td>10632.81</td>
+      <td>10690.63</td>
     </tr>
     <tr>
       <td>9</td>
       <td>86889</td>
-      <td>10631.87</td>
+      <td>10689.20</td>
     </tr>
     <tr>
       <td>10</td>
       <td>86839</td>
-      <td>10620.24</td>
+      <td>10676.32</td>
     </tr>
     <tr>
       <td>11</td>
       <td>72688</td>
-      <td>10616.38</td>
+      <td>10673.99</td>
     </tr>
     <tr>
       <td>12</td>
       <td>88042</td>
-      <td>10593.65</td>
+      <td>10650.99</td>
     </tr>
     <tr>
       <td>13</td>
       <td>51216</td>
-      <td>10592.44</td>
+      <td>10649.42</td>
     </tr>
     <tr>
       <td>14</td>
       <td>74323</td>
-      <td>10583.18</td>
+      <td>10640.39</td>
     </tr>
     <tr>
       <td>15</td>
       <td>12530</td>
-      <td>10582.27</td>
+      <td>10639.77</td>
     </tr>
     <tr>
       <td>16</td>
       <td>31653</td>
-      <td>10579.03</td>
+      <td>10636.24</td>
     </tr>
     <tr>
       <td>17</td>
       <td>41240</td>
-      <td>10571.99</td>
+      <td>10629.12</td>
     </tr>
     <tr>
       <td>18</td>
       <td>89892</td>
-      <td>10566.08</td>
+      <td>10623.39</td>
     </tr>
     <tr>
       <td>19</td>
       <td>80020</td>
-      <td>10564.64</td>
+      <td>10621.80</td>
     </tr>
     <tr>
       <td>20</td>
       <td>61378</td>
-      <td>10557.67</td>
+      <td>10614.74</td>
     </tr>
     <tr>
       <td>21</td>
       <td>39160</td>
-      <td>10553.49</td>
+      <td>10610.43</td>
     </tr>
     <tr>
       <td>22</td>
-      <td>1373</td>
-      <td>10545.82</td>
+      <td>69853</td>
+      <td>10602.73</td>
     </tr>
     <tr>
       <td>23</td>
-      <td>69853</td>
-      <td>10545.55</td>
+      <td>1373</td>
+      <td>10602.64</td>
     </tr>
     <tr>
       <td>24</td>
       <td>81243</td>
-      <td>10544.11</td>
+      <td>10601.14</td>
     </tr>
     <tr>
       <td>25</td>
       <td>18763</td>
-      <td>10542.28</td>
+      <td>10599.15</td>
     </tr>
   </tbody>
 </table></br>
@@ -197,129 +759,129 @@ Please notice the reverse order  <table border="1" class="dataframe">
   </thead>
   <tbody>
     <tr>
-      <td>40588</td>
+      <td>40779</td>
       <td>133</td>
       <td>33.44</td>
     </tr>
     <tr>
-      <td>40587</td>
+      <td>40778</td>
       <td>11569</td>
-      <td>33.64</td>
+      <td>33.70</td>
     </tr>
     <tr>
-      <td>40586</td>
+      <td>40777</td>
       <td>24874</td>
-      <td>35.76</td>
+      <td>35.77</td>
     </tr>
     <tr>
-      <td>40585</td>
+      <td>40776</td>
       <td>21376</td>
-      <td>37.19</td>
+      <td>37.22</td>
     </tr>
     <tr>
-      <td>40584</td>
+      <td>40775</td>
       <td>87275</td>
-      <td>37.36</td>
+      <td>37.37</td>
     </tr>
     <tr>
-      <td>40583</td>
+      <td>40774</td>
       <td>51412</td>
-      <td>37.56</td>
+      <td>37.61</td>
     </tr>
     <tr>
-      <td>40582</td>
+      <td>40773</td>
       <td>80475</td>
-      <td>37.73</td>
+      <td>37.76</td>
     </tr>
     <tr>
-      <td>40581</td>
-      <td>77362</td>
-      <td>38.21</td>
-    </tr>
-    <tr>
-      <td>40580</td>
+      <td>40772</td>
       <td>55061</td>
-      <td>38.23</td>
-    </tr>
-    <tr>
-      <td>40579</td>
-      <td>96113</td>
       <td>38.25</td>
     </tr>
     <tr>
-      <td>40578</td>
+      <td>40771</td>
+      <td>96113</td>
+      <td>38.27</td>
+    </tr>
+    <tr>
+      <td>40770</td>
+      <td>77362</td>
+      <td>38.27</td>
+    </tr>
+    <tr>
+      <td>40769</td>
       <td>83276</td>
-      <td>38.50</td>
+      <td>38.54</td>
     </tr>
     <tr>
-      <td>40577</td>
+      <td>40768</td>
       <td>90304</td>
-      <td>39.14</td>
+      <td>39.17</td>
     </tr>
     <tr>
-      <td>40576</td>
+      <td>40767</td>
       <td>4367</td>
-      <td>39.21</td>
+      <td>39.23</td>
     </tr>
     <tr>
-      <td>40575</td>
+      <td>40766</td>
+      <td>57932</td>
+      <td>39.29</td>
+    </tr>
+    <tr>
+      <td>40765</td>
       <td>20534</td>
       <td>39.29</td>
     </tr>
     <tr>
-      <td>40574</td>
-      <td>57932</td>
-      <td>39.31</td>
-    </tr>
-    <tr>
-      <td>40573</td>
+      <td>40764</td>
       <td>65129</td>
-      <td>39.49</td>
+      <td>39.51</td>
     </tr>
     <tr>
-      <td>40572</td>
+      <td>40763</td>
       <td>86248</td>
-      <td>39.58</td>
+      <td>39.61</td>
     </tr>
     <tr>
-      <td>40571</td>
-      <td>47364</td>
-      <td>39.87</td>
-    </tr>
-    <tr>
-      <td>40570</td>
+      <td>40762</td>
       <td>31178</td>
-      <td>39.87</td>
+      <td>39.88</td>
     </tr>
     <tr>
-      <td>40569</td>
+      <td>40761</td>
+      <td>47364</td>
+      <td>39.93</td>
+    </tr>
+    <tr>
+      <td>40760</td>
       <td>27989</td>
-      <td>40.82</td>
+      <td>40.86</td>
     </tr>
     <tr>
-      <td>40568</td>
+      <td>40759</td>
       <td>67644</td>
-      <td>41.07</td>
+      <td>41.12</td>
     </tr>
     <tr>
-      <td>40567</td>
+      <td>40758</td>
       <td>7959</td>
-      <td>41.29</td>
+      <td>41.31</td>
     </tr>
     <tr>
-      <td>40566</td>
+      <td>40757</td>
       <td>11909</td>
       <td>41.40</td>
     </tr>
     <tr>
-      <td>40565</td>
+      <td>40756</td>
       <td>48954</td>
-      <td>41.43</td>
+      <td>41.44</td>
     </tr>
     <tr>
-      <td>40564</td>
+      <td>40755</td>
       <td>11216</td>
-      <td>41.46</td>
+      <td>41.52</td>
     </tr>
   </tbody>
 </table></br>  </br>
@@ -337,127 +899,127 @@ Please notice the reverse order  <table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>71216</td>
-      <td>487106.27</td>
+      <td>492234.57</td>
     </tr>
     <tr>
       <td>2</td>
       <td>19706</td>
-      <td>270481.18</td>
+      <td>273102.95</td>
     </tr>
     <tr>
       <td>3</td>
       <td>88736</td>
-      <td>209048.43</td>
+      <td>210568.47</td>
     </tr>
     <tr>
       <td>4</td>
       <td>12012</td>
-      <td>144417.32</td>
+      <td>145673.71</td>
     </tr>
     <tr>
       <td>5</td>
       <td>21728</td>
-      <td>134025.91</td>
+      <td>135754.43</td>
     </tr>
     <tr>
       <td>6</td>
       <td>12682</td>
-      <td>132132.97</td>
+      <td>132229.64</td>
     </tr>
     <tr>
       <td>7</td>
       <td>48088</td>
-      <td>111925.65</td>
+      <td>112938.30</td>
     </tr>
     <tr>
       <td>8</td>
       <td>11092</td>
-      <td>92873.05</td>
+      <td>93521.87</td>
     </tr>
     <tr>
       <td>9</td>
       <td>54604</td>
-      <td>78351.30</td>
+      <td>78848.61</td>
     </tr>
     <tr>
       <td>10</td>
       <td>66091</td>
-      <td>64626.14</td>
+      <td>64336.68</td>
     </tr>
     <tr>
       <td>11</td>
       <td>34221</td>
-      <td>63403.08</td>
+      <td>63928.83</td>
     </tr>
     <tr>
       <td>12</td>
       <td>73288</td>
-      <td>56724.80</td>
+      <td>56943.59</td>
     </tr>
     <tr>
       <td>13</td>
       <td>41685</td>
-      <td>56295.50</td>
+      <td>56710.42</td>
     </tr>
     <tr>
       <td>14</td>
       <td>86400</td>
-      <td>55885.27</td>
+      <td>56092.67</td>
     </tr>
     <tr>
       <td>15</td>
       <td>65611</td>
-      <td>55454.42</td>
+      <td>56005.65</td>
     </tr>
     <tr>
       <td>16</td>
       <td>66344</td>
-      <td>52300.55</td>
+      <td>52914.51</td>
     </tr>
     <tr>
       <td>17</td>
       <td>506</td>
-      <td>50207.58</td>
+      <td>50544.26</td>
     </tr>
     <tr>
       <td>18</td>
       <td>69107</td>
-      <td>47234.74</td>
+      <td>47295.44</td>
     </tr>
     <tr>
       <td>19</td>
-      <td>63363</td>
-      <td>46337.51</td>
+      <td>43625</td>
+      <td>46749.43</td>
     </tr>
     <tr>
       <td>20</td>
-      <td>43625</td>
-      <td>46189.85</td>
+      <td>66661</td>
+      <td>46425.01</td>
     </tr>
     <tr>
       <td>21</td>
-      <td>66661</td>
-      <td>46088.85</td>
+      <td>81249</td>
+      <td>46182.62</td>
     </tr>
     <tr>
       <td>22</td>
-      <td>81249</td>
-      <td>45898.55</td>
+      <td>63363</td>
+      <td>45905.25</td>
     </tr>
     <tr>
       <td>23</td>
       <td>75064</td>
-      <td>43483.64</td>
+      <td>43765.84</td>
     </tr>
     <tr>
       <td>24</td>
-      <td>71947</td>
-      <td>43473.93</td>
+      <td>43562</td>
+      <td>43693.48</td>
     </tr>
     <tr>
       <td>25</td>
-      <td>43562</td>
-      <td>43432.63</td>
+      <td>71947</td>
+      <td>43359.86</td>
     </tr>
   </tbody>
 </table></br>
@@ -474,135 +1036,135 @@ Please notice the reverse order  <table border="1" class="dataframe">
   </thead>
   <tbody>
     <tr>
-      <td>40588</td>
+      <td>40779</td>
       <td>21376</td>
       <td>0.93</td>
     </tr>
     <tr>
-      <td>40587</td>
+      <td>40778</td>
       <td>11569</td>
       <td>0.97</td>
     </tr>
     <tr>
-      <td>40586</td>
+      <td>40777</td>
       <td>133</td>
       <td>1.06</td>
     </tr>
     <tr>
-      <td>40585</td>
-      <td>87275</td>
-      <td>1.08</td>
-    </tr>
-    <tr>
-      <td>40584</td>
+      <td>40776</td>
       <td>27989</td>
       <td>1.08</td>
     </tr>
     <tr>
-      <td>40583</td>
-      <td>96113</td>
-      <td>1.17</td>
+      <td>40775</td>
+      <td>87275</td>
+      <td>1.09</td>
     </tr>
     <tr>
-      <td>40582</td>
+      <td>40774</td>
+      <td>96113</td>
+      <td>1.18</td>
+    </tr>
+    <tr>
+      <td>40773</td>
       <td>83460</td>
       <td>1.19</td>
     </tr>
     <tr>
-      <td>40581</td>
+      <td>40772</td>
       <td>80475</td>
       <td>1.23</td>
     </tr>
     <tr>
-      <td>40580</td>
+      <td>40771</td>
       <td>24874</td>
-      <td>1.27</td>
+      <td>1.28</td>
     </tr>
     <tr>
-      <td>40579</td>
+      <td>40770</td>
       <td>40952</td>
-      <td>1.31</td>
+      <td>1.32</td>
     </tr>
     <tr>
-      <td>40578</td>
+      <td>40769</td>
       <td>28851</td>
       <td>1.32</td>
     </tr>
     <tr>
-      <td>40577</td>
-      <td>438</td>
-      <td>1.39</td>
-    </tr>
-    <tr>
-      <td>40576</td>
+      <td>40768</td>
       <td>57932</td>
       <td>1.39</td>
     </tr>
     <tr>
-      <td>40575</td>
+      <td>40767</td>
       <td>20534</td>
       <td>1.40</td>
     </tr>
     <tr>
-      <td>40574</td>
+      <td>40766</td>
+      <td>438</td>
+      <td>1.40</td>
+    </tr>
+    <tr>
+      <td>40765</td>
       <td>20320</td>
       <td>1.45</td>
     </tr>
     <tr>
-      <td>40573</td>
-      <td>79071</td>
-      <td>1.45</td>
-    </tr>
-    <tr>
-      <td>40572</td>
+      <td>40764</td>
       <td>77362</td>
-      <td>1.45</td>
-    </tr>
-    <tr>
-      <td>40571</td>
-      <td>37222</td>
       <td>1.46</td>
     </tr>
     <tr>
-      <td>40570</td>
+      <td>40763</td>
+      <td>79071</td>
+      <td>1.46</td>
+    </tr>
+    <tr>
+      <td>40762</td>
+      <td>37222</td>
+      <td>1.47</td>
+    </tr>
+    <tr>
+      <td>40761</td>
       <td>44695</td>
       <td>1.48</td>
     </tr>
     <tr>
-      <td>40569</td>
+      <td>40760</td>
       <td>48006</td>
-      <td>1.49</td>
+      <td>1.50</td>
     </tr>
     <tr>
-      <td>40568</td>
+      <td>40759</td>
       <td>79469</td>
-      <td>1.52</td>
+      <td>1.53</td>
     </tr>
     <tr>
-      <td>40567</td>
+      <td>40758</td>
       <td>17343</td>
-      <td>1.52</td>
+      <td>1.53</td>
     </tr>
     <tr>
-      <td>40566</td>
+      <td>40757</td>
       <td>73327</td>
-      <td>1.54</td>
-    </tr>
-    <tr>
-      <td>40565</td>
-      <td>83276</td>
       <td>1.55</td>
     </tr>
     <tr>
-      <td>40564</td>
+      <td>40756</td>
+      <td>83276</td>
+      <td>1.56</td>
+    </tr>
+    <tr>
+      <td>40755</td>
       <td>55061</td>
-      <td>1.63</td>
+      <td>1.64</td>
     </tr>
   </tbody>
 </table></br>  </br>
 
- # matrix-blue-contract</br>
-## Updated on 2022-01-21</br>
+ # Contract: matrix-blue-contract</br>
+## Updated on 2022-01-23</br>
 - [Sorted by Nifty ID using addition method](./data/matrix-blue-contract/full_a_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using addition method](./data/matrix-blue-contract/full_a_sorted_rankingID.html) </br>
  - [Sorted by Nifty ID using multiplication method](./data/matrix-blue-contract/full_m_sorted_niftyID.html) </br>
@@ -622,127 +1184,127 @@ Please notice the reverse order  <table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>47036</td>
-      <td>21767.53</td>
+      <td>21885.63</td>
     </tr>
     <tr>
       <td>2</td>
       <td>55898</td>
-      <td>16002.03</td>
+      <td>16087.96</td>
     </tr>
     <tr>
       <td>3</td>
       <td>55194</td>
-      <td>15927.90</td>
+      <td>16013.67</td>
     </tr>
     <tr>
       <td>4</td>
       <td>13009</td>
-      <td>12759.71</td>
+      <td>12828.34</td>
     </tr>
     <tr>
       <td>5</td>
       <td>71381</td>
-      <td>10918.97</td>
+      <td>10977.52</td>
     </tr>
     <tr>
       <td>6</td>
       <td>27567</td>
-      <td>10861.53</td>
+      <td>10918.57</td>
     </tr>
     <tr>
       <td>7</td>
       <td>79979</td>
-      <td>10738.88</td>
+      <td>10795.71</td>
     </tr>
     <tr>
       <td>8</td>
       <td>13626</td>
-      <td>7643.87</td>
+      <td>7684.61</td>
     </tr>
     <tr>
       <td>9</td>
       <td>76582</td>
-      <td>7230.30</td>
+      <td>7268.52</td>
     </tr>
     <tr>
       <td>10</td>
       <td>45395</td>
-      <td>7201.16</td>
+      <td>7239.03</td>
     </tr>
     <tr>
       <td>11</td>
       <td>11621</td>
-      <td>5485.17</td>
+      <td>5513.61</td>
     </tr>
     <tr>
       <td>12</td>
       <td>7510</td>
-      <td>4587.55</td>
+      <td>4611.70</td>
     </tr>
     <tr>
       <td>13</td>
       <td>68164</td>
-      <td>4554.78</td>
+      <td>4576.09</td>
     </tr>
     <tr>
       <td>14</td>
       <td>74966</td>
-      <td>4503.01</td>
+      <td>4527.06</td>
     </tr>
     <tr>
       <td>15</td>
       <td>8779</td>
-      <td>4389.46</td>
+      <td>4412.25</td>
     </tr>
     <tr>
       <td>16</td>
       <td>47495</td>
-      <td>4388.80</td>
+      <td>4411.57</td>
     </tr>
     <tr>
       <td>17</td>
       <td>71447</td>
-      <td>4348.80</td>
+      <td>4371.73</td>
     </tr>
     <tr>
       <td>18</td>
       <td>55079</td>
-      <td>4014.62</td>
+      <td>4035.50</td>
     </tr>
     <tr>
       <td>19</td>
       <td>60553</td>
-      <td>3840.23</td>
+      <td>3859.93</td>
     </tr>
     <tr>
       <td>20</td>
       <td>92345</td>
-      <td>3702.46</td>
+      <td>3721.82</td>
     </tr>
     <tr>
       <td>21</td>
       <td>33754</td>
-      <td>3686.30</td>
+      <td>3705.34</td>
     </tr>
     <tr>
       <td>22</td>
       <td>62291</td>
-      <td>3668.81</td>
+      <td>3687.88</td>
     </tr>
     <tr>
       <td>23</td>
       <td>59354</td>
-      <td>3633.22</td>
+      <td>3652.02</td>
     </tr>
     <tr>
       <td>24</td>
       <td>83101</td>
-      <td>3318.94</td>
+      <td>3335.25</td>
     </tr>
     <tr>
       <td>25</td>
       <td>77787</td>
-      <td>3109.60</td>
+      <td>3124.21</td>
     </tr>
   </tbody>
 </table></br>
@@ -759,129 +1321,129 @@ Please notice the reverse order  <table border="1" class="dataframe">
   </thead>
   <tbody>
     <tr>
-      <td>10442</td>
+      <td>10499</td>
       <td>55147</td>
-      <td>126.31</td>
+      <td>126.27</td>
     </tr>
     <tr>
-      <td>10441</td>
+      <td>10498</td>
       <td>9710</td>
-      <td>131.46</td>
+      <td>131.53</td>
     </tr>
     <tr>
-      <td>10440</td>
+      <td>10497</td>
       <td>67484</td>
-      <td>138.38</td>
+      <td>138.44</td>
     </tr>
     <tr>
-      <td>10439</td>
+      <td>10496</td>
       <td>57833</td>
-      <td>139.44</td>
+      <td>139.57</td>
     </tr>
     <tr>
-      <td>10438</td>
+      <td>10495</td>
       <td>3854</td>
-      <td>142.29</td>
+      <td>142.27</td>
     </tr>
     <tr>
-      <td>10437</td>
+      <td>10494</td>
       <td>31010</td>
-      <td>144.63</td>
+      <td>144.74</td>
     </tr>
     <tr>
-      <td>10436</td>
+      <td>10493</td>
       <td>89282</td>
-      <td>145.33</td>
+      <td>145.13</td>
     </tr>
     <tr>
-      <td>10435</td>
+      <td>10492</td>
       <td>37366</td>
-      <td>145.41</td>
+      <td>145.40</td>
     </tr>
     <tr>
-      <td>10434</td>
-      <td>74676</td>
-      <td>147.18</td>
-    </tr>
-    <tr>
-      <td>10433</td>
+      <td>10491</td>
       <td>71129</td>
-      <td>147.26</td>
+      <td>147.10</td>
     </tr>
     <tr>
-      <td>10432</td>
+      <td>10490</td>
+      <td>74676</td>
+      <td>147.43</td>
+    </tr>
+    <tr>
+      <td>10489</td>
       <td>72078</td>
-      <td>147.75</td>
+      <td>147.78</td>
     </tr>
     <tr>
-      <td>10431</td>
+      <td>10488</td>
       <td>9525</td>
-      <td>148.33</td>
+      <td>148.16</td>
     </tr>
     <tr>
-      <td>10430</td>
+      <td>10487</td>
       <td>69477</td>
-      <td>148.80</td>
+      <td>148.90</td>
     </tr>
     <tr>
-      <td>10429</td>
+      <td>10486</td>
       <td>31223</td>
-      <td>148.96</td>
+      <td>148.99</td>
     </tr>
     <tr>
-      <td>10428</td>
+      <td>10485</td>
       <td>44241</td>
-      <td>150.39</td>
+      <td>150.44</td>
     </tr>
     <tr>
-      <td>10427</td>
+      <td>10484</td>
       <td>74923</td>
-      <td>151.28</td>
+      <td>151.43</td>
     </tr>
     <tr>
-      <td>10426</td>
-      <td>40873</td>
-      <td>152.07</td>
-    </tr>
-    <tr>
-      <td>10425</td>
+      <td>10483</td>
       <td>84109</td>
-      <td>152.14</td>
+      <td>151.77</td>
     </tr>
     <tr>
-      <td>10424</td>
-      <td>84016</td>
-      <td>152.24</td>
-    </tr>
-    <tr>
-      <td>10423</td>
+      <td>10482</td>
       <td>3057</td>
+      <td>152.23</td>
+    </tr>
+    <tr>
+      <td>10481</td>
+      <td>40873</td>
       <td>152.25</td>
     </tr>
     <tr>
-      <td>10422</td>
+      <td>10480</td>
+      <td>84016</td>
+      <td>152.27</td>
+    </tr>
+    <tr>
+      <td>10479</td>
       <td>76584</td>
-      <td>152.31</td>
+      <td>152.28</td>
     </tr>
     <tr>
-      <td>10421</td>
-      <td>56633</td>
-      <td>152.38</td>
-    </tr>
-    <tr>
-      <td>10420</td>
+      <td>10478</td>
       <td>62728</td>
-      <td>152.39</td>
+      <td>152.30</td>
     </tr>
     <tr>
-      <td>10419</td>
+      <td>10477</td>
       <td>78351</td>
-      <td>152.79</td>
+      <td>152.45</td>
     </tr>
     <tr>
-      <td>10418</td>
+      <td>10476</td>
+      <td>56633</td>
+      <td>152.64</td>
+    </tr>
+    <tr>
+      <td>10475</td>
       <td>18412</td>
-      <td>152.80</td>
+      <td>152.84</td>
     </tr>
   </tbody>
 </table></br>  </br>
@@ -899,127 +1461,127 @@ Please notice the reverse order  <table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>17601</td>
-      <td>58272648.79</td>
+      <td>58679197.10</td>
     </tr>
     <tr>
       <td>2</td>
       <td>47036</td>
-      <td>47335396.14</td>
+      <td>47793907.47</td>
     </tr>
     <tr>
       <td>3</td>
       <td>21677</td>
-      <td>42162065.10</td>
+      <td>42155949.75</td>
     </tr>
     <tr>
       <td>4</td>
       <td>55898</td>
-      <td>21133046.64</td>
+      <td>21254946.90</td>
     </tr>
     <tr>
       <td>5</td>
       <td>9260</td>
-      <td>20061894.95</td>
+      <td>20209640.31</td>
     </tr>
     <tr>
       <td>6</td>
       <td>90190</td>
-      <td>18558117.34</td>
+      <td>18587014.45</td>
     </tr>
     <tr>
       <td>7</td>
       <td>32839</td>
-      <td>16256343.09</td>
+      <td>16397978.02</td>
     </tr>
     <tr>
       <td>8</td>
       <td>1319</td>
-      <td>16066410.76</td>
+      <td>16047829.15</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>1884</td>
-      <td>11490308.47</td>
+      <td>21133</td>
+      <td>11430020.23</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>21133</td>
-      <td>11376530.93</td>
+      <td>1884</td>
+      <td>11414043.20</td>
     </tr>
     <tr>
       <td>11</td>
       <td>77787</td>
-      <td>11087130.55</td>
+      <td>11070706.26</td>
     </tr>
     <tr>
       <td>12</td>
       <td>16294</td>
-      <td>10748875.33</td>
+      <td>10828664.11</td>
     </tr>
     <tr>
       <td>13</td>
-      <td>21454</td>
-      <td>10565143.77</td>
+      <td>79308</td>
+      <td>10570553.17</td>
     </tr>
     <tr>
       <td>14</td>
-      <td>79308</td>
-      <td>10537801.08</td>
+      <td>21454</td>
+      <td>10543351.57</td>
     </tr>
     <tr>
       <td>15</td>
       <td>71381</td>
-      <td>10368309.54</td>
+      <td>10410283.85</td>
     </tr>
     <tr>
       <td>16</td>
       <td>17085</td>
-      <td>9999688.11</td>
+      <td>10048131.93</td>
     </tr>
     <tr>
       <td>17</td>
       <td>95783</td>
-      <td>9706599.18</td>
+      <td>9756820.23</td>
     </tr>
     <tr>
       <td>18</td>
       <td>95331</td>
-      <td>9610449.58</td>
+      <td>9648288.58</td>
     </tr>
     <tr>
       <td>19</td>
       <td>21218</td>
-      <td>9462000.48</td>
+      <td>9511706.83</td>
     </tr>
     <tr>
       <td>20</td>
-      <td>60553</td>
-      <td>9275376.38</td>
+      <td>66967</td>
+      <td>9300305.32</td>
     </tr>
     <tr>
       <td>21</td>
-      <td>66967</td>
-      <td>9264751.40</td>
+      <td>60553</td>
+      <td>9298972.61</td>
     </tr>
     <tr>
       <td>22</td>
       <td>92398</td>
-      <td>9127130.68</td>
+      <td>9155730.04</td>
     </tr>
     <tr>
       <td>23</td>
       <td>3651</td>
-      <td>8942643.81</td>
+      <td>8987508.04</td>
     </tr>
     <tr>
       <td>24</td>
       <td>48839</td>
-      <td>8444807.63</td>
+      <td>8367831.65</td>
     </tr>
     <tr>
       <td>25</td>
       <td>18717</td>
-      <td>8055920.03</td>
+      <td>8077794.94</td>
     </tr>
   </tbody>
 </table></br>
@@ -1036,129 +1598,129 @@ Please notice the reverse order  <table border="1" class="dataframe">
   </thead>
   <tbody>
     <tr>
-      <td>10442</td>
+      <td>10499</td>
       <td>57833</td>
-      <td>3138.10</td>
+      <td>3137.23</td>
     </tr>
     <tr>
-      <td>10441</td>
+      <td>10498</td>
       <td>55147</td>
-      <td>3491.97</td>
+      <td>3482.30</td>
     </tr>
     <tr>
-      <td>10440</td>
+      <td>10497</td>
       <td>9710</td>
-      <td>4236.21</td>
+      <td>4227.43</td>
     </tr>
     <tr>
-      <td>10439</td>
+      <td>10496</td>
       <td>18412</td>
-      <td>4283.05</td>
+      <td>4281.96</td>
     </tr>
     <tr>
-      <td>10438</td>
+      <td>10495</td>
       <td>3434</td>
-      <td>4606.39</td>
+      <td>4592.56</td>
     </tr>
     <tr>
-      <td>10437</td>
+      <td>10494</td>
       <td>23916</td>
-      <td>4637.53</td>
+      <td>4664.80</td>
     </tr>
     <tr>
-      <td>10436</td>
+      <td>10493</td>
       <td>67484</td>
-      <td>4864.97</td>
+      <td>4871.06</td>
     </tr>
     <tr>
-      <td>10435</td>
+      <td>10492</td>
       <td>44241</td>
-      <td>5108.44</td>
+      <td>5097.70</td>
     </tr>
     <tr>
-      <td>10434</td>
+      <td>10491</td>
       <td>33173</td>
-      <td>5156.99</td>
+      <td>5150.71</td>
     </tr>
     <tr>
-      <td>10433</td>
+      <td>10490</td>
       <td>12216</td>
-      <td>5159.93</td>
+      <td>5154.91</td>
     </tr>
     <tr>
-      <td>10432</td>
+      <td>10489</td>
       <td>71389</td>
-      <td>5169.13</td>
+      <td>5179.78</td>
     </tr>
     <tr>
-      <td>10431</td>
+      <td>10488</td>
       <td>87903</td>
-      <td>5192.70</td>
+      <td>5183.94</td>
     </tr>
     <tr>
-      <td>10430</td>
+      <td>10487</td>
       <td>20700</td>
-      <td>5313.51</td>
+      <td>5291.03</td>
     </tr>
     <tr>
-      <td>10429</td>
+      <td>10486</td>
       <td>37366</td>
-      <td>5526.39</td>
+      <td>5516.68</td>
     </tr>
     <tr>
-      <td>10428</td>
+      <td>10485</td>
       <td>31010</td>
-      <td>5696.48</td>
+      <td>5708.33</td>
     </tr>
     <tr>
-      <td>10427</td>
+      <td>10484</td>
       <td>6524</td>
-      <td>5961.52</td>
+      <td>5923.46</td>
     </tr>
     <tr>
-      <td>10426</td>
+      <td>10483</td>
       <td>75314</td>
-      <td>5989.07</td>
+      <td>5979.52</td>
     </tr>
     <tr>
-      <td>10425</td>
+      <td>10482</td>
       <td>5220</td>
-      <td>6029.60</td>
+      <td>6035.91</td>
     </tr>
     <tr>
-      <td>10424</td>
+      <td>10481</td>
       <td>2654</td>
-      <td>6082.20</td>
+      <td>6061.52</td>
     </tr>
     <tr>
-      <td>10423</td>
+      <td>10480</td>
       <td>67896</td>
-      <td>6257.29</td>
+      <td>6256.41</td>
     </tr>
     <tr>
-      <td>10422</td>
+      <td>10479</td>
       <td>26654</td>
-      <td>6415.40</td>
+      <td>6419.13</td>
     </tr>
     <tr>
-      <td>10421</td>
+      <td>10478</td>
       <td>70405</td>
-      <td>6465.90</td>
+      <td>6442.27</td>
     </tr>
     <tr>
-      <td>10420</td>
-      <td>43507</td>
-      <td>6474.94</td>
-    </tr>
-    <tr>
-      <td>10419</td>
+      <td>10477</td>
       <td>9525</td>
-      <td>6483.40</td>
+      <td>6442.30</td>
     </tr>
     <tr>
-      <td>10418</td>
+      <td>10476</td>
+      <td>43507</td>
+      <td>6466.21</td>
+    </tr>
+    <tr>
+      <td>10475</td>
       <td>78605</td>
-      <td>6571.67</td>
+      <td>6551.20</td>
     </tr>
   </tbody>
 </table></br>  
