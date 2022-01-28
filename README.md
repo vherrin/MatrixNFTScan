@@ -39,8 +39,8 @@ Rarity Score for a Trait Value = √√ (1 / (Number of Items with that Trait Va
 
 </br>
 
- # Contract: base (ckw5j7pqf0011g4731pvaj6gm)</br>
-## Updated on 2022-01-23</br>
+ # Contract: ckw5j7pqf0011g4731pvaj6gm</br>
+## Updated on 2022-01-28</br>
 - [Sorted by Nifty ID using addition method](./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using addition method](./data/ckw5j7pqf0011g4731pvaj6gm/full_a_sorted_rankingID.html) </br>
  - [Sorted by Nifty ID using multiplication method](./data/ckw5j7pqf0011g4731pvaj6gm/full_m_sorted_niftyID.html) </br>
@@ -602,7 +602,7 @@ Please notice the reverse order  <table border="1" class="dataframe">
 </table></br>  </br>
 
  # Contract: matrix-red-contract</br>
-## Updated on 2022-01-23</br>
+## Updated on 2022-01-28</br>
 - [Sorted by Nifty ID using addition method](./data/matrix-red-contract/full_a_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using addition method](./data/matrix-red-contract/full_a_sorted_rankingID.html) </br>
  - [Sorted by Nifty ID using multiplication method](./data/matrix-red-contract/full_m_sorted_niftyID.html) </br>
@@ -622,127 +622,127 @@ Please notice the reverse order  <table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>5090</td>
-      <td>10800.54</td>
+      <td>10872.45</td>
     </tr>
     <tr>
       <td>2</td>
       <td>96220</td>
-      <td>10798.65</td>
+      <td>10872.24</td>
     </tr>
     <tr>
       <td>3</td>
       <td>81743</td>
-      <td>10730.83</td>
+      <td>10804.30</td>
     </tr>
     <tr>
       <td>4</td>
       <td>41904</td>
-      <td>10725.47</td>
+      <td>10799.01</td>
     </tr>
     <tr>
       <td>5</td>
       <td>52958</td>
-      <td>10717.62</td>
+      <td>10790.12</td>
     </tr>
     <tr>
       <td>6</td>
       <td>84328</td>
-      <td>10707.18</td>
+      <td>10780.03</td>
     </tr>
     <tr>
       <td>7</td>
       <td>61440</td>
-      <td>10693.90</td>
+      <td>10766.78</td>
     </tr>
     <tr>
       <td>8</td>
       <td>51080</td>
-      <td>10690.63</td>
+      <td>10764.29</td>
     </tr>
     <tr>
       <td>9</td>
       <td>86889</td>
-      <td>10689.20</td>
+      <td>10761.46</td>
     </tr>
     <tr>
       <td>10</td>
       <td>86839</td>
-      <td>10676.32</td>
+      <td>10749.08</td>
     </tr>
     <tr>
       <td>11</td>
       <td>72688</td>
-      <td>10673.99</td>
+      <td>10746.34</td>
     </tr>
     <tr>
       <td>12</td>
       <td>88042</td>
-      <td>10650.99</td>
+      <td>10723.32</td>
     </tr>
     <tr>
       <td>13</td>
       <td>51216</td>
-      <td>10649.42</td>
+      <td>10721.94</td>
     </tr>
     <tr>
       <td>14</td>
       <td>74323</td>
-      <td>10640.39</td>
+      <td>10713.24</td>
     </tr>
     <tr>
       <td>15</td>
       <td>12530</td>
-      <td>10639.77</td>
+      <td>10712.40</td>
     </tr>
     <tr>
       <td>16</td>
       <td>31653</td>
-      <td>10636.24</td>
+      <td>10708.82</td>
     </tr>
     <tr>
       <td>17</td>
       <td>41240</td>
-      <td>10629.12</td>
+      <td>10701.89</td>
     </tr>
     <tr>
       <td>18</td>
       <td>89892</td>
-      <td>10623.39</td>
+      <td>10695.96</td>
     </tr>
     <tr>
       <td>19</td>
       <td>80020</td>
-      <td>10621.80</td>
+      <td>10693.52</td>
     </tr>
     <tr>
       <td>20</td>
       <td>61378</td>
-      <td>10614.74</td>
+      <td>10687.15</td>
     </tr>
     <tr>
       <td>21</td>
       <td>39160</td>
-      <td>10610.43</td>
+      <td>10683.07</td>
     </tr>
     <tr>
       <td>22</td>
-      <td>69853</td>
-      <td>10602.73</td>
+      <td>1373</td>
+      <td>10675.71</td>
     </tr>
     <tr>
       <td>23</td>
-      <td>1373</td>
-      <td>10602.64</td>
+      <td>69853</td>
+      <td>10675.38</td>
     </tr>
     <tr>
       <td>24</td>
       <td>81243</td>
-      <td>10601.14</td>
+      <td>10673.75</td>
     </tr>
     <tr>
       <td>25</td>
       <td>18763</td>
-      <td>10599.15</td>
+      <td>10671.98</td>
     </tr>
   </tbody>
 </table></br>
@@ -759,129 +759,129 @@ Please notice the reverse order  <table border="1" class="dataframe">
   </thead>
   <tbody>
     <tr>
-      <td>40779</td>
+      <td>41238</td>
       <td>133</td>
-      <td>33.44</td>
+      <td>33.27</td>
     </tr>
     <tr>
-      <td>40778</td>
+      <td>41237</td>
       <td>11569</td>
-      <td>33.70</td>
+      <td>33.54</td>
     </tr>
     <tr>
-      <td>40777</td>
+      <td>41236</td>
       <td>24874</td>
-      <td>35.77</td>
+      <td>35.53</td>
     </tr>
     <tr>
-      <td>40776</td>
+      <td>41235</td>
       <td>21376</td>
-      <td>37.22</td>
+      <td>37.08</td>
     </tr>
     <tr>
-      <td>40775</td>
+      <td>41234</td>
       <td>87275</td>
-      <td>37.37</td>
+      <td>37.16</td>
     </tr>
     <tr>
-      <td>40774</td>
+      <td>41233</td>
       <td>51412</td>
-      <td>37.61</td>
+      <td>37.45</td>
     </tr>
     <tr>
-      <td>40773</td>
+      <td>41232</td>
       <td>80475</td>
-      <td>37.76</td>
+      <td>37.65</td>
     </tr>
     <tr>
-      <td>40772</td>
+      <td>41231</td>
       <td>55061</td>
-      <td>38.25</td>
+      <td>38.05</td>
     </tr>
     <tr>
-      <td>40771</td>
+      <td>41230</td>
       <td>96113</td>
-      <td>38.27</td>
+      <td>38.06</td>
     </tr>
     <tr>
-      <td>40770</td>
+      <td>41229</td>
       <td>77362</td>
-      <td>38.27</td>
+      <td>38.09</td>
     </tr>
     <tr>
-      <td>40769</td>
+      <td>41228</td>
       <td>83276</td>
-      <td>38.54</td>
+      <td>38.38</td>
     </tr>
     <tr>
-      <td>40768</td>
+      <td>41227</td>
       <td>90304</td>
-      <td>39.17</td>
+      <td>39.01</td>
     </tr>
     <tr>
-      <td>40767</td>
+      <td>41226</td>
       <td>4367</td>
-      <td>39.23</td>
+      <td>39.07</td>
     </tr>
     <tr>
-      <td>40766</td>
-      <td>57932</td>
-      <td>39.29</td>
-    </tr>
-    <tr>
-      <td>40765</td>
+      <td>41225</td>
       <td>20534</td>
-      <td>39.29</td>
+      <td>39.09</td>
     </tr>
     <tr>
-      <td>40764</td>
+      <td>41224</td>
+      <td>57932</td>
+      <td>39.14</td>
+    </tr>
+    <tr>
+      <td>41223</td>
       <td>65129</td>
-      <td>39.51</td>
+      <td>39.32</td>
     </tr>
     <tr>
-      <td>40763</td>
+      <td>41222</td>
       <td>86248</td>
-      <td>39.61</td>
+      <td>39.47</td>
     </tr>
     <tr>
-      <td>40762</td>
+      <td>41221</td>
       <td>31178</td>
-      <td>39.88</td>
+      <td>39.74</td>
     </tr>
     <tr>
-      <td>40761</td>
+      <td>41220</td>
       <td>47364</td>
-      <td>39.93</td>
+      <td>39.79</td>
     </tr>
     <tr>
-      <td>40760</td>
+      <td>41219</td>
       <td>27989</td>
-      <td>40.86</td>
+      <td>40.57</td>
     </tr>
     <tr>
-      <td>40759</td>
+      <td>41218</td>
       <td>67644</td>
-      <td>41.12</td>
+      <td>40.96</td>
     </tr>
     <tr>
-      <td>40758</td>
+      <td>41217</td>
       <td>7959</td>
-      <td>41.31</td>
+      <td>41.11</td>
     </tr>
     <tr>
-      <td>40757</td>
+      <td>41216</td>
       <td>11909</td>
-      <td>41.40</td>
+      <td>41.13</td>
     </tr>
     <tr>
-      <td>40756</td>
+      <td>41215</td>
       <td>48954</td>
-      <td>41.44</td>
+      <td>41.23</td>
     </tr>
     <tr>
-      <td>40755</td>
-      <td>11216</td>
-      <td>41.52</td>
+      <td>41214</td>
+      <td>33699</td>
+      <td>41.29</td>
     </tr>
   </tbody>
 </table></br>  </br>
@@ -899,127 +899,127 @@ Please notice the reverse order  <table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>71216</td>
-      <td>492234.57</td>
+      <td>481732.09</td>
     </tr>
     <tr>
       <td>2</td>
       <td>19706</td>
-      <td>273102.95</td>
+      <td>270183.88</td>
     </tr>
     <tr>
       <td>3</td>
       <td>88736</td>
-      <td>210568.47</td>
+      <td>205146.09</td>
     </tr>
     <tr>
       <td>4</td>
       <td>12012</td>
-      <td>145673.71</td>
+      <td>141495.52</td>
     </tr>
     <tr>
       <td>5</td>
       <td>21728</td>
-      <td>135754.43</td>
+      <td>132616.16</td>
     </tr>
     <tr>
       <td>6</td>
       <td>12682</td>
-      <td>132229.64</td>
+      <td>128744.45</td>
     </tr>
     <tr>
       <td>7</td>
       <td>48088</td>
-      <td>112938.30</td>
+      <td>109220.08</td>
     </tr>
     <tr>
       <td>8</td>
       <td>11092</td>
-      <td>93521.87</td>
+      <td>90759.09</td>
     </tr>
     <tr>
       <td>9</td>
       <td>54604</td>
-      <td>78848.61</td>
+      <td>76512.74</td>
     </tr>
     <tr>
       <td>10</td>
       <td>66091</td>
-      <td>64336.68</td>
+      <td>63080.22</td>
     </tr>
     <tr>
       <td>11</td>
       <td>34221</td>
-      <td>63928.83</td>
+      <td>62571.27</td>
     </tr>
     <tr>
       <td>12</td>
       <td>73288</td>
-      <td>56943.59</td>
+      <td>55979.03</td>
     </tr>
     <tr>
       <td>13</td>
-      <td>41685</td>
-      <td>56710.42</td>
+      <td>86400</td>
+      <td>55061.80</td>
     </tr>
     <tr>
       <td>14</td>
-      <td>86400</td>
-      <td>56092.67</td>
+      <td>65611</td>
+      <td>54761.87</td>
     </tr>
     <tr>
       <td>15</td>
-      <td>65611</td>
-      <td>56005.65</td>
+      <td>41685</td>
+      <td>54225.88</td>
     </tr>
     <tr>
       <td>16</td>
       <td>66344</td>
-      <td>52914.51</td>
+      <td>51391.43</td>
     </tr>
     <tr>
       <td>17</td>
       <td>506</td>
-      <td>50544.26</td>
+      <td>49001.86</td>
     </tr>
     <tr>
       <td>18</td>
       <td>69107</td>
-      <td>47295.44</td>
+      <td>46486.63</td>
     </tr>
     <tr>
       <td>19</td>
-      <td>43625</td>
-      <td>46749.43</td>
+      <td>81249</td>
+      <td>45593.60</td>
     </tr>
     <tr>
       <td>20</td>
-      <td>66661</td>
-      <td>46425.01</td>
+      <td>43625</td>
+      <td>45480.79</td>
     </tr>
     <tr>
       <td>21</td>
-      <td>81249</td>
-      <td>46182.62</td>
+      <td>66661</td>
+      <td>45429.43</td>
     </tr>
     <tr>
       <td>22</td>
       <td>63363</td>
-      <td>45905.25</td>
+      <td>44614.29</td>
     </tr>
     <tr>
       <td>23</td>
-      <td>75064</td>
-      <td>43765.84</td>
+      <td>43562</td>
+      <td>42545.43</td>
     </tr>
     <tr>
       <td>24</td>
-      <td>43562</td>
-      <td>43693.48</td>
+      <td>75064</td>
+      <td>42141.47</td>
     </tr>
     <tr>
       <td>25</td>
       <td>71947</td>
-      <td>43359.86</td>
+      <td>42021.07</td>
     </tr>
   </tbody>
 </table></br>
@@ -1036,135 +1036,135 @@ Please notice the reverse order  <table border="1" class="dataframe">
   </thead>
   <tbody>
     <tr>
-      <td>40779</td>
+      <td>41238</td>
       <td>21376</td>
-      <td>0.93</td>
+      <td>0.91</td>
     </tr>
     <tr>
-      <td>40778</td>
+      <td>41237</td>
       <td>11569</td>
-      <td>0.97</td>
+      <td>0.95</td>
     </tr>
     <tr>
-      <td>40777</td>
+      <td>41236</td>
       <td>133</td>
+      <td>1.04</td>
+    </tr>
+    <tr>
+      <td>41235</td>
+      <td>87275</td>
+      <td>1.05</td>
+    </tr>
+    <tr>
+      <td>41234</td>
+      <td>27989</td>
       <td>1.06</td>
     </tr>
     <tr>
-      <td>40776</td>
-      <td>27989</td>
-      <td>1.08</td>
-    </tr>
-    <tr>
-      <td>40775</td>
-      <td>87275</td>
-      <td>1.09</td>
-    </tr>
-    <tr>
-      <td>40774</td>
+      <td>41233</td>
       <td>96113</td>
-      <td>1.18</td>
+      <td>1.14</td>
     </tr>
     <tr>
-      <td>40773</td>
+      <td>41232</td>
       <td>83460</td>
-      <td>1.19</td>
+      <td>1.16</td>
     </tr>
     <tr>
-      <td>40772</td>
+      <td>41231</td>
       <td>80475</td>
-      <td>1.23</td>
+      <td>1.21</td>
     </tr>
     <tr>
-      <td>40771</td>
+      <td>41230</td>
       <td>24874</td>
-      <td>1.28</td>
+      <td>1.24</td>
     </tr>
     <tr>
-      <td>40770</td>
+      <td>41229</td>
       <td>40952</td>
-      <td>1.32</td>
+      <td>1.29</td>
     </tr>
     <tr>
-      <td>40769</td>
+      <td>41228</td>
       <td>28851</td>
-      <td>1.32</td>
+      <td>1.29</td>
     </tr>
     <tr>
-      <td>40768</td>
+      <td>41227</td>
       <td>57932</td>
-      <td>1.39</td>
+      <td>1.36</td>
     </tr>
     <tr>
-      <td>40767</td>
+      <td>41226</td>
       <td>20534</td>
-      <td>1.40</td>
+      <td>1.36</td>
     </tr>
     <tr>
-      <td>40766</td>
+      <td>41225</td>
       <td>438</td>
-      <td>1.40</td>
+      <td>1.36</td>
     </tr>
     <tr>
-      <td>40765</td>
+      <td>41224</td>
+      <td>77362</td>
+      <td>1.42</td>
+    </tr>
+    <tr>
+      <td>41223</td>
+      <td>79071</td>
+      <td>1.42</td>
+    </tr>
+    <tr>
+      <td>41222</td>
+      <td>37222</td>
+      <td>1.42</td>
+    </tr>
+    <tr>
+      <td>41221</td>
       <td>20320</td>
+      <td>1.42</td>
+    </tr>
+    <tr>
+      <td>41220</td>
+      <td>44695</td>
       <td>1.45</td>
     </tr>
     <tr>
-      <td>40764</td>
-      <td>77362</td>
+      <td>41219</td>
+      <td>48006</td>
       <td>1.46</td>
     </tr>
     <tr>
-      <td>40763</td>
-      <td>79071</td>
-      <td>1.46</td>
-    </tr>
-    <tr>
-      <td>40762</td>
-      <td>37222</td>
-      <td>1.47</td>
-    </tr>
-    <tr>
-      <td>40761</td>
-      <td>44695</td>
+      <td>41218</td>
+      <td>17343</td>
       <td>1.48</td>
     </tr>
     <tr>
-      <td>40760</td>
-      <td>48006</td>
-      <td>1.50</td>
-    </tr>
-    <tr>
-      <td>40759</td>
+      <td>41217</td>
       <td>79469</td>
-      <td>1.53</td>
+      <td>1.49</td>
     </tr>
     <tr>
-      <td>40758</td>
-      <td>17343</td>
-      <td>1.53</td>
-    </tr>
-    <tr>
-      <td>40757</td>
+      <td>41216</td>
       <td>73327</td>
-      <td>1.55</td>
+      <td>1.51</td>
     </tr>
     <tr>
-      <td>40756</td>
+      <td>41215</td>
       <td>83276</td>
-      <td>1.56</td>
+      <td>1.53</td>
     </tr>
     <tr>
-      <td>40755</td>
+      <td>41214</td>
       <td>55061</td>
-      <td>1.64</td>
+      <td>1.60</td>
     </tr>
   </tbody>
 </table></br>  </br>
 
  # Contract: matrix-blue-contract</br>
-## Updated on 2022-01-23</br>
+## Updated on 2022-01-28</br>
 - [Sorted by Nifty ID using addition method](./data/matrix-blue-contract/full_a_sorted_niftyID.html) </br>
  - [Sorted by Ranking ID using addition method](./data/matrix-blue-contract/full_a_sorted_rankingID.html) </br>
  - [Sorted by Nifty ID using multiplication method](./data/matrix-blue-contract/full_m_sorted_niftyID.html) </br>
@@ -1184,127 +1184,127 @@ Please notice the reverse order  <table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>47036</td>
-      <td>21885.63</td>
+      <td>22036.78</td>
     </tr>
     <tr>
       <td>2</td>
       <td>55898</td>
-      <td>16087.96</td>
+      <td>16197.53</td>
     </tr>
     <tr>
       <td>3</td>
       <td>55194</td>
-      <td>16013.67</td>
+      <td>16122.98</td>
     </tr>
     <tr>
       <td>4</td>
       <td>13009</td>
-      <td>12828.34</td>
+      <td>12916.80</td>
     </tr>
     <tr>
       <td>5</td>
       <td>71381</td>
-      <td>10977.52</td>
+      <td>11052.82</td>
     </tr>
     <tr>
       <td>6</td>
       <td>27567</td>
-      <td>10918.57</td>
+      <td>10991.40</td>
     </tr>
     <tr>
       <td>7</td>
       <td>79979</td>
-      <td>10795.71</td>
+      <td>10868.93</td>
     </tr>
     <tr>
       <td>8</td>
       <td>13626</td>
-      <td>7684.61</td>
+      <td>7737.30</td>
     </tr>
     <tr>
       <td>9</td>
       <td>76582</td>
-      <td>7268.52</td>
+      <td>7317.14</td>
     </tr>
     <tr>
       <td>10</td>
       <td>45395</td>
-      <td>7239.03</td>
+      <td>7287.97</td>
     </tr>
     <tr>
       <td>11</td>
       <td>11621</td>
-      <td>5513.61</td>
+      <td>5550.64</td>
     </tr>
     <tr>
       <td>12</td>
       <td>7510</td>
-      <td>4611.70</td>
+      <td>4641.81</td>
     </tr>
     <tr>
       <td>13</td>
       <td>68164</td>
-      <td>4576.09</td>
+      <td>4602.42</td>
     </tr>
     <tr>
       <td>14</td>
       <td>74966</td>
-      <td>4527.06</td>
+      <td>4557.25</td>
     </tr>
     <tr>
       <td>15</td>
       <td>8779</td>
-      <td>4412.25</td>
+      <td>4441.16</td>
     </tr>
     <tr>
       <td>16</td>
       <td>47495</td>
-      <td>4411.57</td>
+      <td>4440.77</td>
     </tr>
     <tr>
       <td>17</td>
       <td>71447</td>
-      <td>4371.73</td>
+      <td>4400.87</td>
     </tr>
     <tr>
       <td>18</td>
       <td>55079</td>
-      <td>4035.50</td>
+      <td>4062.65</td>
     </tr>
     <tr>
       <td>19</td>
       <td>60553</td>
-      <td>3859.93</td>
+      <td>3882.63</td>
     </tr>
     <tr>
       <td>20</td>
       <td>92345</td>
-      <td>3721.82</td>
+      <td>3747.12</td>
     </tr>
     <tr>
       <td>21</td>
       <td>33754</td>
-      <td>3705.34</td>
+      <td>3729.34</td>
     </tr>
     <tr>
       <td>22</td>
       <td>62291</td>
-      <td>3687.88</td>
+      <td>3712.53</td>
     </tr>
     <tr>
       <td>23</td>
       <td>59354</td>
-      <td>3652.02</td>
+      <td>3676.41</td>
     </tr>
     <tr>
       <td>24</td>
       <td>83101</td>
-      <td>3335.25</td>
+      <td>3354.87</td>
     </tr>
     <tr>
       <td>25</td>
       <td>77787</td>
-      <td>3124.21</td>
+      <td>3143.43</td>
     </tr>
   </tbody>
 </table></br>
@@ -1321,129 +1321,129 @@ Please notice the reverse order  <table border="1" class="dataframe">
   </thead>
   <tbody>
     <tr>
-      <td>10499</td>
+      <td>10572</td>
       <td>55147</td>
-      <td>126.27</td>
+      <td>126.08</td>
     </tr>
     <tr>
-      <td>10498</td>
+      <td>10571</td>
       <td>9710</td>
-      <td>131.53</td>
+      <td>131.71</td>
     </tr>
     <tr>
-      <td>10497</td>
+      <td>10570</td>
       <td>67484</td>
       <td>138.44</td>
     </tr>
     <tr>
-      <td>10496</td>
+      <td>10569</td>
       <td>57833</td>
-      <td>139.57</td>
+      <td>139.79</td>
     </tr>
     <tr>
-      <td>10495</td>
+      <td>10568</td>
       <td>3854</td>
-      <td>142.27</td>
+      <td>142.16</td>
     </tr>
     <tr>
-      <td>10494</td>
+      <td>10567</td>
       <td>31010</td>
-      <td>144.74</td>
+      <td>144.53</td>
     </tr>
     <tr>
-      <td>10493</td>
-      <td>89282</td>
-      <td>145.13</td>
+      <td>10566</td>
+      <td>97539</td>
+      <td>145.16</td>
     </tr>
     <tr>
-      <td>10492</td>
+      <td>10565</td>
       <td>37366</td>
-      <td>145.40</td>
+      <td>145.22</td>
     </tr>
     <tr>
-      <td>10491</td>
+      <td>10564</td>
+      <td>89282</td>
+      <td>145.28</td>
+    </tr>
+    <tr>
+      <td>10563</td>
       <td>71129</td>
-      <td>147.10</td>
+      <td>147.07</td>
     </tr>
     <tr>
-      <td>10490</td>
+      <td>10562</td>
       <td>74676</td>
-      <td>147.43</td>
+      <td>147.30</td>
     </tr>
     <tr>
-      <td>10489</td>
+      <td>10561</td>
       <td>72078</td>
-      <td>147.78</td>
+      <td>147.71</td>
     </tr>
     <tr>
-      <td>10488</td>
+      <td>10560</td>
       <td>9525</td>
-      <td>148.16</td>
+      <td>148.10</td>
     </tr>
     <tr>
-      <td>10487</td>
+      <td>10559</td>
       <td>69477</td>
-      <td>148.90</td>
+      <td>148.77</td>
     </tr>
     <tr>
-      <td>10486</td>
+      <td>10558</td>
       <td>31223</td>
-      <td>148.99</td>
+      <td>148.84</td>
     </tr>
     <tr>
-      <td>10485</td>
+      <td>10557</td>
       <td>44241</td>
-      <td>150.44</td>
+      <td>150.37</td>
     </tr>
     <tr>
-      <td>10484</td>
+      <td>10556</td>
       <td>74923</td>
-      <td>151.43</td>
+      <td>151.27</td>
     </tr>
     <tr>
-      <td>10483</td>
+      <td>10555</td>
       <td>84109</td>
-      <td>151.77</td>
+      <td>151.72</td>
     </tr>
     <tr>
-      <td>10482</td>
-      <td>3057</td>
-      <td>152.23</td>
+      <td>10554</td>
+      <td>62728</td>
+      <td>151.99</td>
     </tr>
     <tr>
-      <td>10481</td>
-      <td>40873</td>
-      <td>152.25</td>
-    </tr>
-    <tr>
-      <td>10480</td>
+      <td>10553</td>
       <td>84016</td>
+      <td>152.13</td>
+    </tr>
+    <tr>
+      <td>10552</td>
+      <td>3057</td>
       <td>152.27</td>
     </tr>
     <tr>
-      <td>10479</td>
-      <td>76584</td>
-      <td>152.28</td>
-    </tr>
-    <tr>
-      <td>10478</td>
-      <td>62728</td>
-      <td>152.30</td>
-    </tr>
-    <tr>
-      <td>10477</td>
+      <td>10551</td>
       <td>78351</td>
-      <td>152.45</td>
+      <td>152.42</td>
     </tr>
     <tr>
-      <td>10476</td>
+      <td>10550</td>
+      <td>40873</td>
+      <td>152.47</td>
+    </tr>
+    <tr>
+      <td>10549</td>
+      <td>76584</td>
+      <td>152.49</td>
+    </tr>
+    <tr>
+      <td>10548</td>
       <td>56633</td>
-      <td>152.64</td>
-    </tr>
-    <tr>
-      <td>10475</td>
-      <td>18412</td>
-      <td>152.84</td>
+      <td>152.76</td>
     </tr>
   </tbody>
 </table></br>  </br>
@@ -1461,127 +1461,127 @@ Please notice the reverse order  <table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>17601</td>
-      <td>58679197.10</td>
+      <td>58937008.42</td>
     </tr>
     <tr>
       <td>2</td>
       <td>47036</td>
-      <td>47793907.47</td>
+      <td>48295401.78</td>
     </tr>
     <tr>
       <td>3</td>
       <td>21677</td>
-      <td>42155949.75</td>
+      <td>42116525.81</td>
     </tr>
     <tr>
       <td>4</td>
       <td>55898</td>
-      <td>21254946.90</td>
+      <td>21363961.13</td>
     </tr>
     <tr>
       <td>5</td>
       <td>9260</td>
-      <td>20209640.31</td>
+      <td>20194973.10</td>
     </tr>
     <tr>
       <td>6</td>
       <td>90190</td>
-      <td>18587014.45</td>
+      <td>18646609.07</td>
     </tr>
     <tr>
       <td>7</td>
       <td>32839</td>
-      <td>16397978.02</td>
+      <td>16501861.69</td>
     </tr>
     <tr>
       <td>8</td>
       <td>1319</td>
-      <td>16047829.15</td>
+      <td>15610330.88</td>
     </tr>
     <tr>
       <td>9</td>
       <td>21133</td>
-      <td>11430020.23</td>
+      <td>11511278.42</td>
     </tr>
     <tr>
       <td>10</td>
       <td>1884</td>
-      <td>11414043.20</td>
+      <td>11228589.74</td>
     </tr>
     <tr>
       <td>11</td>
       <td>77787</td>
-      <td>11070706.26</td>
+      <td>11043094.31</td>
     </tr>
     <tr>
       <td>12</td>
       <td>16294</td>
-      <td>10828664.11</td>
+      <td>10739867.76</td>
     </tr>
     <tr>
       <td>13</td>
       <td>79308</td>
-      <td>10570553.17</td>
+      <td>10640867.88</td>
     </tr>
     <tr>
       <td>14</td>
       <td>21454</td>
-      <td>10543351.57</td>
+      <td>10621366.58</td>
     </tr>
     <tr>
       <td>15</td>
       <td>71381</td>
-      <td>10410283.85</td>
+      <td>10538817.65</td>
     </tr>
     <tr>
       <td>16</td>
       <td>17085</td>
-      <td>10048131.93</td>
+      <td>10022162.59</td>
     </tr>
     <tr>
       <td>17</td>
       <td>95783</td>
-      <td>9756820.23</td>
+      <td>9677580.00</td>
     </tr>
     <tr>
       <td>18</td>
       <td>95331</td>
-      <td>9648288.58</td>
+      <td>9672521.49</td>
     </tr>
     <tr>
       <td>19</td>
       <td>21218</td>
-      <td>9511706.83</td>
+      <td>9362026.18</td>
     </tr>
     <tr>
       <td>20</td>
-      <td>66967</td>
-      <td>9300305.32</td>
+      <td>60553</td>
+      <td>9261018.26</td>
     </tr>
     <tr>
       <td>21</td>
-      <td>60553</td>
-      <td>9298972.61</td>
+      <td>92398</td>
+      <td>9252534.91</td>
     </tr>
     <tr>
       <td>22</td>
-      <td>92398</td>
-      <td>9155730.04</td>
+      <td>66967</td>
+      <td>9247716.25</td>
     </tr>
     <tr>
       <td>23</td>
       <td>3651</td>
-      <td>8987508.04</td>
+      <td>9052847.49</td>
     </tr>
     <tr>
       <td>24</td>
       <td>48839</td>
-      <td>8367831.65</td>
+      <td>8285484.66</td>
     </tr>
     <tr>
       <td>25</td>
       <td>18717</td>
-      <td>8077794.94</td>
+      <td>8197730.71</td>
     </tr>
   </tbody>
 </table></br>
@@ -1598,129 +1598,129 @@ Please notice the reverse order  <table border="1" class="dataframe">
   </thead>
   <tbody>
     <tr>
-      <td>10499</td>
+      <td>10572</td>
       <td>57833</td>
-      <td>3137.23</td>
+      <td>3146.36</td>
     </tr>
     <tr>
-      <td>10498</td>
+      <td>10571</td>
       <td>55147</td>
-      <td>3482.30</td>
+      <td>3472.00</td>
     </tr>
     <tr>
-      <td>10497</td>
+      <td>10570</td>
       <td>9710</td>
-      <td>4227.43</td>
+      <td>4243.21</td>
     </tr>
     <tr>
-      <td>10496</td>
+      <td>10569</td>
       <td>18412</td>
-      <td>4281.96</td>
+      <td>4289.70</td>
     </tr>
     <tr>
-      <td>10495</td>
+      <td>10568</td>
       <td>3434</td>
-      <td>4592.56</td>
+      <td>4588.01</td>
     </tr>
     <tr>
-      <td>10494</td>
+      <td>10567</td>
       <td>23916</td>
-      <td>4664.80</td>
+      <td>4632.43</td>
     </tr>
     <tr>
-      <td>10493</td>
+      <td>10566</td>
       <td>67484</td>
-      <td>4871.06</td>
+      <td>4873.40</td>
     </tr>
     <tr>
-      <td>10492</td>
+      <td>10565</td>
       <td>44241</td>
-      <td>5097.70</td>
+      <td>5100.65</td>
     </tr>
     <tr>
-      <td>10491</td>
+      <td>10564</td>
       <td>33173</td>
-      <td>5150.71</td>
+      <td>5155.25</td>
     </tr>
     <tr>
-      <td>10490</td>
+      <td>10563</td>
       <td>12216</td>
-      <td>5154.91</td>
+      <td>5166.09</td>
     </tr>
     <tr>
-      <td>10489</td>
+      <td>10562</td>
       <td>71389</td>
-      <td>5179.78</td>
+      <td>5186.76</td>
     </tr>
     <tr>
-      <td>10488</td>
+      <td>10561</td>
       <td>87903</td>
-      <td>5183.94</td>
+      <td>5193.75</td>
     </tr>
     <tr>
-      <td>10487</td>
+      <td>10560</td>
       <td>20700</td>
-      <td>5291.03</td>
+      <td>5267.23</td>
     </tr>
     <tr>
-      <td>10486</td>
+      <td>10559</td>
       <td>37366</td>
-      <td>5516.68</td>
+      <td>5510.97</td>
     </tr>
     <tr>
-      <td>10485</td>
+      <td>10558</td>
       <td>31010</td>
-      <td>5708.33</td>
+      <td>5687.16</td>
     </tr>
     <tr>
-      <td>10484</td>
+      <td>10557</td>
       <td>6524</td>
-      <td>5923.46</td>
+      <td>5934.69</td>
     </tr>
     <tr>
-      <td>10483</td>
+      <td>10556</td>
       <td>75314</td>
-      <td>5979.52</td>
+      <td>5973.97</td>
     </tr>
     <tr>
-      <td>10482</td>
+      <td>10555</td>
       <td>5220</td>
-      <td>6035.91</td>
+      <td>6019.43</td>
     </tr>
     <tr>
-      <td>10481</td>
+      <td>10554</td>
       <td>2654</td>
-      <td>6061.52</td>
+      <td>6023.41</td>
     </tr>
     <tr>
-      <td>10480</td>
+      <td>10553</td>
       <td>67896</td>
-      <td>6256.41</td>
+      <td>6238.61</td>
     </tr>
     <tr>
-      <td>10479</td>
-      <td>26654</td>
-      <td>6419.13</td>
-    </tr>
-    <tr>
-      <td>10478</td>
-      <td>70405</td>
-      <td>6442.27</td>
-    </tr>
-    <tr>
-      <td>10477</td>
+      <td>10552</td>
       <td>9525</td>
-      <td>6442.30</td>
+      <td>6424.48</td>
     </tr>
     <tr>
-      <td>10476</td>
+      <td>10551</td>
+      <td>26654</td>
+      <td>6427.49</td>
+    </tr>
+    <tr>
+      <td>10550</td>
+      <td>70405</td>
+      <td>6459.79</td>
+    </tr>
+    <tr>
+      <td>10549</td>
       <td>43507</td>
-      <td>6466.21</td>
+      <td>6470.44</td>
     </tr>
     <tr>
-      <td>10475</td>
+      <td>10548</td>
       <td>78605</td>
-      <td>6551.20</td>
+      <td>6532.61</td>
     </tr>
   </tbody>
 </table></br>  

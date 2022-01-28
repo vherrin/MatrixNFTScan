@@ -79,7 +79,7 @@
 40078,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40079,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40080,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-40081,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40081,Master,None,Read beginner’s guide to hacking - Y2K edition,70's Hatchback,Sales Associate,12,7,0,1,9,52968,8,699,9,1,1,Black Smartphone,,,,,Black Suede Chelseas with Brown Sole,Navy Slacks,Gray Oxford with Tie,Mustache,Black,Short Updo,White Light Rain
 40082,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40083,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40084,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -246,7 +246,7 @@
 40245,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40246,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40247,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-40248,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40248,Graduate,None,Subscribed to 2600,Three Wheel Roadster,Blockchain Engineer,9,11,777,6,13,35555,7,711,10,1,1,Black Leather Briefcase,,,,,Brown Leather Shoes with Laces,Dark-Wash Denim,Light Gray Cardigan with Off-White Longsleeve Shirt,Stubble,Light Grey,Buzz Cut,White Light Rain
 40249,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40250,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40251,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -770,7 +770,7 @@
 40769,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40770,Master,None,Read the Bitcoin white paper twice,Electric Car,Electrician,12,10,777,6,12,76302,9,699,9,1,1,Black Smartphone,,,,,White Canvas Sneaker with White Sole,Navy Slacks,Brown Cardigan with Tan Longsleeve Shirt,,Light Brown,Straight Sideswept Fringe,White Light Rain
 40771,Teacher,None,Read the Bitcoin white paper twice,Pragmatic Coupe,Day Trader,11,10,51,3,10,35555,7,711,10,1,1,Lunchbox,,,,,White Canvas Sneaker with White Sole,,Navy Jumpsuit,,Black,Short Messy,White Light Rain
-40772,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40772,Disciple,None,Read the Bitcoin white paper twice,70's Hatchback,Assistant to the Regional Manager,10,10,128,4,9,76302,9,610,7,1,1,Black Smartphone,,,,Ring One Blue,Tan Suede Workboot with Tan Sole,Navy Slacks,Blue Longsleeve,,Blonde,Medium Curly Bob,White Heavy Rain
 40773,Teacher,None,Know your way around a spreadsheet,Low Rider,Sales Associate,11,6,31133,10,11,560133,14,661,8,1,1,Brown Leather Briefcase,,,,,White Canvas Sneaker with White Sole,Dark-Wash Denim,Navy Blazer with Striped Shirt and No Tie,Goatee,Black,Short Afro Fade,White Medium Rain
 40774,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40775,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1098,8 +1098,8 @@
 41097,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41098,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41099,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41100,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41101,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41100,Disciple,None,Earned an MIT Computer Sciences Diploma,Pragmatic Coupe,Electrician,10,14,128,4,10,35555,7,711,10,1,1,,,,,,Black Suede Chelseas with Brown Sole,Charcoal Slacks,Navy Blazer with Striped Shirt and Navy Tie,,Light Brown,Long Straight Bangs,White Medium Rain
+41101,Disciple,None,Pretty good with GW Basic,Low Rider,Talent Agent,10,9,128,4,11,35555,7,457,4,1,1,,,Black Books,,,Black Suede Chelseas with Brown Sole,Dark-Wash Denim,Olive Oxford with Buttons,,Black,Short Pixie,White Medium Rain
 41102,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41103,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41104,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2406,7 +2406,7 @@
 42405,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42406,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42407,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42408,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42408,Graduate,None,Subscribed to 2600,Electric Car,Talent Agent,9,11,516,5,12,52968,8,711,10,1,1,Lunchbox,,Black Books,,,Brown Leather Shoes with Laces,Dark-Wash Denim,Navy Oxford with Tie,,Dark Brown,Short Pixie,White Heavy Rain
 42409,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42410,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42411,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2904,7 +2904,7 @@
 42903,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42904,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42905,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42906,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42906,Graduate,None,Read the Bitcoin white paper twice,Light-Up Folding Scooter,Assistant to the Regional Manager,9,10,777,6,5,5260,4,739,12,1,1,Lunchbox,,,Tan Worker's Cap,Two Rings,Tan Suede Workboot with Tan Sole,Khaki,Olive Oxford with Tie and Pocket,,Light Grey,,White Medium Rain
 42907,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42908,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42909,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3508,10 +3508,10 @@
 43507,Teacher,None,Subscribed to 2600,Pragmatic Coupe,Assistant to the Regional Manager,11,11,516,5,10,52968,8,711,10,1,1,,,,,,Black Leather Shoes with Laces,Gray Slacks,Olive Oxford with Tie,,Black,Low Ponytail,White Heavy Rain
 43508,Disciple,None,Subscribed to 2600,Low Rider,Talent Agent,10,11,12453,9,11,76302,9,610,7,1,1,Brown Leather Briefcase,,,,,Tan Suede Workboot with Tan Sole,Gray Slacks,Navy Oxford with Buttons,,Dark Brown,Short Pixie,White Light Rain
 43509,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-43510,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43510,Budding Scholar,None,Stole a high school computer lab pass,Pragmatic Coupe,Blockchain Engineer,8,12,4981,8,10,22576,6,753,13,1,1,Brown Leather Briefcase,,,Tan Worker's Cap,,White Leather Sneaker with Grey Sole,Light-Wash Denim,Navy Oxford with Tie,Stubble,Light Brown,Buzz Cut,White Medium Rain
 43511,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43512,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-43513,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43513,Disciple,None,Subscribed to 2600,Low Rider,Legal Assistant,10,11,1993,7,11,92000,10,777,14,1,1,Brown Leather Briefcase,,,,,White Canvas Sneaker with White Sole,Gray Slacks,Charcoal Blazer with Light Blue Shirt and Black Tie,,Light Brown,Short Afro Fade,White Heavy Rain
 43514,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43515,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43516,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4391,7 +4391,7 @@
 44390,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44391,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44392,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-44393,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44393,Budding Scholar,None,Read beginner’s guide to hacking - Y2K edition,Pragmatic Coupe,Night Shift Supervisor,8,7,1993,7,10,92000,10,699,9,1,1,Black Smartphone,,,,,Black Suede Chelseas with Brown Sole,Navy Slacks,Blue Longsleeve,,Auburn,Short Afro Fade,White Heavy Rain
 44394,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44395,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44396,Teacher,None,Read the Bitcoin white paper twice,Low Rider,Receptionist,11,10,12453,9,11,22576,6,711,10,1,1,Black Smartphone,,,,,Black Suede Chelseas with Brown Sole,Navy Slacks,Navy Blazer with Striped Shirt and No Tie,,Dark Brown,Straight Sideswept Fringe,White Light Rain
